@@ -19,7 +19,13 @@ Use **August 6, 2026** as the internal target for Module 3 learning activities a
 
 ## Drafts
 
+- [Module 3 task tracker](module3-task-tracker.md)
+- [What do you know discussion draft](what-do-you-know-discussion-draft.md)
 - [Module 3 journal draft](module3-journal-draft.md)
 - [AAC review discussion draft](aac-review-discussion-draft.md)
 - [Communication Support Plan draft](communication-support-plan-draft.md)
+- [Takeaways discussion draft](takeaways-discussion-draft.md)
 
+## Response Thread
+
+All Module 3 responses should keep the same argument: meaningful communication is not limited to speech or devices. AAC, visual supports, home-school logs, peer communication, and backup systems should give students real agency across the day.

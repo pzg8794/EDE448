@@ -20,9 +20,16 @@ July 13, 2026.
 
 ## Drafts
 
+- [Module 1 task tracker](module1-task-tracker.md)
+- [What do you know discussion draft](what-do-you-know-discussion-draft.md)
 - [Module 1 journal draft](module1-journal-draft.md)
 - [Sensory Walk Experience draft](sensory-walk-experience-draft.md)
 - [Teach a Kit for Kids Lesson draft](kit-for-kids-lesson-draft.md)
+- [Takeaways discussion draft](takeaways-discussion-draft.md)
+
+## Response Thread
+
+All Module 1 responses should keep the same argument: developmental differences are understood through systems, stories, environments, labels, and lived experience. The assignment work should show that educators can move from deficit interpretation to access design.
 
 ## Recommended Source Set
 
@@ -32,4 +39,3 @@ To keep the submission coherent with the Puzzle Plan / disability justice throug
 - One lived-experience or critical autism studies source, such as Davidson / Worlds of Autism or Harvey.
 - One practical inclusion source, such as Smith, Denning and Moody, or the OAR Kit for Kids resources.
 - One media source that centers autistic experience, such as *Autism: Insight from Inside*, *Unspoken*, *Best Kept Secret*, or a relevant podcast.
-
