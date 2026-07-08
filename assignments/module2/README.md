@@ -21,6 +21,7 @@ Use **July 22, 2026** as the internal target because the syllabus assignment sum
 ## Drafts
 
 - [Module 2 task tracker](module2-task-tracker.md)
+- [Local readings index](readings-index.md)
 - [What do you know discussion draft](what-do-you-know-discussion-draft.md)
 - [Module 2 journal draft](module2-journal-draft.md)
 - [Prevent-Teach-Reinforce planning draft](prevent-teach-reinforce-planning-draft.md)

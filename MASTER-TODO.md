@@ -20,20 +20,20 @@ Last updated: July 8, 2026
 | Module | Date Target | Task | Current State | Must Verify Before Submission |
 | --- | --- | --- | --- | --- |
 | 1 | July 13 | What do you already know discussion | Draft exists | Add personal starting point and course-specific language |
-| 1 | July 13 | Read three texts | Planned | Name the actual three selected readings |
+| 1 | July 13 | Read three texts | Planned; see [Module 1 readings](assignments/module1/readings-index.md) | Name the actual three selected readings |
 | 1 | July 13 | Watch/listen to one media source | Planned | Name the actual media and add one concrete moment |
 | 1 | July 13 | Journal | Draft exists | Add citations and media moment |
 | 1 | July 13 | Sensory Walk Experience | Draft exists | Add actual location, observation details, and true recommendations |
 | 1 | July 13 | Teach a Kit for Kids Lesson | Draft exists | Add actual grade/group, resource used, student responses, and reflection |
 | 1 | July 13 | Takeaways discussion | Draft exists | Add one reading/media connection |
 | 2 | July 22 target | What do you already know discussion | Draft exists | Add starting assumptions and question for peers |
-| 2 | July 22 target | Read three texts, including PTR | Planned | Select exact PTR chapter/resource and two other readings |
+| 2 | July 22 target | Read three texts, including PTR | Planned; see [Module 2 readings](assignments/module2/readings-index.md) | Select exact PTR chapter/resource and two other readings |
 | 2 | July 22 target | Journal | Draft exists | Add PTR citation and one Module 2 reading/media connection |
 | 2 | July 22 target | Prevent-Teach-Reinforce Planning | Draft exists | Complete the exact Dunlap PTR resource/checklist |
 | 2 | July 22 target | Positive Classroom Support Plan | Draft exists | Add formal citations and any visual/table component |
 | 2 | July 22 target | Takeaways discussion | Draft exists | Add one concrete support shift from the module |
 | 3 | August 6 target | What do you already know discussion | Draft exists | Add starting AAC/communication assumptions |
-| 3 | August 6 target | Read three texts | Planned | Select exact readings |
+| 3 | August 6 target | Read three texts | Planned; see [Module 3 readings](assignments/module3/readings-index.md) | Select exact readings |
 | 3 | August 6 target | Watch/listen to one media source | Planned | Add one media example |
 | 3 | August 6 target | Journal | Draft exists | Add readings/media and classroom routine example |
 | 3 | August 6 target | AAC Review discussion | Draft exists | Verify selected tool details and add visuals if needed |

@@ -21,6 +21,7 @@ My working personal lens is:
 - [Deadlines and work due](docs/deadlines.md)
 - [Weekly work plan](docs/work-plan.md)
 - [Source map](docs/source-map.md)
+- [Local readings index](docs/local-readings-index.md)
 - [Clickable artifact/source index](docs/artifact-index.md)
 - [Response theme guide](docs/response-theme-guide.md)
 - [PhD and Puzzle Plan alignment](docs/phd-puzzle-plan-alignment.md)

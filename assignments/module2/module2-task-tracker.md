@@ -13,8 +13,8 @@ Use July 22, 2026 as the internal target. The detailed module window runs throug
 | Task | Status | Draft / Evidence | Finalization Needed |
 | --- | --- | --- | --- |
 | Opening discussion: what do you already know? | Drafted | [What do you know draft](what-do-you-know-discussion-draft.md) | Add a specific starting question about behavior/support |
-| Read required PTR chapter/resource | Planned | Dunlap et al. PTR text | Choose exact chapter/appendix and complete resource |
-| Read two additional texts | Planned | Module 2 readings | Select exact citations |
+| Read required PTR chapter/resource | Planned | [Local readings index](readings-index.md) | Choose exact chapter/appendix and complete resource |
+| Read two additional texts | Planned | [Local readings index](readings-index.md) | Select exact citations |
 | Watch/listen to media | Optional | Media source if chosen | Add only if useful |
 | Module 2 journal | Drafted | [Journal draft](module2-journal-draft.md) | Add exact PTR and reading citations |
 | Prevent-Teach-Reinforce Planning | Drafted | [PTR draft](prevent-teach-reinforce-planning-draft.md) | Attach/complete exact PTR checklist/resource |
@@ -32,4 +32,3 @@ Use July 22, 2026 as the internal target. The detailed module window runs throug
 ## Module 2 Reference Thread
 
 Use this module to show that behavior support should not become compliance training. The stronger argument is that prevention, teaching, and reinforcement can protect dignity when they expand communication, choice, regulation, participation, and repair.
-
