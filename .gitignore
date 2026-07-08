@@ -1,0 +1,24 @@
+.DS_Store
+Icon?
+**/Icon?
+
+# Keep the public repo focused on original course documentation and work products.
+# Raw Blackboard exports, readings, instructor files, media, and downloaded packets
+# stay local or in Google Drive unless a specific item is cleared for public release.
+*.pdf
+*.docx
+*.pptx
+*.png
+*.jpg
+*.jpeg
+*.txt
+*.zip
+
+/Module1/
+/Module2/
+/Module3/
+/Summer 2026 EDE 448 /
+/Comulative Assignment Information/
+/anouncement/
+/Group B_ Joyful Literacies.pdf
+/Module Directions.pdf
