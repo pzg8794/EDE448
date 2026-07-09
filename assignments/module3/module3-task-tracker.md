@@ -12,14 +12,14 @@ Use August 6, 2026 as the Module 3 target and August 7, 2026 as the graduation/f
 
 | Task | Status | Draft / Evidence | Finalization Needed |
 | --- | --- | --- | --- |
-| Opening discussion: what do you already know? | Drafted | [What do you know draft](what-do-you-know-discussion-draft.md) | Add starting assumptions about AAC/communication |
+| Opening discussion: what do you know? | Ready to post | [What do you know response](what-do-you-know-discussion-draft.md) | Final human review before Blackboard submission |
 | Read three texts | Planned | [Local readings index](readings-index.md); [themed reading summaries](reading-summaries/README.md) | Select exact three readings and citations |
 | Watch/listen to one media source | Planned | Module 3 media | Add concrete moment to journal/takeaways |
 | Module 3 journal | Drafted | [Journal draft](module3-journal-draft.md) | Add selected readings/media and one routine example |
 | AAC Review discussion | Drafted | [AAC review draft](aac-review-discussion-draft.md) | Add final tool details, visuals, and citations/links |
 | Classmate replies | Template drafted | In AAC review draft | Write after classmates post |
 | Communication Support Plan | Drafted | [Communication plan draft](communication-support-plan-draft.md) | Add student/context details and course citations |
-| Takeaways discussion | Drafted | [Takeaways draft](takeaways-discussion-draft.md) | Add one reading/media connection |
+| Takeaways discussion | Ready to post | [Takeaways response](takeaways-discussion-draft.md) | Final human review before Blackboard submission |
 
 ## Module 3 Portfolio Harvest
 

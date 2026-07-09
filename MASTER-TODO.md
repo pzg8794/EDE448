@@ -1,6 +1,6 @@
 # EDE448 Master Task And Assignment Tracker
 
-Last updated: July 8, 2026
+Last updated: July 9, 2026
 
 ## Course Throughline
 
@@ -12,7 +12,7 @@ Last updated: July 8, 2026
 | --- | --- | --- | --- | --- |
 | 1 | July 13, 2026 | Finish Module 1 opening discussion, readings/media, journal, Sensory Walk, Kit for Kids lesson, and takeaways | Drafted; needs lived details and citations | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
 | 2 | July 22, 2026 internal target | Start and finish Module 2 PTR work early because of the due-date inconsistency | Drafted; needs exact PTR appendix/checklist and citations | [Module 2 tracker](assignments/module2/module2-task-tracker.md) |
-| 3 | August 6-7, 2026 | Build Module 3 AAC/communication work and final portfolio together | Drafted; needs tool screenshots/details and readings | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
+| 3 | August 6-7, 2026 | Build Module 3 AAC/communication work and final portfolio together | Discussions ready; AAC review/plan still need final details | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
 | 4 | August 7, 2026 | Assemble final 10-resource support portfolio | Planned; needs final resource pages | [Portfolio plan](portfolio/portfolio-plan.md) |
 
 ## Whole-Course Work Breakdown
@@ -32,13 +32,14 @@ Last updated: July 8, 2026
 | 2 | July 22 target | Prevent-Teach-Reinforce Planning | Draft exists | Complete the exact Dunlap PTR resource/checklist |
 | 2 | July 22 target | Positive Classroom Support Plan | Draft exists | Add formal citations and any visual/table component |
 | 2 | July 22 target | Takeaways discussion | Draft exists | Add one concrete support shift from the module |
-| 3 | August 6 target | What do you already know discussion | Draft exists | Add starting AAC/communication assumptions |
+| 3 | August 6 target | What do you know discussion | Ready to post | Final human review before Blackboard submission |
 | 3 | August 6 target | Read three texts | Planned; see [Module 3 readings](assignments/module3/readings-index.md) | Select exact readings |
 | 3 | August 6 target | Watch/listen to one media source | Planned | Add one media example |
 | 3 | August 6 target | Journal | Draft exists | Add readings/media and classroom routine example |
 | 3 | August 6 target | AAC Review discussion | Draft exists | Verify selected tool details and add visuals if needed |
 | 3 | August 6 target | Classmate replies | Template exists | Write after classmates post |
 | 3 | August 7 target | Communication Support Plan | Draft exists | Add exact student/context details and citations |
+| 3 | August 6 target | Takeaways discussion | Ready to post | Final human review before Blackboard submission |
 | Final | August 7 | 10-resource portfolio | Planned | Convert module artifacts into polished 1-2 page resource pages |
 
 ## Reference Threads To Keep Coherent

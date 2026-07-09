@@ -29,11 +29,11 @@ This folder contains public-safe assignment drafts, planning notes, and submissi
 - [Module 3 overview](module3/README.md)
 - [Module 3 task tracker](module3/module3-task-tracker.md)
 - [Module 3 themed reading summaries](module3/reading-summaries/README.md)
-- [What do you know discussion draft](module3/what-do-you-know-discussion-draft.md)
+- [What do you know discussion response](module3/what-do-you-know-discussion-draft.md)
 - [Journal draft](module3/module3-journal-draft.md)
 - [AAC review discussion draft](module3/aac-review-discussion-draft.md)
 - [Communication Support Plan draft](module3/communication-support-plan-draft.md)
-- [Takeaways discussion draft](module3/takeaways-discussion-draft.md)
+- [Takeaways discussion response](module3/takeaways-discussion-draft.md)
 
 ## Submission Rule
 
