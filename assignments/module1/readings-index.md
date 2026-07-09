@@ -38,9 +38,10 @@ Use this set if you want the Module 1 drafts to stay aligned with the course the
 
 ## Where To Use These
 
+- [Module 1 themed reading summaries](reading-summaries/README.md)
+- [Module 1 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
 - [Module 1 tracker](module1-task-tracker.md)
 - [Module 1 journal draft](module1-journal-draft.md)
 - [Sensory Walk draft](sensory-walk-experience-draft.md)
 - [Kit for Kids draft](kit-for-kids-lesson-draft.md)
 - [Takeaways discussion draft](takeaways-discussion-draft.md)
-

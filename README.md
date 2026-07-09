@@ -42,15 +42,23 @@ My working personal lens is:
 | August 6, 2026 target; August 7 graduation target | Module 3 journal, AAC review discussion, Communication Support Plan | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
 | August 7, 2026 | Communication and Positive Behavioral Support Strategies and Resources Portfolio | [Portfolio plan](portfolio/portfolio-plan.md) |
 
+## Themed Reading References
+
+Use these before drafting journals, discussions, assignments, and portfolio pages:
+
+- [Module 1 comprehensive themed overview](assignments/module1/reading-summaries/comprehensive_themed_overview.md)
+- [Module 2 comprehensive themed overview](assignments/module2/reading-summaries/comprehensive_themed_overview.md)
+- [Module 3 comprehensive themed overview](assignments/module3/reading-summaries/comprehensive_themed_overview.md)
+
 ## Directory Map
 
 | Path | Purpose |
 | --- | --- |
 | `MASTER-TODO.md` | Master task tracker for every module, assignment, and portfolio item |
 | `docs/` | Course scope, deadlines, work plan, source map, artifact index, AI-use log, calendar |
-| `assignments/module1/` | Module 1 tracker, discussions, journal, Sensory Walk, Kit for Kids drafts |
-| `assignments/module2/` | Module 2 tracker, discussions, journal, PTR, Positive Classroom Support Plan drafts |
-| `assignments/module3/` | Module 3 tracker, discussions, journal, AAC Review, Communication Support Plan drafts |
+| `assignments/module1/` | Module 1 tracker, discussions, journal, Sensory Walk, Kit for Kids drafts, and reading summaries |
+| `assignments/module2/` | Module 2 tracker, discussions, journal, PTR, Positive Classroom Support Plan drafts, and reading summaries |
+| `assignments/module3/` | Module 3 tracker, discussions, journal, AAC Review, Communication Support Plan drafts, and reading summaries |
 | `portfolio/` | Final 10-resource portfolio plan and reusable resource template |
 | `public-artifacts/` | Public-safe generated support artifacts when finalized |
 | `public-submissions/` | Public-safe final submissions when cleared |

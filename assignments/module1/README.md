@@ -22,6 +22,8 @@ July 13, 2026.
 
 - [Module 1 task tracker](module1-task-tracker.md)
 - [Local readings index](readings-index.md)
+- [Themed reading summaries](reading-summaries/README.md)
+- [Comprehensive themed reading overview](reading-summaries/comprehensive_themed_overview.md)
 - [What do you know discussion draft](what-do-you-know-discussion-draft.md)
 - [Module 1 journal draft](module1-journal-draft.md)
 - [Sensory Walk Experience draft](sensory-walk-experience-draft.md)

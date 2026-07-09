@@ -13,7 +13,7 @@ July 13, 2026
 | Task | Status | Draft / Evidence | Finalization Needed |
 | --- | --- | --- | --- |
 | Opening discussion: what do you already know? | Drafted | [What do you know draft](what-do-you-know-discussion-draft.md) | Add any course-specific starting assumptions you want to name |
-| Read three texts | Planned | [Local readings index](readings-index.md) | Choose exact three readings and record citations |
+| Read three texts | Planned | [Local readings index](readings-index.md); [themed reading summaries](reading-summaries/README.md) | Choose exact three readings and record citations |
 | Watch/listen to one media source | Planned | Media options in source folder | Pick media and add one concrete moment to journal/takeaways |
 | Module 1 journal | Drafted | [Journal draft](module1-journal-draft.md) | Add selected readings, media example, and citations |
 | Sensory Walk Experience | Drafted | [Sensory Walk draft](sensory-walk-experience-draft.md) | Add real location, observed barriers, and true recommendations |

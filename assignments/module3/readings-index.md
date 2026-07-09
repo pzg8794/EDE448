@@ -39,9 +39,10 @@ Use this set if you want the Module 3 drafts to stay aligned with meaningful com
 
 ## Where To Use These
 
+- [Module 3 themed reading summaries](reading-summaries/README.md)
+- [Module 3 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
 - [Module 3 tracker](module3-task-tracker.md)
 - [Module 3 journal draft](module3-journal-draft.md)
 - [AAC review draft](aac-review-discussion-draft.md)
 - [Communication Support Plan draft](communication-support-plan-draft.md)
 - [Takeaways discussion draft](takeaways-discussion-draft.md)
-

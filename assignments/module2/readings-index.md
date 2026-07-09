@@ -36,9 +36,10 @@ Use this set if you want the Module 2 drafts to stay aligned with dignity, conse
 
 ## Where To Use These
 
+- [Module 2 themed reading summaries](reading-summaries/README.md)
+- [Module 2 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
 - [Module 2 tracker](module2-task-tracker.md)
 - [Module 2 journal draft](module2-journal-draft.md)
 - [PTR planning draft](prevent-teach-reinforce-planning-draft.md)
 - [Positive Classroom Support Plan draft](positive-classroom-support-plan-draft.md)
 - [Takeaways discussion draft](takeaways-discussion-draft.md)
-

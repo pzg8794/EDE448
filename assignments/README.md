@@ -6,6 +6,7 @@ This folder contains public-safe assignment drafts, planning notes, and submissi
 
 - [Module 1 overview](module1/README.md)
 - [Module 1 task tracker](module1/module1-task-tracker.md)
+- [Module 1 themed reading summaries](module1/reading-summaries/README.md)
 - [What do you know discussion draft](module1/what-do-you-know-discussion-draft.md)
 - [Journal draft](module1/module1-journal-draft.md)
 - [Sensory Walk Experience draft](module1/sensory-walk-experience-draft.md)
@@ -16,6 +17,7 @@ This folder contains public-safe assignment drafts, planning notes, and submissi
 
 - [Module 2 overview](module2/README.md)
 - [Module 2 task tracker](module2/module2-task-tracker.md)
+- [Module 2 themed reading summaries](module2/reading-summaries/README.md)
 - [What do you know discussion draft](module2/what-do-you-know-discussion-draft.md)
 - [Journal draft](module2/module2-journal-draft.md)
 - [Prevent-Teach-Reinforce planning draft](module2/prevent-teach-reinforce-planning-draft.md)
@@ -26,6 +28,7 @@ This folder contains public-safe assignment drafts, planning notes, and submissi
 
 - [Module 3 overview](module3/README.md)
 - [Module 3 task tracker](module3/module3-task-tracker.md)
+- [Module 3 themed reading summaries](module3/reading-summaries/README.md)
 - [What do you know discussion draft](module3/what-do-you-know-discussion-draft.md)
 - [Journal draft](module3/module3-journal-draft.md)
 - [AAC review discussion draft](module3/aac-review-discussion-draft.md)

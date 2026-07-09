@@ -45,6 +45,12 @@ Last updated: July 8, 2026
 
 See the [response theme guide](docs/response-theme-guide.md) for reusable claims and assignment angles.
 
+Use the themed reading references before drafting:
+
+- [Module 1 comprehensive reading overview](assignments/module1/reading-summaries/comprehensive_themed_overview.md)
+- [Module 2 comprehensive reading overview](assignments/module2/reading-summaries/comprehensive_themed_overview.md)
+- [Module 3 comprehensive reading overview](assignments/module3/reading-summaries/comprehensive_themed_overview.md)
+
 - **Puzzle Plan:** lived experience plus systems evidence plus practical tools.
 - **EDU486 Access-to-Agency:** technology and learning design should expand agency, not just efficiency.
 - **Teaching placement / Pine Brook evidence:** students' competence can be hidden by login friction, click-path confusion, reading load, sensory load, role ambiguity, and peer-collaboration demands.

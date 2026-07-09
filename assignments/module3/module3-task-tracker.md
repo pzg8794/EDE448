@@ -13,7 +13,7 @@ Use August 6, 2026 as the Module 3 target and August 7, 2026 as the graduation/f
 | Task | Status | Draft / Evidence | Finalization Needed |
 | --- | --- | --- | --- |
 | Opening discussion: what do you already know? | Drafted | [What do you know draft](what-do-you-know-discussion-draft.md) | Add starting assumptions about AAC/communication |
-| Read three texts | Planned | [Local readings index](readings-index.md) | Select exact three readings and citations |
+| Read three texts | Planned | [Local readings index](readings-index.md); [themed reading summaries](reading-summaries/README.md) | Select exact three readings and citations |
 | Watch/listen to one media source | Planned | Module 3 media | Add concrete moment to journal/takeaways |
 | Module 3 journal | Drafted | [Journal draft](module3-journal-draft.md) | Add selected readings/media and one routine example |
 | AAC Review discussion | Drafted | [AAC review draft](aac-review-discussion-draft.md) | Add final tool details, visuals, and citations/links |

@@ -21,6 +21,8 @@ Use **August 6, 2026** as the internal target for Module 3 learning activities a
 
 - [Module 3 task tracker](module3-task-tracker.md)
 - [Local readings index](readings-index.md)
+- [Themed reading summaries](reading-summaries/README.md)
+- [Comprehensive themed reading overview](reading-summaries/comprehensive_themed_overview.md)
 - [What do you know discussion draft](what-do-you-know-discussion-draft.md)
 - [Module 3 journal draft](module3-journal-draft.md)
 - [AAC review discussion draft](aac-review-discussion-draft.md)

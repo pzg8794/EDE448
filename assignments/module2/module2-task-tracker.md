@@ -13,8 +13,8 @@ Use July 22, 2026 as the internal target. The detailed module window runs throug
 | Task | Status | Draft / Evidence | Finalization Needed |
 | --- | --- | --- | --- |
 | Opening discussion: what do you already know? | Drafted | [What do you know draft](what-do-you-know-discussion-draft.md) | Add a specific starting question about behavior/support |
-| Read required PTR chapter/resource | Planned | [Local readings index](readings-index.md) | Choose exact chapter/appendix and complete resource |
-| Read two additional texts | Planned | [Local readings index](readings-index.md) | Select exact citations |
+| Read required PTR chapter/resource | Planned | [Local readings index](readings-index.md); [themed reading summaries](reading-summaries/README.md) | Choose exact chapter/appendix and complete resource |
+| Read two additional texts | Planned | [Local readings index](readings-index.md); [themed reading summaries](reading-summaries/README.md) | Select exact citations |
 | Watch/listen to media | Optional | Media source if chosen | Add only if useful |
 | Module 2 journal | Drafted | [Journal draft](module2-journal-draft.md) | Add exact PTR and reading citations |
 | Prevent-Teach-Reinforce Planning | Drafted | [PTR draft](prevent-teach-reinforce-planning-draft.md) | Attach/complete exact PTR checklist/resource |
