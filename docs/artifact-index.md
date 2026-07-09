@@ -9,6 +9,7 @@
 - [Work plan](work-plan.md)
 - [Source map](source-map.md)
 - [Local readings index](local-readings-index.md)
+- [Generated PDF Markdown inventory](pdf-markdown-inventory.md)
 - [Response theme guide](response-theme-guide.md)
 
 ## Assignment Drafts

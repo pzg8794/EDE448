@@ -22,6 +22,7 @@ My working personal lens is:
 - [Weekly work plan](docs/work-plan.md)
 - [Source map](docs/source-map.md)
 - [Local readings index](docs/local-readings-index.md)
+- [Generated PDF Markdown inventory](docs/pdf-markdown-inventory.md)
 - [Clickable artifact/source index](docs/artifact-index.md)
 - [Response theme guide](docs/response-theme-guide.md)
 - [PhD and Puzzle Plan alignment](docs/phd-puzzle-plan-alignment.md)
