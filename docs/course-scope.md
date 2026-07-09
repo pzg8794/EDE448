@@ -38,11 +38,10 @@ I will use this repo to document evidence that I can:
 
 | Module | Dates | Essential Question | Main Assignments |
 | --- | --- | --- | --- |
-| Module 1: Introduction to Autism and Other Complex Support Needs | June 29-July 13, 2026 | How does the world come to understand developmental differences? | Sensory Walk Experience; Teach a Kit for Kids Lesson |
+| Module 1: Introduction to Autism and Other Complex Support Needs | June 29-July 13 module window; Blackboard items due July 15, 2026 | How does the world come to understand developmental differences? | Sensory Walk Experience; Teach a Kit for Kids Lesson |
 | Module 2: Supporting Students with Prosocial Norms in School-based Settings | July 14-July 27, 2026 | How can support strategies respect dignity, consent, and neurodiversity? | Prevent-Teach-Reinforce Planning; Positive Classroom Support Plan |
 | Module 3: Communication Supports for Students with Complex Needs | July 28-August 10, 2026, with August 7 graduation target | What does meaningful communication look like for students with complex needs? | AAC Review Discussion; Communication Support Plan |
 
 ## AI Use Boundary
 
 The syllabus welcomes generative AI as part of the learning process when it supports learning outcomes and does not replace engagement with the course. For this repo, AI can help organize sources, draft prose, generate checklists, build calendars, and prepare revision passes. I remain responsible for verifying facts, citations, lived-event details, and my own intellectual contribution before submitting.
-

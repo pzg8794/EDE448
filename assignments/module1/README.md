@@ -6,7 +6,7 @@ How does the world come to understand developmental differences?
 
 ## Due
 
-July 13, 2026.
+July 15, 2026, 11:59 PM EDT for the Blackboard items currently visible: Sensory Walk Experience, Teach a Kit for Kids Lesson, Module #1 Journal, and Takeaways.
 
 ## Required Work
 
@@ -25,10 +25,10 @@ July 13, 2026.
 - [Themed reading summaries](reading-summaries/README.md)
 - [Comprehensive themed reading overview](reading-summaries/comprehensive_themed_overview.md)
 - [What do you know discussion draft](what-do-you-know-discussion-draft.md)
-- [Module 1 journal draft](module1-journal-draft.md)
-- [Sensory Walk Experience draft](sensory-walk-experience-draft.md)
-- [Teach a Kit for Kids Lesson draft](kit-for-kids-lesson-draft.md)
-- [Takeaways discussion draft](takeaways-discussion-draft.md)
+- [Module 1 journal response](module1-journal-draft.md)
+- [Sensory Walk Experience submission packet](sensory-walk-experience-draft.md)
+- [Teach a Kit for Kids Lesson submission packet](kit-for-kids-lesson-draft.md)
+- [Takeaways discussion response](takeaways-discussion-draft.md)
 
 ## Response Thread
 

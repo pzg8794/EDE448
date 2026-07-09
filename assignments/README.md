@@ -8,10 +8,10 @@ This folder contains public-safe assignment drafts, planning notes, and submissi
 - [Module 1 task tracker](module1/module1-task-tracker.md)
 - [Module 1 themed reading summaries](module1/reading-summaries/README.md)
 - [What do you know discussion draft](module1/what-do-you-know-discussion-draft.md)
-- [Journal draft](module1/module1-journal-draft.md)
-- [Sensory Walk Experience draft](module1/sensory-walk-experience-draft.md)
-- [Teach a Kit for Kids Lesson draft](module1/kit-for-kids-lesson-draft.md)
-- [Takeaways discussion draft](module1/takeaways-discussion-draft.md)
+- [Journal response](module1/module1-journal-draft.md)
+- [Sensory Walk Experience submission packet](module1/sensory-walk-experience-draft.md)
+- [Teach a Kit for Kids Lesson submission packet](module1/kit-for-kids-lesson-draft.md)
+- [Takeaways discussion response](module1/takeaways-discussion-draft.md)
 
 ## Module 2
 

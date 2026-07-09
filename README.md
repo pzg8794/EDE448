@@ -37,7 +37,7 @@ My working personal lens is:
 
 | Due | Deliverable | Repo Draft |
 | --- | --- | --- |
-| July 13, 2026 | Module 1 journal, discussions, Sensory Walk Experience, Teach a Kit for Kids Lesson | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
+| July 15, 2026, 11:59 PM EDT | Module 1 journal, discussions, Sensory Walk Experience, Teach a Kit for Kids Lesson | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
 | July 22, 2026 target; July 27 module window | Module 2 journal, PTR planning, Positive Classroom Support Plan | [Module 2 tracker](assignments/module2/module2-task-tracker.md) |
 | August 6, 2026 target; August 7 graduation target | Module 3 journal, AAC review discussion, Communication Support Plan | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
 | August 7, 2026 | Communication and Positive Behavioral Support Strategies and Resources Portfolio | [Portfolio plan](portfolio/portfolio-plan.md) |

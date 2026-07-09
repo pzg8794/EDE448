@@ -1,6 +1,6 @@
 # Weekly Work Plan
 
-## Week 1-2: Module 1, June 29-July 13
+## Week 1-2: Module 1, June 29-July 15
 
 **Goal:** Understand how autism and developmental differences are socially, diagnostically, and experientially framed.
 
@@ -11,7 +11,7 @@ Work blocks:
 - Watch/listen to one media source that centers autistic lived experience.
 - Complete the sensory walk.
 - Teach the Kit for Kids lesson.
-- Submit Module 1 journal, discussions, and assignment products by July 13.
+- Submit Module 1 journal, discussions, and assignment products by July 15, 11:59 PM EDT.
 
 Portfolio harvesting:
 
@@ -76,4 +76,3 @@ Work blocks:
 - Write a 1-2 page explanation for each resource.
 - Add references/websites.
 - Include a brief author note explaining the course throughline: communication as access-to-agency.
-

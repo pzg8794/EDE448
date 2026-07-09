@@ -3,12 +3,12 @@ VERSION:2.0
 PRODID:-//pzg8794//EDE448 Course Plan//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:ede448-module1-due-20260713@pzg8794
+UID:ede448-module1-due-20260715@pzg8794
 DTSTAMP:20260708T120000Z
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
 SUMMARY:EDE448 Module 1 due
-DESCRIPTION:Submit Module 1 journal, discussions, Sensory Walk Experience, and Teach a Kit for Kids Lesson.
+DESCRIPTION:Submit Module 1 journal, discussions, Sensory Walk Experience, and Teach a Kit for Kids Lesson by 11:59 PM EDT.
 END:VEVENT
 BEGIN:VEVENT
 UID:ede448-module2-target-20260722@pzg8794
@@ -43,4 +43,3 @@ SUMMARY:EDE448 final portfolio due
 DESCRIPTION:Communication and Positive Behavioral Support Strategies and Resources Portfolio due.
 END:VEVENT
 END:VCALENDAR
-
