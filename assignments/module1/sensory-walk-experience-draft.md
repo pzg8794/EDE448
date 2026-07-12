@@ -1,64 +1,59 @@
-# Module 1 Assignment: Sensory Walk Experience
+# Sensory Walk Experience
 
-## Blackboard Requirement
+**Course:** EDE 448 — Communication and Positive Behavioral Supports for Students with Autism and Other Complex Needs  
+**Assignment:** Module 1 Sensory Walk Experience  
+**Public space observed:** Deck 3 public promenade and casino-adjacent corridor aboard the *Carnival Magic*  
+**Date observed:** June 28, 2026, during the evening  
 
-Due: July 15, 2026, 11:59 PM EDT
+## Purpose and Approach
 
-This assignment asks me to:
+For this sensory walk, I examined the Deck 3 public promenade and casino-adjacent corridor aboard the *Carnival Magic*. I selected this space because it is a major transition area connecting entertainment venues, elevators, stairs, seating areas, and other parts of the ship. During a busy evening, adults and families moved through the area while music, gaming sounds, conversations, and changing visual displays competed for attention.
 
-- Read the Guggenheim "Sensory Detective" resource.
-- Examine one public space for sensory-friendliness.
-- Optionally use Michigan's Developmental Disabilities Institute Sensory-Friendly Checklist.
-- Summarize the experience.
-- Give examples that show whether the environment is sensory-friendly or not.
-- Offer 2-3 suggestions to improve the experience for children with sensory needs.
-- Submit in any format.
+I approached the space as a sensory detective by paying attention to sound, lighting, movement, crowding, smell, temperature, signage, predictability, seating, and access to a quiet or recovery area. I also used the categories emphasized in the Guggenheim sensory-friendly environment resource and Michigan Developmental Disabilities Institute’s Sensory-Friendly Checklist. Rather than asking whether a child could simply tolerate the space, I asked what the environment was requiring from the child and whether it provided enough choice, information, and support for participation.
 
-## Truth Fields To Complete Before Submission
+## Sensory Evidence
 
-- Public space observed: **[REPLACE: exact public space]**
-- Date and time observed: **[REPLACE: date/time]**
-- Crowd level: **[REPLACE: low / medium / high and why]**
-- Lighting: **[REPLACE: natural, fluorescent, bright, dim, flickering, glare, etc.]**
-- Sound: **[REPLACE: HVAC, music, announcements, voices, hand dryers, traffic, alarms, etc.]**
-- Smell/temperature: **[REPLACE: food, cleaning products, perfume, heat/cold, inconsistent rooms, etc.]**
-- Navigation/signage: **[REPLACE: clear signs, confusing pathways, maps, visual supports, staff help]**
-- Seating/quiet/reset options: **[REPLACE: available or missing]**
-- One strongest access feature: **[REPLACE]**
-- One strongest sensory barrier: **[REPLACE]**
+| Area examined | What I observed | Possible effect on a child with sensory needs |
+| --- | --- | --- |
+| **Sound** | The area contained overlapping slot-machine tones, music, conversations, movement, and sounds spilling over from nearby entertainment spaces. The volume and type of sound could change suddenly as people moved through the corridor. | A child who is sensitive to sound might have difficulty processing directions, communicating, or remaining regulated. Covering the ears, leaving the area, or refusing to move forward could be a response to overload rather than noncompliance. |
+| **Lighting and visual input** | The general lighting was mixed with bright, flashing, and color-changing displays from the casino area. Screens, signs, machines, and moving crowds created a visually busy field. | A child sensitive to light or visual motion might experience fatigue, distraction, anxiety, headaches, or difficulty identifying the most important sign or direction. |
+| **Crowding and movement** | The crowd level was medium to high. People moved in several directions toward elevators, stairs, venues, and the promenade. Some people stopped suddenly or stood in groups, making the pathway less predictable. | Unpredictable movement can make transitions stressful for children who need more personal space, additional processing time, or a clear route. |
+| **Navigation and predictability** | Directional signs and deck numbers were available, and staff could provide help. However, the number of competing signs, entrances, sounds, and visual displays made it difficult to identify the next step quickly without already understanding the ship’s layout. | A child who relies on visual structure may still become confused because a sign is only helpful when it is easy to find, understand, and connect to a predictable route. |
+| **Smell and temperature** | Food, beverages, perfumes, and cleaning products created changing smells as people moved between nearby spaces. The indoor temperature was generally controlled, but the combination of crowding and movement could still feel physically intense. | Strong or mixed smells can contribute to nausea, avoidance, or overload. A child may need distance from the source or permission to use an alternate route. |
+| **Seating and recovery** | Seating was available, but most of it was connected to gaming, waiting, or entertainment rather than clearly identified as a quiet reset area. I did not see an obvious low-sensory space in the immediate corridor. | A child beginning to feel overwhelmed might not know where to go without leaving the area completely. A family may also hesitate to use seating that appears connected to another activity. |
+| **Choice and support** | The space had multiple pathways, elevators, stairs, and staff members who could assist. A visitor could move away from the center of the activity, but doing so required knowing where a quieter alternative was located. | Choice can support regulation, but it must be visible and understandable. An option that exists but is difficult to find does not provide equal access. |
 
-## Submission Draft
+## Overall Assessment
 
-For this sensory walk, I examined **[REPLACE: public space]** as a sensory detective. I focused on what a child with sensory needs might experience while entering the space, moving through it, waiting, listening, finding directions, and recovering from overload. I used the Guggenheim sensory-friendly environment resource and the Michigan sensory-friendly checklist to look at the space through multiple sensory systems, including sound, light, movement, temperature, smell, crowding, predictability, communication, and access to a reset space.
+I would describe this environment as **partially sensory-friendly but not consistently sensory-accessible during a busy evening**. It had several useful features: multiple routes, visible deck information, elevators, stairs, staff assistance, and areas where a person could move away from the center of activity. These supports could help some visitors maintain control over their movement and ask for assistance.
 
-Overall, the space had some features that could support sensory access. One strength was **[REPLACE: specific strength]**. This matters because sensory-friendly design is not only about comfort. It affects whether a child can stay regulated enough to communicate, participate, and be understood. I also noticed **[REPLACE: second strength]**, which could help a child or family anticipate what to do next. A third support was **[REPLACE: third strength if present]**. These features made the space more accessible because they gave visitors more predictability, movement choice, or recovery options.
+However, the strongest sensory barrier was the accumulation of sound and visual stimulation. No single machine, light, conversation, or sign created the whole problem. The barrier came from many forms of input occurring at the same time without a clearly marked low-sensory route or recovery space. The environment seemed designed for a default visitor who could filter competing sounds, tolerate flashing displays, navigate while moving through a crowd, and ask for help verbally. A child whose sensory processing, communication, anxiety, attention, or movement needs differed from that expectation would have to do considerably more work just to pass through the space.
 
-I also noticed several barriers. First, **[REPLACE: sound barrier]**. For a child who is sensitive to sound, this could make it difficult to listen to directions, process language, or stay calm during transitions. Second, **[REPLACE: visual/lighting barrier]**. Bright, inconsistent, or visually busy spaces can increase fatigue, stress, or avoidance. Third, **[REPLACE: predictability, crowding, smell, temperature, signage, or quiet-space barrier]**. If a child does not know what will happen next or where to go for a break, the environment may create behavior that adults misread as refusal instead of overload.
+This observation connects directly to the Module 1 question, **How does the world come to understand developmental differences?** Adults often understand a child by observing visible behavior. In this environment, a child might cover their ears, hold tightly to an adult, stop walking, move quickly toward an exit, repeat a question, refuse to enter, or become upset. If the adult only records the behavior, the child may be described as disruptive, rigid, or noncompliant. A sensory-detective approach collects richer evidence: What sounds were present? What changed suddenly? Could the child identify the route? Was there a place to pause? Did the child have a reliable way to communicate discomfort?
 
-Using the checklist helped me see that sensory-friendliness is not one single feature. It is the interaction of sound, light, crowding, movement, smell, communication, choice, and recovery options. A space can be physically accessible and still be sensory-unfriendly if it does not give children a way to anticipate, pause, communicate, or recover. This connects to Module 1 because developmental differences are partly understood through environments. If the environment only records the visible behavior, it may miss the sensory barrier underneath.
+Through the Puzzle Plan and EQUITAS lens, this is an issue of interpretation and access. The goal is not to make children appear more typical by forcing them to tolerate the same sensory conditions. The goal is to identify the environmental barrier, respect the child’s communication, and redesign the setting so that participation does not require unnecessary distress. Sensory responses are evidence about the interaction between a person and a space, not proof that something is wrong with the person.
 
-I would recommend three improvements.
+## Recommendations
 
-1. Create a sensory preview.
-   The space could provide a short visual guide that shows entrances, bathrooms, quiet areas, loud areas, waiting spaces, and what to expect. This would help children and families prepare before arriving.
+### 1. Provide a sensory preview and access map
 
-2. Identify a low-sensory reset option.
-   Even a small clearly labeled quiet corner, calm seating area, or break space would give children a place to regulate without leaving the activity completely.
+The ship could offer a simple digital and printed guide showing high-noise areas, flashing-light zones, elevators, restrooms, seating, quieter routes, and designated calm spaces. Photos or icons could show what visitors will encounter before they enter the area. This would support children who benefit from advance preparation, visual schedules, or predictable transitions.
 
-3. Reduce unnecessary sensory load during transitions.
-   The space could use softer verbal directions, visual signs, predictable routines, reduced background noise when possible, and permission for tools such as noise-reducing headphones, sunglasses, movement breaks, or alternative waiting areas.
+### 2. Create a clearly marked low-sensory route and reset area
 
-This experience connects to EDE448 because behavior is often communication. If a child covers their ears, leaves the group, refuses to enter, or becomes upset, the environment may be communicating too. The goal is not to force every child to tolerate the same sensory conditions. The goal is to design spaces where children with sensory needs have enough predictability, choice, and support to participate with dignity.
+A quieter route around the most intense casino-adjacent stimulation should be marked with consistent visual symbols. A nearby reset area could include neutral lighting, reduced background sound, uncluttered seating, and enough space for a child and caregiver. The area should be identified as an access support rather than a place of punishment or isolation.
 
-## Source Trail
+### 3. Build flexible sensory and communication supports into normal practice
 
-- Local Blackboard assignment: `Module1/assignments/Sensory Walk Experience.pdf`
-- Local support resource: `Module1/assignments/Creating a Sensory-Friendly Environment _ The Guggenheim Museums and Foundation.pdf`
-- Local support resource: `Module1/assignments/mvp-sensory-friendly-checklist-2025.pdf`
-- [Module 1 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
-- [NEA Guide - Teaching Students with Autism](reading-summaries/themed_overview/nea-guide-teaching-students-with-autism-themed-overview.md)
-- [Autism Guide for Educators](reading-summaries/themed_overview/autism-guide-for-educators-themed-overview.md)
+Staff should know how to respond when a child communicates overload through words, gestures, movement, or behavior. Families should be explicitly welcomed to use noise-reducing headphones, sunglasses, communication devices, visual schedules, movement breaks, and alternate waiting locations. Directions should be brief, supported with icons, and repeated without judgment when needed. These supports should be available before a crisis occurs, not only after a child becomes visibly distressed.
 
-## Portfolio Reuse
+## Reflection
 
-This can become portfolio resource 1: **Sensory Access Walk and Redesign Checklist**.
+This sensory walk changed how I interpreted the space. At first, it appeared lively, entertaining, and easy to move through. Looking more carefully showed that those same qualities could create barriers for someone who processes sound, light, movement, smell, or language differently. Sensory-friendliness is therefore not one isolated feature. It is the relationship among predictability, communication, environmental intensity, movement choice, and access to recovery.
+
+The most important lesson is that behavior is communication and the environment is part of the message. A justice-centered educator or community member should not begin by asking how to make a child tolerate an inaccessible setting. We should first ask what the setting is communicating, whose needs were treated as normal during its design, and what changes would protect the child’s dignity, agency, and right to participate.
+
+## Resources Consulted
+
+- Guggenheim Museum. *Creating a Sensory-Friendly Environment: Becoming a Sensory Detective*.
+- Michigan Developmental Disabilities Institute. *Sensory-Friendly Checklist* (2025).
