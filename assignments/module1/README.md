@@ -27,6 +27,8 @@ July 15, 2026, 11:59 PM EDT for the Blackboard items currently visible: Sensory 
 - [What do you know discussion draft](what-do-you-know-discussion-draft.md)
 - [Module 1 journal response](module1-journal-draft.md)
 - [Sensory Walk Experience submission packet](sensory-walk-experience-draft.md)
+- [Sensory Walk Experience final submission](sensory-walk-experience-final.md)
+- [Sensory Walk LaTeX package review](sensory-walk-latex-package-review.md)
 - [Teach a Kit for Kids Lesson submission packet](kit-for-kids-lesson-draft.md)
 - [Takeaways discussion response](takeaways-discussion-draft.md)
 

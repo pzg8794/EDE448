@@ -16,8 +16,8 @@ July 15, 2026, 11:59 PM EDT
 | Read three texts | Selected | [Local readings index](readings-index.md); [themed reading summaries](reading-summaries/README.md) | Current draft uses Cole (2023), Davidson neurodiversity, and NEA guide |
 | Watch/listen to one media source | Selected | `Module1/Media/Autism-Insight_from Inside-en_128513.txt` | Current draft uses *Autism: Insight from Inside* |
 | Module 1 journal | Ready to post | [Journal response](module1-journal-draft.md) | Final voice/citation review before Blackboard submission |
-| Sensory Walk Experience | Submission packet drafted | [Sensory Walk packet](sensory-walk-experience-draft.md) | Add real location, observed barriers, and true recommendations |
-| Teach a Kit for Kids Lesson | Lesson/submission packet drafted | [Kit for Kids packet](kit-for-kids-lesson-draft.md) | Add actual teaching details, grade/group, and student response |
+| Sensory Walk Experience | Content reviewed; meets requirements | [Sensory Walk final](sensory-walk-experience-final.md); [LaTeX package review](sensory-walk-latex-package-review.md) | Clean up LaTeX package `main.tex`, README, and citation consistency before using the separate package repo as the public submission artifact |
+| Teach a Kit for Kids Lesson | Ready to teach; submission scaffold drafted | [Kit for Kids packet](kit-for-kids-lesson-draft.md) | Teach the 10-minute lesson, complete the truth fields, and finalize the reflection with actual student evidence |
 | Takeaways discussion | Ready to post | [Takeaways response](takeaways-discussion-draft.md) | Final voice review before Blackboard submission |
 
 ## Module 1 Portfolio Harvest
