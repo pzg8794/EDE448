@@ -1,6 +1,6 @@
 # EDE448 Master Task And Assignment Tracker
 
-Last updated: July 9, 2026
+Last updated: July 14, 2026
 
 ## Course Throughline
 
@@ -25,7 +25,7 @@ Last updated: July 9, 2026
 | 1 | July 15 | Journal | Ready to post | Final voice/citation review before Blackboard submission |
 | 1 | July 15 | Sensory Walk Experience | Submission packet drafted | Add actual location, observation details, and true recommendations |
 | 1 | July 15 | Teach a Kit for Kids Lesson | Lesson/submission packet drafted | Add actual grade/group, date, student response, and reflection |
-| 1 | July 15 | Takeaways discussion | Ready to post | Final voice review before Blackboard submission |
+| 1 | July 15 | Takeaways discussion | Finalized and ready to post | Post to Blackboard and verify submission receipt |
 | 2 | July 22 target | What do you already know discussion | Draft exists | Add starting assumptions and question for peers |
 | 2 | July 22 target | Read three texts, including PTR | Planned; see [Module 2 readings](assignments/module2/readings-index.md) | Select exact PTR chapter/resource and two other readings |
 | 2 | July 22 target | Journal | Draft exists | Add PTR citation and one Module 2 reading/media connection |

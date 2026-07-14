@@ -18,7 +18,7 @@ July 15, 2026, 11:59 PM EDT
 | Module 1 journal | Revised and ready to post | [Journal response](module1-journal-draft.md) | Complete final personal voice check, post to Blackboard, and verify submission receipt |
 | Sensory Walk Experience | Content reviewed; meets requirements | [Sensory Walk final](sensory-walk-experience-final.md); [LaTeX package review](sensory-walk-latex-package-review.md) | Clean up LaTeX package `main.tex`, README, and citation consistency before using the separate package repo as the public submission artifact |
 | Teach a Kit for Kids Lesson | Ready to teach; submission scaffold drafted | [Kit for Kids packet](kit-for-kids-lesson-draft.md) | Teach the 10-minute lesson, complete the truth fields, and finalize the reflection with actual student evidence |
-| Takeaways discussion | Ready to post | [Takeaways response](takeaways-discussion-draft.md) | Final voice review before Blackboard submission |
+| Takeaways discussion | Finalized and ready to post | [Takeaways response](takeaways-discussion-draft.md) | Post to Blackboard and verify submission receipt |
 
 ## Module 1 Portfolio Harvest
 
