@@ -1,6 +1,6 @@
 # EDE448 Master Task And Assignment Tracker
 
-Last updated: July 14, 2026
+Last updated: July 15, 2026
 
 ## Course Throughline
 
@@ -10,7 +10,7 @@ Last updated: July 14, 2026
 
 | Priority | Due | Task | Status | Working File |
 | --- | --- | --- | --- | --- |
-| 1 | July 15, 2026, 11:59 PM EDT | Finish Module 1 journal, Sensory Walk, Kit for Kids lesson, and takeaways | Journal/takeaways ready; Sensory Walk and Kit need true activity details | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
+| 1 | July 15, 2026, 11:59 PM EDT | Finish Module 1 journal, Sensory Walk, Kit for Kids lesson, and takeaways | Journal/takeaways ready; Sensory Walk ready; Kit for Kids simulation draft generated from Grade 2 placement evidence | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
 | 2 | July 22, 2026 internal target | Start and finish Module 2 PTR work early because of the due-date inconsistency | Drafted; needs exact PTR appendix/checklist and citations | [Module 2 tracker](assignments/module2/module2-task-tracker.md) |
 | 3 | August 6-7, 2026 | Build Module 3 AAC/communication work and final portfolio together | Discussions ready; AAC review/plan still need final details | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
 | 4 | August 7, 2026 | Assemble final 10-resource support portfolio | Planned; needs final resource pages | [Portfolio plan](portfolio/portfolio-plan.md) |
@@ -24,7 +24,7 @@ Last updated: July 14, 2026
 | 1 | July 15 | Watch/listen to one media source | Selected for current drafts | Autism: Insight from Inside |
 | 1 | July 15 | Journal | Ready to post | Final voice/citation review before Blackboard submission |
 | 1 | July 15 | Sensory Walk Experience | Submission packet drafted | Add actual location, observation details, and true recommendations |
-| 1 | July 15 | Teach a Kit for Kids Lesson | Lesson/submission packet drafted | Add actual grade/group, date, student response, and reflection |
+| 1 | July 15 | Teach a Kit for Kids Lesson | Simulation response and LaTeX package drafted from Grade 2 placement evidence | Revise final factual details before submission |
 | 1 | July 15 | Takeaways discussion | Finalized and ready to post | Post to Blackboard and verify submission receipt |
 | 2 | July 22 target | What do you already know discussion | Draft exists | Add starting assumptions and question for peers |
 | 2 | July 22 target | Read three texts, including PTR | Planned; see [Module 2 readings](assignments/module2/readings-index.md) | Select exact PTR chapter/resource and two other readings |

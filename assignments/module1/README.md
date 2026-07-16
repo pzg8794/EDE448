@@ -30,6 +30,8 @@ July 15, 2026, 11:59 PM EDT for the Blackboard items currently visible: Sensory 
 - [Sensory Walk Experience final submission](sensory-walk-experience-final.md)
 - [Sensory Walk LaTeX package review](sensory-walk-latex-package-review.md)
 - [Teach a Kit for Kids Lesson submission packet](kit-for-kids-lesson-draft.md)
+- [Teach a Kit for Kids Lesson simulation draft](kit-for-kids-lesson-final.md)
+- [Teach a Kit for Kids Lesson LaTeX package](kit-for-kids-latex/README.md)
 - [Takeaways discussion response](takeaways-discussion-draft.md)
 
 ## Response Thread

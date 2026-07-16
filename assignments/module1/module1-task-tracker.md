@@ -17,7 +17,7 @@ July 15, 2026, 11:59 PM EDT
 | Watch/listen to one media source | Selected | `Module1/Media/Autism-Insight_from Inside-en_128513.txt` | Current draft uses *Autism: Insight from Inside* |
 | Module 1 journal | Revised and ready to post | [Journal response](module1-journal-draft.md) | Complete final personal voice check, post to Blackboard, and verify submission receipt |
 | Sensory Walk Experience | Content reviewed; meets requirements | [Sensory Walk final](sensory-walk-experience-final.md); [LaTeX package review](sensory-walk-latex-package-review.md) | Clean up LaTeX package `main.tex`, README, and citation consistency before using the separate package repo as the public submission artifact |
-| Teach a Kit for Kids Lesson | Ready to teach; submission scaffold drafted | [Kit for Kids packet](kit-for-kids-lesson-draft.md) | Teach the 10-minute lesson, complete the truth fields, and finalize the reflection with actual student evidence |
+| Teach a Kit for Kids Lesson | Simulation draft generated | [Kit for Kids simulation response](kit-for-kids-lesson-final.md); [LaTeX package](kit-for-kids-latex/README.md) | Revise final factual details before submission |
 | Takeaways discussion | Finalized and ready to post | [Takeaways response](takeaways-discussion-draft.md) | Post to Blackboard and verify submission receipt |
 
 ## Module 1 Portfolio Harvest
