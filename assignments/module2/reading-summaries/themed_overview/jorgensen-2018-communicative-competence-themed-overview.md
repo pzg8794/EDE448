@@ -1,46 +1,67 @@
-# Jorgensen (2018) - Communicative Competence - Themed Overview
+# Jorgensen (2018) - Construct Learning and Communicative Competence - Themed Overview
 
 ## Source Location
 
 - Source PDF: `Module2/Read/Jorgensen (2018) Communicative Competence.pdf`
 - Local converted Markdown: `local-derived/pdf-markdown/Module2/Read/Jorgensen (2018) Communicative Competence.md`
-- Module: Module 2: Supporting Students with Prosocial Norms in School-Based Settings
+- Chapter 3 of *It's More Than "Just Being In": Creating Authentic Inclusion for Students with Complex Support Needs*
 
-## Source Purpose
+## Central Argument
 
-Communicative competence and authentic inclusion.
+Jorgensen begins from the least dangerous assumption: presume that a student can learn and communicate. She then makes the argument more demanding. Belief alone is insufficient. Educators must **construct competence** through their words, instruction, communication supports, collaborative planning, age-respectful expectations, and access to the general curriculum.
 
-## Main Ideas
+The chapter's opening case shows a student physically located in general education but taught separately at the side of the room, without communication for academic or social topics. After the team provided AAC, common instructional routines, coordinated planning, and technical support, the student's literacy, communication, and participation changed. The environment had been producing evidence that underestimated the learner.
 
-Jorgensen centers communicative competence as essential to authentic inclusion for students with complex support needs.
+## Main Practices
 
-- Communication access is the heart of agency.
-- Students should not be excluded because adults have not built communication pathways.
-- EQUITAS asks what counts as communication and whose signals are ignored.
+### Talk to students as if they understand
 
-## Puzzle Plan Connection
+Adults should use age-appropriate language and tone, explain what is happening, and avoid speaking about students as if they are absent. Peers learn how to value or devalue disabled classmates by watching adults.
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+### Give students communication all day, every day
 
-## EQUITAS Connection
+AAC includes more than devices. Gesture, facial expression, symbols, pictures, print, and speech-generating systems can support expression. Communication must extend beyond requesting wants and needs to:
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+- academic participation
+- information sharing
+- social closeness
+- questions and comments
+- refusal and self-advocacy
+- age-appropriate social routines
 
-## Course Theme Connection
+A student's apparent cognitive level should not be used to deny communication support.
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+### Construct rather than test competence
 
-## Teaching Implications
+The chapter shows how teams can misread behavior when visual, manipulative, AAC, or participation supports are absent. Requests for breaks, looking away, silence, or disruptive actions may reflect an inaccessible instructional design. The response is to form a hypothesis and build support, not assume stubbornness or inability.
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
+### Preserve general-curriculum access
 
-## Placement Connection
+Jorgensen rejects the false choice between general education and individualized support. Related services, accessible materials, and supplementary aids can be delivered within shared instruction. Learning some grade-level content with peers remains meaningful even when a student does not master every standard.
 
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
+## Dignity, Consent, and Neurodiversity
+
+Dignity means age-respectful interaction and access to intellectually meaningful content. Consent requires a communication system capable of refusal, negotiation, and boundaries, not only requesting preferred items. Neurodiversity requires adults to stop treating speech, eye contact, posture, or immediate response as the only evidence of comprehension.
+
+## Puzzle Plan and EQUITAS
+
+The Puzzle Plan asks whether the evidence represents the learner or the supports the system failed to provide. EQUITAS asks:
+
+- Who receives AAC and who is considered "not ready"?
+- Whose body movement or silence is treated as meaningless?
+- Does the system measure communication competence after constructing access, or before?
+- Are academic and social messages available, or only compliance phrases?
+
+## Placement and Camp Connections
+
+The laptop-and-blocks event shows competence being constructed through a flexible entry rather than tested through surrender of a familiar tool. In EDU486 camp, pointing, drawing, dictation, photography, tool use, partner support, private audio, and pass-and-reentry can all make scientific thinking communicable.
+
+## Assignment Use
+
+- Core communication source for the [Module 2 journal](../../module2-journal-draft.md)
+- Teach-component source for [PTR Planning](../../prevent-teach-reinforce-planning-draft.md)
+- Communication architecture for the [Positive Classroom Support Plan](../../positive-classroom-support-plan-draft.md)
 
 ## Final Themed Takeaway
 
-Use this source across Module 2 and Module 3 because it bridges behavior, communication, and inclusion.
+Presuming competence is an ethical starting point. Constructing competence means giving students the communication, instruction, relationships, and access needed to make that competence visible.

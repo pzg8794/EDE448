@@ -1,10 +1,11 @@
-# Goldstein (2013) - Peer Support - Themed Overview
+# Goodstein (2013) - Peer Support - Themed Overview
 
 ## Source Location
 
 - Source PDF: `Module2/Read/Goldstein (2013) Peer Support.pdf`
 - Local converted Markdown: `local-derived/pdf-markdown/Module2/Read/Goldstein (2013) Peer Support.md`
 - Module: Module 2: Supporting Students with Prosocial Norms in School-Based Settings
+- Metadata note: the local filename says `Goldstein`; the source itself identifies the author as Phyllis Kaufman Goodstein.
 
 ## Source Purpose
 

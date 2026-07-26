@@ -4,42 +4,62 @@
 
 `Module2/Read/`
 
-These files exist locally but are not committed to GitHub because they are raw course readings/PDFs.
+The raw PDFs are local course materials and are not committed to the public repository. Public-safe original summaries live in [reading-summaries](reading-summaries/README.md).
 
-## Reading Files
+## Current Three-Reading Set
 
-| Local file | Use for assignment work |
+| Role | Source | Current Use |
+| --- | --- | --- |
+| Required PTR read | Dunlap et al. (2019), *Prevent-Teach-Reinforce*, Chapter 4 and Appendix 4.1 | PTR assignment, journal, support plan |
+| Autistic/disabled first-hand evidence | Gardner (2017), *First-Hand Perspectives on Behavioral Interventions* | Dignity, consent, trauma, autonomy, cultural competence |
+| Communication and inclusion | Jorgensen (2018), "Construct Learning and Communicative Competence" | AAC, presuming and constructing competence, participation |
+
+The required 2019 PTR ebook is linked in the syllabus and assignment directions. It is not stored as a full local PDF. The publisher's public metadata confirms the selected resource as **Appendix 4.1, PTR Functional Behavioral Assessment Checklist**.
+
+## Local Reading Files
+
+| Local file | Correct identity and best use |
 | --- | --- |
-| `Module2/Read/Autism_spectrum_disorder.pdf` | General autism overview for school-centered interventions |
-| `Module2/Read/Behavioral-Interventions-Report-Final.pdf` | Evidence-based behavioral intervention report |
-| `Module2/Read/Challenging_Behaviors_Tool_Kit.pdf` | Practical support for challenging behavior |
-| `Module2/Read/Dunlap PBS and Autism.pdf` | Required PTR/PBS source; use for PTR assignment |
-| `Module2/Read/Goldstein (2013) Classroom Management.pdf` | Classroom management/social architecture |
-| `Module2/Read/Goldstein (2013) Peer Support.pdf` | Peer support/social relationships |
-| `Module2/Read/Goldstein (2013) Seating Arrangements.pdf` | Classroom arrangement and social behavior |
-| `Module2/Read/Inclusion_and_Autism_Spectrum_Disorder_Proactive_S..._----_(6._Behavioral_Interventions).pdf` | Proactive behavioral interventions |
-| `Module2/Read/Jorgensen (2018) Communicative Competence.pdf` | Communicative competence and authentic inclusion |
-| `Module2/Read/Jorgenseon (2018) Social Relationships.pdf` | Reciprocal social relationships |
-| `Module2/Read/Leach_excerpt.pdf` | Inclusion/support excerpt |
-| `Module2/Read/Making_Inclusion_Work_for_Students_with_Autism_Spe..._----_(Chapter_2--Evidence-Based_Interventions_and_Supported_Inclusion_of_Stu...).pdf` | Evidence-based interventions and supported inclusion |
-| `Module2/Read/ProQuest Ebook Central - Book Details.pdf` | ProQuest source details for module reading |
-| `Module2/Read/Zacaria (2016) Classroom Community.pdf` | Family/community/classroom partnership |
-| `Module2/Read/at_sensory_supports.pdf` | Assistive technology / sensory supports |
+| `Autism_spectrum_disorder.pdf` | Simon (2016), school-centered ASD identification, instruction, social skills, and behavior supports |
+| `Behavioral-Interventions-Report-Final.pdf` | Gardner (2017), first-hand autistic and disabled perspectives on behavioral interventions |
+| `Challenging_Behaviors_Tool_Kit.pdf` | Autism Speaks tool kit; practical family/caregiver context, functional assessment, health, safety, and crisis considerations |
+| `Dunlap PBS and Autism.pdf` | Dunlap, Strain, and Fox (2012), "Positive Behavior Support and Young People with Autism"; supplemental PBS source, **not** the required 2019 PTR book |
+| `Goldstein (2013) Classroom Management.pdf` | Goodstein (2013), classroom management/social architecture; local filename misspells the author's surname |
+| `Goldstein (2013) Peer Support.pdf` | Goodstein (2013), peer support and bullying prevention; local filename misspells the author's surname |
+| `Goldstein (2013) Seating Arrangements.pdf` | Goodstein (2013), seating and classroom social architecture; local filename misspells the author's surname |
+| `Inclusion...Behavioral Interventions.pdf` | Denning and Moody (2018), proactive behavioral interventions in inclusive settings |
+| `Jorgensen (2018) Communicative Competence.pdf` | Jorgensen (2018), Chapter 3, constructing learning and communicative competence |
+| `Jorgenseon (2018) Social Relationships.pdf` | Jorgensen (2018), Chapter 8, facilitating reciprocal social relationships; local filename contains a typo |
+| `Leach_excerpt.pdf` | Inclusion and support excerpt; use only after confirming chapter metadata |
+| `Making_Inclusion_Work...Evidence-Based Interventions...pdf` | Evidence-based interventions and supported inclusion; confirm exact chapter metadata before formal citation |
+| `ProQuest Ebook Central - Book Details.pdf` | ProQuest record for Kluth (2023), *You're Going to Love This Kid!* (3rd ed.); access record only, not the PTR book |
+| `Zacaria (2016) Classroom Community.pdf` | Zacarian and Silverstone (2015), Chapter 4, preparing for classroom community; local filename has spelling/year mismatch |
+| `at_sensory_supports.pdf` | Assistive technology and sensory supports for classroom access and regulation |
 
-## Recommended Reading Set For Current Drafts
+## Supplementary Set Used in the Drafts
 
-Use this set if you want the Module 2 drafts to stay aligned with dignity, consent, and neurodiversity:
+- Dunlap, Strain, and Fox (2012) for PBS quality of life, prevention, social validity, collaboration, and systems change
+- Jorgensen (2018), reciprocal social relationships, for peer belonging and contribution
+- Zacarian and Silverstone (2015) for family, language, physical access, and proactive classroom preparation
+- Edutopia's classroom-management session for predictability, relationships, clear sequencing, and a critical EQUITAS analysis
 
-1. `Dunlap PBS and Autism.pdf`
-2. `Jorgensen (2018) Communicative Competence.pdf`
-3. `Jorgenseon (2018) Social Relationships.pdf` or `Zacaria (2016) Classroom Community.pdf`
+## Module 1 Continuity
 
-## Where To Use These
+The Module 2 drafts retain Module 1's key finding: diagnosis, observation, behavior, media, family knowledge, and lived experience each reveal only part of a person. The practical shift in Module 2 is to build support from richer evidence rather than letting one label or incident become the whole explanation.
 
-- [Module 2 themed reading summaries](reading-summaries/README.md)
-- [Module 2 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
-- [Module 2 tracker](module2-task-tracker.md)
-- [Module 2 journal draft](module2-journal-draft.md)
-- [PTR planning draft](prevent-teach-reinforce-planning-draft.md)
-- [Positive Classroom Support Plan draft](positive-classroom-support-plan-draft.md)
-- [Takeaways discussion draft](takeaways-discussion-draft.md)
+## Practice Evidence
+
+- Pine Brook laptop-and-blocks event for the Appendix 4.1 review
+- EDU486 July 21 youth-feedback and planning record
+- EDU486 July 24 Invisible Invaders field reflection
+- EDU486 access-to-agency theme and Module 2 reflection
+
+## Where to Use the Sources
+
+- [Comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
+- [Module 2 journal](module2-journal-draft.md)
+- [PTR Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md)
+- [PTR planning summary](prevent-teach-reinforce-planning-draft.md)
+- [Positive Classroom Support Plan](positive-classroom-support-plan-draft.md)
+- [Takeaways](takeaways-discussion-draft.md)
+- [References and source trail](references.md)

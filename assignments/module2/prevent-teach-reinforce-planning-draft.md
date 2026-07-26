@@ -1,51 +1,97 @@
-# Prevent-Teach-Reinforce Planning Draft
+# Prevent-Teach-Reinforce Planning
 
 ## Assignment Requirements
 
-- Review Dunlap et al.'s Prevent-Teach-Reinforce resources.
-- Complete one PTR resource/checklist/guide.
-- Use a 2025-2026 classroom experience or a student/social-support context.
+- Review the resources in Dunlap et al.'s assigned PTR reading.
+- Select and complete one resource or checklist, many of which appear in the appendices.
+- Base it on a 2025-2026 classroom experience or a specific student who may need social support.
 - Submit the completed guide/resource with a summary of how PTR will inform future classroom practice.
+- Any submission format is allowed; the holistic rubric uses Exceptional, Meets, or Developing.
 
-## Selected Public-Safe Context
+## Review Status
 
-This draft uses a non-identifying technology-rich classroom context from field practice: upper-elementary students working in CS/STEM activities where access barriers can include login steps, unfamiliar interfaces, reading load, peer collaboration, debugging, and transitions.
+**Almost-ready paper-format draft. Not submitted.**
 
-Before submission, replace this with the exact PTR appendix/resource you completed.
+## Selected Resource
 
-## Completed PTR-Style Planning Guide
+**Dunlap et al. (2019), Appendix 4.1: PTR Functional Behavioral Assessment Checklist**
 
-| PTR Component | Planning Notes |
-| --- | --- |
-| Setting/context | Technology-rich small group or whole-class STEM/CS task, such as coding, Minecraft Education, robotics, or digital design |
-| Concern to understand | Student appears off task, avoids starting, calls out for help repeatedly, shuts down, or leaves the task during multi-step digital work |
-| Possible function/communication | "I do not know what to do next"; "the interface is confusing"; "I need help but do not want to look incapable"; "the group is moving too fast"; "the noise/visual load is too much"; "I need a break or a different role" |
-| Prevention supports | Visual task sequence; projected click path; login cards; vocabulary support; paired roles; preview of expected product; short checkpoints; reduced open-endedness at launch; low-stigma help signal |
-| Teach supports | Teach students how to ask for help, use a debugging checklist, request a break, choose a peer role, explain what is stuck, and return to the task after support |
-| Reinforce supports | Reinforce strategy use, help-seeking, peer collaboration, explaining thinking, returning after a break, and using the checklist, not just finishing fastest |
-| Data to collect | Start time, help requests, completed checkpoints, break requests, successful returns to task, peer interactions, student self-rating of clarity |
-| Adult response plan | Use quiet/private prompts, offer two choices, point to visual sequence, ask "Which step are you on?", and avoid public correction |
+The [official publisher page](https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx) confirms the 2019 second edition and Appendix 4.1 title. The completed public-safe working responses are in [PTR Appendix 4.1 Completion Notes](ptr-appendix-4-1-completion-notes.md). Piter should review those notes and transfer them into the authorized 2019 form before submission.
 
-## Submission Draft
+## Selected 2025-2026 Classroom Experience
 
-For this assignment, I selected a PTR-style planning guide focused on prevention supports for a technology-rich classroom task. I chose this context because my 2025-2026 field experiences showed me how easily student behavior can be misread during digital or STEM activities. A student may look avoidant, disruptive, or disengaged when the actual barrier is unclear directions, interface confusion, reading load, executive-function demands, sensory load, or uncertainty about how to ask for help.
+This draft uses one documented, non-identifying event from my Pine Brook elementary technology/IGNITE placement. During a transition from a familiar laptop activity to building with blocks, a learner raised their voice and protested when an adult tried to take the laptop away. I asked that the learner be allowed to keep the laptop while joining the hands-on activity. The learner began building and remained connected.
 
-Using Prevent-Teach-Reinforce helped me organize the situation more carefully. The "prevent" part asks what can change before the difficulty occurs. In this context, prevention includes a visible task sequence, a projected click path, login supports, vocabulary support, short checkpoints, and peer roles. These supports reduce unnecessary cognitive load and help students begin successfully.
+The event is useful because it shows why a functional assessment must examine the transition, the adult request, the familiar tool, and the student's response to a changed environment. It does not establish a diagnosis or a certain behavioral function. The Appendix 4.1 responses therefore mark unsupported fields as unknown and frame the functional explanation as a hypothesis to investigate.
 
-The "teach" part reminds me that replacement skills have to be explicitly taught. If I want students to ask for help, request a break, debug, or rejoin a group after frustration, I cannot assume those skills are already available in the moment. I need to model the language and routines: "I am stuck on step ___," "I need a quiet minute," "Can I be the materials manager first?", or "I tried ___ and now I need ___." Teaching these skills respects dignity because it gives students a usable communication path.
+## Almost-Ready Summary
 
-The "reinforce" part also matters. I would reinforce students for using the support system, not only for completing the assignment quickly or quietly. For example, I would notice when a student uses the visual checklist, asks for help before escalating, supports a peer, returns after a break, or explains what made the task confusing. This shifts reinforcement toward self-advocacy, collaboration, and persistence.
+### What completing Appendix 4.1 changed in my thinking
 
-PTR fits my future classroom practice because it gives me a structure for seeing behavior as communication. It also helps me avoid placing the entire burden on the student. If a student is struggling, I should ask whether the environment, directions, routine, materials, sensory demands, or adult responses are contributing to the pattern. In a neurodiversity-affirming classroom, support should expand access and agency rather than simply produce compliance.
+For this assignment, I selected the PTR Functional Behavioral Assessment Checklist in Appendix 4.1 of Dunlap et al. (2019). I completed a review draft based on a classroom event in which a learner protested the removal of a familiar laptop during a transition to building with blocks. The easiest adult interpretation would have been that the student was noncompliant or refusing the lesson. The PTR structure required me to slow down and examine what happened before the protest, what the adult did next, and what changed when the environment became more flexible.
 
-## Before Submitting
+The most important observation is that participation did not require taking the laptop away. When I allowed the learner to keep the laptop and invited them to build with us, the learner began using the blocks and continued participating. That response suggests that the laptop may have supported predictability, regulation, confidence, communication, continued access to a preferred activity, or a combination of those functions. I cannot know which explanation is correct from one event. The PTR process is valuable precisely because it treats that first explanation as a hypothesis rather than a fact.
 
-- Name the exact Dunlap et al. PTR appendix/resource you completed.
-- Attach or paste the completed checklist/resource if Blackboard expects it.
-- Replace the general context with a more precise non-identifying classroom example if useful.
-- Add course citation: Dunlap, Iovannone, Kincaid, Wilson, Christiansen, and Strain.
+### Prevent
+
+The prevent section helped me locate the concern in a specific transition instead of inside the student. The immediate conditions included an expected change from a familiar device to a different material, attempted removal of the familiar item, and a less familiar entry point. Prevention could include a visible transition preview, one direction at a time, a modeled first step, a short overlap period, and choices such as keeping the laptop beside the blocks, observing first, beginning with a partner, or using a timer chosen with the learner.
+
+These are not rewards for protesting. They are ways to make the transition understandable and preserve access before a student has to escalate communication. My current EDU486 camp work reinforces this point. Youth asked for short explanations, visible sequences, and a chance to begin quickly. On our first field day, the activities were strong, but closure became rushed and not every response route was consistently visible. Prevention is not only an individualized accommodation. It is the quality of the instructional design.
+
+### Teach
+
+The teach section asks what the learner could do that would meet the same need more safely or effectively. In this case, useful communication might include "not yet," "more time," "keep this with me," "show me," "help," or "break." Those options should be available through speech, text, visuals, gesture, AAC, pointing, or a partner-supported response. A support plan would also teach adults to recognize and honor those signals whenever safely possible.
+
+Jorgensen (2018) strengthens this part of PTR. Presuming competence is not enough; educators have to construct communicative competence by making communication available throughout the day. If a student does not yet have a reliable way to negotiate a transition, the answer is not to punish the existing signal and hope a better one appears. The team must build a pathway that works under real classroom conditions.
+
+### Reinforce
+
+The reinforce section helped me distinguish reinforcement from bribery or praise chosen only by adults. In the documented event, the natural result of the changed support was continued access to a familiar tool and entry into a shared activity. Future reinforcement should make the replacement communication effective. If the learner signals "more time" or "keep this with me," the adult should respond consistently when safety allows. The plan can also recognize joining, re-entering, trying a new material, communicating a boundary, or contributing through a different route.
+
+I would not define success as becoming quiet, surrendering the laptop, making eye contact, or switching materials on the adult's preferred schedule. Gardner's (2017) first-hand report warns that interventions can create masking, shame, and weakened boundaries when their real goal is to make autistic people appear more typical. Reinforcement should increase access, communication, self-advocacy, and participation.
+
+### Evidence limits and collaboration
+
+The completed notes contain many "unknown" responses. That is a strength, not an unfinished excuse. One event does not establish time-of-day patterns, sensory conditions, family circumstances, praise preferences, or a stable behavioral function. A fuller PTR process would need repeated observations, the learner's own communication, family and team knowledge, existing IEP supports, and data about what happens under different transition conditions.
+
+I would also collect data about adult behavior and plan fidelity. Did the adult provide the preview? Was the communication option available? Was the learner allowed to use it? Did the plan increase participation and reduce distress across settings? If the learner does not benefit, the team should reconsider the hypothesis or redesign the plan before concluding that the student failed.
+
+### How PTR will inform my future classroom
+
+PTR gives me a structure for turning "behavior is communication" from a slogan into an accountable process. In my future classroom, I will:
+
+1. define behavior in clear, observable language
+2. separate observation from inference
+3. collect information about tasks, transitions, tools, sensory conditions, peers, communication access, and adult responses
+4. ask the student and family what the behavior, support, and goal mean to them
+5. prevent unnecessary barriers
+6. teach a functionally useful communication or participation route
+7. reinforce agency and meaningful engagement
+8. monitor both student outcomes and adult implementation
+9. revise the plan when it reduces behavior without increasing dignity, safety, communication, or belonging
+
+This connects directly to my Puzzle Plan and EQUITAS goals. The Puzzle Plan is my interdisciplinary framework for combining lived experience, education, data, and research to understand complex problems more fully. EQUITAS is the equity-focused lens within that framework, used to examine whose knowledge is included, what context is missing, and where power or bias may shape decisions. In PTR, no behavior, diagnosis, checklist item, or adult interpretation should stand alone. Each is one piece of a larger picture that should lead to better access, not a more sophisticated form of control.
+
+## References
+
+Dunlap, G., Iovannone, R., Kincaid, D., Wilson, K., Christiansen, K., & Strain, P. S. (2019). *Prevent-Teach-Reinforce: The school-based model of individualized positive behavior support* (2nd ed.). Paul H. Brookes Publishing.
+
+Gardner, F. (2017). *First-hand perspectives on behavioral interventions for autistic people and people with other developmental disabilities*. Office of Developmental Primary Care, University of California, San Francisco.
+
+Jorgensen, C. M. (2018). Construct learning and communicative competence. In *It's more than "just being in": Creating authentic inclusion for students with complex support needs*. Paul H. Brookes Publishing.
+
+## Submission Assembly Checklist
+
+- [x] Exact 2019 PTR resource selected.
+- [x] Non-identifying 2025-2026 classroom context selected.
+- [x] Every Appendix 4.1 area has a supported response or is marked unknown.
+- [x] Narrative explains future use of PTR.
+- [x] Evidence limits and student/family collaboration are addressed.
+- [ ] Piter reviews and approves the classroom case.
+- [ ] Piter transfers the notes into the official Appendix 4.1 form.
+- [ ] Piter attaches the completed official form to this narrative.
+- [ ] Piter verifies the due date and submission format in Blackboard.
 
 ## Portfolio Reuse
 
-This can become portfolio resource 3: **PTR Classroom Access And Support Checklist**.
-
+After Piter's review, this can become portfolio resource 3: **PTR Access, Communication, and Support Review Guide**.

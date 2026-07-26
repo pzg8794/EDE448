@@ -1,46 +1,66 @@
-# Jorgensen (2018) - Social Relationships - Themed Overview
+# Jorgensen (2018) - Facilitate Reciprocal Social Relationships - Themed Overview
 
 ## Source Location
 
 - Source PDF: `Module2/Read/Jorgenseon (2018) Social Relationships.pdf`
 - Local converted Markdown: `local-derived/pdf-markdown/Module2/Read/Jorgenseon (2018) Social Relationships.md`
-- Module: Module 2: Supporting Students with Prosocial Norms in School-Based Settings
+- Chapter 8 of *It's More Than "Just Being In": Creating Authentic Inclusion for Students with Complex Support Needs*
+- Metadata note: `Jorgenseon` is a typo in the local filename; the author is Cheryl M. Jorgensen.
 
-## Source Purpose
+## Central Argument
 
-Reciprocal social relationships.
+Physical inclusion and professional support do not substitute for friendship. Jorgensen argues that reciprocal relationships are quality-of-life outcomes and a foundation for belonging. A life organized mainly around paid staff is not equivalent to relationships with people who choose one another.
 
-## Main Ideas
+The chapter questions programs that assign or reward a nondisabled student for being a disabled student's "special friend." Adult-arranged proximity may be useful, but it should not be confused with reciprocal friendship. A support structure can unintentionally mark one student as a service recipient and another as a helper.
 
-This reading focuses on reciprocal social relationships as part of authentic inclusion. It challenges classrooms that place students physically near peers without supporting real relationship.
+## Barriers the Environment Must Remove
 
-- Belonging is an access need.
-- Healing means replacing isolation and token inclusion with reciprocal participation.
-- Agency grows when students can contribute socially, not only receive support.
+Jorgensen identifies barriers that are often blamed on the disabled student:
 
-## Puzzle Plan Connection
+- not being a valued member of general education
+- dangerous assumptions about competence
+- overreliance on one-to-one paraprofessionals
+- mistaking peer support for friendship
+- segregated instruction and activities
+- age-inappropriate materials
+- lack of communication for peer topics
+- a culture of prejudice or ableism
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+The chapter refuses the idea that the student must first become more typical, attractive, or socially skilled enough to deserve friends.
 
-## EQUITAS Connection
+## Conditions for Reciprocity
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+Important conditions include:
 
-## Course Theme Connection
+- presume value and competence
+- provide communication about the same academic and social topics peers use
+- include students in heterogeneous classes and extracurricular activities
+- use age-appropriate materials and experiences
+- support interdependence without creating dependence on adults
+- involve students in identifying and removing social barriers
+- partner with families
+- position disabled students to contribute, help, and give back
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+Contribution matters because belonging is weakened when a student is always represented as the person who receives help.
 
-## Teaching Implications
+## Dignity, Consent, and Neurodiversity
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
+Dignity means being known through interests, strengths, humor, preferences, and contributions rather than deficit labels. Consent means that peer contact and "help" should not be forced on a student for someone else's inclusion lesson. Neurodiversity means relationships do not require typical speech, eye contact, or social performance; communication support and shared experience can create real reciprocity.
 
-## Placement Connection
+## Puzzle Plan and EQUITAS
 
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
+The Puzzle Plan asks whether a social difficulty belongs to the learner or to the class schedule, adult positioning, segregated curriculum, communication access, or peer culture. EQUITAS asks who gets to be a friend, leader, helper, expert, or contributor and who is permanently cast as dependent.
+
+## Placement and Camp Connections
+
+Hands-on technology and camp activities can support reciprocal roles when students can sample, photograph, label, build, explain, debug, record, or revise. Role cards should create meaningful interdependence, not assign one peer to control the tool while another watches. Proactive support should preserve a learner's chance to contribute.
+
+## Assignment Use
+
+- Peer and belonging layer for the [Positive Classroom Support Plan](../../positive-classroom-support-plan-draft.md)
+- Supplementary source for the [Module 2 journal](../../module2-journal-draft.md)
+- Portfolio planning for reciprocal peer participation
 
 ## Final Themed Takeaway
 
-Use this source for peer support, classroom community, and final portfolio resources.
+Authentic inclusion is not being placed near peers or assigned a helper. It is having communication, shared experiences, valued contributions, and enough freedom for reciprocal relationships to grow.

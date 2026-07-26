@@ -1,46 +1,52 @@
-# ProQuest Ebook Central - Book Details - Themed Overview
+# Kluth (2023) - ProQuest Book Record - Themed Overview
 
 ## Source Location
 
 - Source PDF: `Module2/Read/ProQuest Ebook Central - Book Details.pdf`
 - Local converted Markdown: `local-derived/pdf-markdown/Module2/Read/ProQuest Ebook Central - Book Details.md`
-- Module: Module 2: Supporting Students with Prosocial Norms in School-Based Settings
+- ProQuest document ID: `7279840`
 
-## Source Purpose
+## Correct Source Identity
 
-Source access and bibliographic record.
+This PDF is the ProQuest access and table-of-contents record for:
 
-## Main Ideas
+Kluth, P. (2023). *You're going to love this kid!: Teaching students with autism in the inclusive classroom* (3rd ed.). Paul H. Brookes Publishing.
 
-This file appears to be a ProQuest book-details record rather than a content-heavy reading. Its value is source provenance: it helps identify and cite the required text or ebook source.
+It is **not** the Prevent-Teach-Reinforce book record and should not be used as evidence that the PTR text was reviewed.
 
-- Source access is part of academic access: students need stable citation trails.
-- The Puzzle Plan connection is provenance and evidence hygiene.
-- EQUITAS also includes navigability: knowing where a source came from reduces confusion and rework.
+## What the Local PDF Contains
 
-## Puzzle Plan Connection
+The file identifies:
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+- title and subtitle
+- author Paula Kluth
+- third edition
+- Brookes Publishing
+- institutional access
+- ebook table of contents and chapter-download options
+- a short publisher description
 
-## EQUITAS Connection
+It does not contain a selected Kluth chapter or enough conceptual content to serve as one of the three completed Module 2 readings.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+## Themed Relevance
 
-## Course Theme Connection
+The record confirms that Kluth's inclusive-classroom book is available as an optional Module 2 source. If Piter selects a chapter later, a separate source-grounded summary should be created from that chapter. The likely course connection is practical inclusive teaching that recognizes autistic students as full members of the classroom, but that claim should be grounded in the actual chapter rather than inferred from a book-details screen.
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+## Puzzle Plan and EQUITAS
 
-## Teaching Implications
+This source is mainly about provenance and honest evidence boundaries:
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
+- identify the source correctly
+- distinguish access metadata from completed reading
+- do not cite a table of contents as though it were a chapter
+- preserve a clear trail from claim to source
 
-## Placement Connection
+## Assignment Use
 
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
+- Bibliographic and access record only
+- Optional reading-selection aid
+- Not part of the current three-source core set
 
 ## Final Themed Takeaway
 
-Use this as a citation/provenance helper, not as a main conceptual reading.
+Correct source identity is part of equitable evidence practice. This record points to Kluth's book; it does not substitute for reading and analyzing a chapter.

@@ -1,10 +1,11 @@
-# Goldstein (2013) - Classroom Management - Themed Overview
+# Goodstein (2013) - Classroom Management - Themed Overview
 
 ## Source Location
 
 - Source PDF: `Module2/Read/Goldstein (2013) Classroom Management.pdf`
 - Local converted Markdown: `local-derived/pdf-markdown/Module2/Read/Goldstein (2013) Classroom Management.md`
 - Module: Module 2: Supporting Students with Prosocial Norms in School-Based Settings
+- Metadata note: the local filename says `Goldstein`; the source itself identifies the author as Phyllis Kaufman Goodstein.
 
 ## Source Purpose
 
@@ -12,7 +13,7 @@ Classroom management and social architecture.
 
 ## Main Ideas
 
-Goldstein helps frame classroom management as social design. The source is useful for thinking about how routines, norms, and adult actions shape peer behavior.
+Goodstein helps frame classroom management as social design. The source is useful for thinking about how routines, norms, and adult actions shape peer behavior.
 
 - The access question is whether management systems create belonging or surveillance.
 - Criticality asks how classroom structures can reproduce social hierarchies.

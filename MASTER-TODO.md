@@ -1,6 +1,6 @@
 # EDE448 Master Task And Assignment Tracker
 
-Last updated: July 15, 2026
+Last updated: July 26, 2026
 
 ## Course Throughline
 
@@ -10,8 +10,8 @@ Last updated: July 15, 2026
 
 | Priority | Due | Task | Status | Working File |
 | --- | --- | --- | --- | --- |
-| 1 | July 15, 2026, 11:59 PM EDT | Finish Module 1 journal, Sensory Walk, Kit for Kids lesson, and takeaways | Journal/takeaways ready; Sensory Walk ready; Kit for Kids simulation draft generated from Grade 2 placement evidence | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
-| 2 | July 22, 2026 internal target | Start and finish Module 2 PTR work early because of the due-date inconsistency | Drafted; needs exact PTR appendix/checklist and citations | [Module 2 tracker](assignments/module2/module2-task-tracker.md) |
+| 1 | Journal: July 31, 2026, 11:59 PM EDT; verify other Blackboard dates | Review and finalize the complete Module 2 package | Five assignment/discussion drafts, Appendix 4.1 completion notes, references, and source summaries prepared; nothing submitted | [Module 2 review guide](assignments/module2/REVIEW-GUIDE.md) |
+| 2 | Verify prior submission state | Reconcile any remaining Module 1 posting/submission receipts | Local package exists; Blackboard submission state was not changed in this workflow | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
 | 3 | August 6-7, 2026 | Build Module 3 AAC/communication work and final portfolio together | Discussions ready; AAC review/plan still need final details | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
 | 4 | August 7, 2026 | Assemble final 10-resource support portfolio | Planned; needs final resource pages | [Portfolio plan](portfolio/portfolio-plan.md) |
 
@@ -26,12 +26,13 @@ Last updated: July 15, 2026
 | 1 | July 15 | Sensory Walk Experience | Submission packet drafted | Add actual location, observation details, and true recommendations |
 | 1 | July 15 | Teach a Kit for Kids Lesson | Simulation response and LaTeX package drafted from Grade 2 placement evidence | Revise final factual details before submission |
 | 1 | July 15 | Takeaways discussion | Finalized and ready to post | Post to Blackboard and verify submission receipt |
-| 2 | July 22 target | What do you already know discussion | Draft exists | Add starting assumptions and question for peers |
-| 2 | July 22 target | Read three texts, including PTR | Planned; see [Module 2 readings](assignments/module2/readings-index.md) | Select exact PTR chapter/resource and two other readings |
-| 2 | July 22 target | Journal | Draft exists | Add PTR citation and one Module 2 reading/media connection |
-| 2 | July 22 target | Prevent-Teach-Reinforce Planning | Draft exists | Complete the exact Dunlap PTR resource/checklist |
-| 2 | July 22 target | Positive Classroom Support Plan | Draft exists | Add formal citations and any visual/table component |
-| 2 | July 22 target | Takeaways discussion | Draft exists | Add one concrete support shift from the module |
+| 2 | Verify before posting | What do you already know discussion | Almost-ready; not posted | Piter reviews voice and length, then posts manually |
+| 2 | Module window July 14-27 | Read three texts, including PTR | Core set selected and summarized | Confirm Chapter 4/Appendix 4.1, Gardner (2017), and Jorgensen (2018) remain the final set |
+| 2 | Optional | Media | Edutopia selected and critically synthesized | Retain or replace after Piter's review |
+| 2 | July 31, 11:59 PM EDT | Journal | Comprehensive almost-ready draft; not submitted | Piter reviews length, sources, and personal emphasis |
+| 2 | Verify in Blackboard | Prevent-Teach-Reinforce Planning | Appendix 4.1 companion and narrative drafted; not submitted | Approve case, transfer notes to official form, attach, and review |
+| 2 | Verify in Blackboard | Positive Classroom Support Plan | Comprehensive paper-format draft; not submitted | Review setting/length and choose final format |
+| 2 | Verify before posting | Takeaways discussion | Almost-ready; not posted | Revise after completing the module |
 | 3 | August 6 target | What do you know discussion | Ready to post | Final human review before Blackboard submission |
 | 3 | August 6 target | Read three texts | Planned; see [Module 3 readings](assignments/module3/readings-index.md) | Select exact readings |
 | 3 | August 6 target | Watch/listen to one media source | Planned | Add one media example |
@@ -50,10 +51,11 @@ Use the themed reading references before drafting:
 
 - [Module 1 comprehensive reading overview](assignments/module1/reading-summaries/comprehensive_themed_overview.md)
 - [Module 2 comprehensive reading overview](assignments/module2/reading-summaries/comprehensive_themed_overview.md)
+- [Module 2 review guide](assignments/module2/REVIEW-GUIDE.md)
 - [Module 3 comprehensive reading overview](assignments/module3/reading-summaries/comprehensive_themed_overview.md)
 
 - **Puzzle Plan:** lived experience plus systems evidence plus practical tools.
-- **EDU486 Access-to-Agency:** technology and learning design should expand agency, not just efficiency.
+- **EDU486 Access-to-Agency:** technology and learning design should expand agency, not just efficiency; current camp evidence adds short directions, visible sequences, multiple participation routes, proactive support, and reflective redesign.
 - **Teaching placement / Pine Brook evidence:** students' competence can be hidden by login friction, click-path confusion, reading load, sensory load, role ambiguity, and peer-collaboration demands.
 - **ED452C / inclusive design:** access should be designed into Tier 1 routines before students are treated as individually failing.
 - **EDE448 course theme:** behavior is communication; AAC and sensory supports are not extras; positive support must protect dignity, consent, and neurodiversity.
@@ -88,3 +90,5 @@ An assignment is ready when:
 - citations are added where needed
 - AI-use disclosure is added when appropriate
 - the final text can be pasted into Blackboard or exported as the required file
+- Piter has reviewed and approved the actual submission version
+- the tracker clearly distinguishes drafted, review-ready, posted, and submitted

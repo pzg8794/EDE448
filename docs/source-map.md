@@ -35,11 +35,23 @@ This repo documents source provenance without publishing raw course packets.
 | Source | Use |
 | --- | --- |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/README.md` | Public course repo structure and boundary model |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/docs/access-to-agency-course-theme.md` | Access-to-agency commitments, multiple evidence modes, no forced disclosure, and bodymind variability |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md` | Youth feedback on short directions, visible sequence, choice, proactive check-ins, and pass/re-entry |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/camp-media/camp-day-1/reflections/day1-reflection.md` | July 24 hands-on camp evidence, participation routes, design gaps, evidence limits, and redesign |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/assignments/06-module2-reflection/module2-reflection.tex` | Personalized Puzzle Plan/EQUITAS definitions and inclusion-as-rigor framing |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/docs/phd-puzzle-plan-alignment.md` | Public PhD/Puzzle Plan course-alignment style |
+| `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/transcripts/non-lesson-context/260210-placement-expectations-and-observation-planning.txt` | Non-identifying laptop-and-blocks placement event used for PTR reflection |
+| `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/coursework/tasks/student-teaching-internship-action-items-and-key-information.md` | Curated record confirming the placement event |
 | `/Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md` | Puzzle Plan pillars: technical rigor, educational equity, lived experience, translational outputs |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/ED452C/portfolio/puzzle-plan-evidence-map.md` | Placement/portfolio bridge language around inclusive design and technology access |
+
+## Public Reference Sources
+
+| Source | Use |
+| --- | --- |
+| https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx | Verifies 2019 PTR second-edition metadata, five-step process, and appendix titles |
+| https://www.delawarepbs.org/wp-content/uploads/2019/10/Handouts-Combined.pdf | Verifies the 2019 Appendix 4.1 fields; copyrighted form is linked, not reproduced |
 
 ## Public Boundary
 
 The source files above are used for requirements extraction and private working context. They are not committed to this public repo unless they are original public-safe work products.
-

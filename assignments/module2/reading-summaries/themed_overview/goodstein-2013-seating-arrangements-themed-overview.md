@@ -1,22 +1,23 @@
-# Zacarian (2016) - Classroom Community - Themed Overview
+# Goodstein (2013) - Seating Arrangements - Themed Overview
 
 ## Source Location
 
-- Source PDF: `Module2/Read/Zacaria (2016) Classroom Community.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module2/Read/Zacaria (2016) Classroom Community.md`
+- Source PDF: `Module2/Read/Goldstein (2013) Seating Arrangements.pdf`
+- Local converted Markdown: `local-derived/pdf-markdown/Module2/Read/Goldstein (2013) Seating Arrangements.md`
 - Module: Module 2: Supporting Students with Prosocial Norms in School-Based Settings
+- Metadata note: the local filename says `Goldstein`; the source itself identifies the author as Phyllis Kaufman Goodstein.
 
 ## Source Purpose
 
-Classroom, family, and community partnership.
+Physical/social arrangement of classroom space.
 
 ## Main Ideas
 
-Zacarian supports the idea that classroom community is built with students, families, and communities, not simply managed by the teacher.
+This source treats seating and spatial arrangement as behavior support. It reminds us that classroom layout communicates expectations and shapes interaction.
 
-- Identity and culture matter in classroom support.
-- Healing means families are treated as knowledge partners instead of afterthoughts.
-- Agency grows when support plans include student and family voice.
+- Access is spatial: where students sit affects participation, sensory load, peer interaction, and adult support.
+- EQUITAS asks whether seating decisions empower students or mark them as problems.
+- The Puzzle Plan link is environmental evidence: behavior patterns may reveal layout barriers.
 
 ## Puzzle Plan Connection
 
@@ -43,4 +44,4 @@ This connects to the Pine Brook / technology-rich placement pattern: students' c
 
 ## Final Themed Takeaway
 
-Use this source to strengthen family/community collaboration in the positive support plan.
+Use this source for classroom layout, sensory walk, and positive support portfolio resources.
