@@ -46,6 +46,13 @@ Ortega, F. (2013). Cerebralizing autism within the neurodiversity movement. In J
 - Course readings and media under `Module2/Read/` and `Module2/Media/`
 - Local-only searchable conversions under `local-derived/pdf-markdown/Module2/`
 
+## Blackboard Assignment Destinations
+
+- [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1), due July 31, 2026, at 11:59 PM EDT
+- [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1), due July 31, 2026, at 11:59 PM EDT
+- [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1), due July 31, 2026, at 11:59 PM EDT
+- [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1), with no due date displayed in the supplied listing
+
 ## Practice and Personalization Sources
 
 - Module 1 journal and takeaways in this repository

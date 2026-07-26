@@ -2,7 +2,9 @@
 
 ## Blackboard Prompt
 
-Due: July 31, 2026, 11:59 PM EDT
+[Open Module #2 Journal in Blackboard](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1)
+
+**Due:** July 31, 2026, 11:59 PM EDT
 
 > After completing the READ and MEDIA for this module, respond to this question: How can support strategies respect dignity, consent, and neurodiversity?
 

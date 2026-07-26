@@ -52,6 +52,15 @@ This repo documents source provenance without publishing raw course packets.
 | https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx | Verifies 2019 PTR second-edition metadata, five-step process, and appendix titles |
 | https://www.delawarepbs.org/wp-content/uploads/2019/10/Handouts-Combined.pdf | Verifies the 2019 Appendix 4.1 fields; copyrighted form is linked, not reproduced |
 
+## Module 2 Blackboard Destinations
+
+| Item | Due Status | Repository Review |
+| --- | --- | --- |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning-draft.md) and [Appendix 4.1 notes](../assignments/module2/ptr-appendix-4-1-completion-notes.md) |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](../assignments/module2/positive-classroom-support-plan-draft.md) |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Journal draft](../assignments/module2/module2-journal-draft.md) |
+| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](../assignments/module2/takeaways-discussion-draft.md) |
+
 ## Public Boundary
 
 The source files above are used for requirements extraction and private working context. They are not committed to this public repo unless they are original public-safe work products.

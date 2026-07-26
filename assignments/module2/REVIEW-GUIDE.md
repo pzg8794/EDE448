@@ -21,22 +21,24 @@ The course materials require:
 - a Positive Classroom Support Plan
 - the opening and takeaways discussions shown in Blackboard
 
-The Blackboard journal screenshot gives a due date of **July 31, 2026, at 11:59 PM EDT**. The syllabus separately lists a July 22 course target and a July 14-27 module window. Because those records conflict, the exact Blackboard due date for each remaining assignment must be checked before submission.
+The direct Blackboard listings supplied on July 26 give a due date of **July 31, 2026, at 11:59 PM EDT** for Prevent Teach Reinforce Planning, the Positive Classroom Support Plan, and the Module #2 Journal. The Takeaways listing did not display a due date. The syllabus's July 22 target and July 14-27 module window remain planning records rather than the current assignment deadlines.
 
 ## Selected Source Set
 
 ### Three Core Module 2 Reads
 
-1. Dunlap et al. (2019), *Prevent-Teach-Reinforce: The School-Based Model of Individualized Positive Behavior Support*, Chapter 4 and Appendix 4.1.
-2. Gardner (2017), *First-Hand Perspectives on Behavioral Interventions for Autistic People and People with Other Developmental Disabilities*.
-3. Jorgensen (2018), "Construct Learning and Communicative Competence."
+1. [Dunlap et al. and PTR](reading-summaries/themed_overview/dunlap-pbs-autism-ptr-themed-overview.md): *Prevent-Teach-Reinforce*, Chapter 4 and Appendix 4.1.
+2. [Gardner (2017)](reading-summaries/themed_overview/behavioral-interventions-report-themed-overview.md): *First-Hand Perspectives on Behavioral Interventions for Autistic People and People with Other Developmental Disabilities*.
+3. [Jorgensen (2018)](reading-summaries/themed_overview/jorgensen-2018-communicative-competence-themed-overview.md): "Construct Learning and Communicative Competence."
 
 ### Supplementary Module 2 Sources
 
-- Dunlap, Strain, and Fox (2012), "Positive Behavior Support and Young People with Autism."
-- Jorgensen (2018), "Facilitate Reciprocal Social Relationships."
-- Zacarian and Silverstone (2015), "Preparing for Classroom Community."
-- Edutopia, *Classroom Management for New Teachers*.
+- [Dunlap, Strain, and Fox (2012)](reading-summaries/themed_overview/dunlap-pbs-autism-ptr-themed-overview.md), "Positive Behavior Support and Young People with Autism."
+- [Jorgensen (2018)](reading-summaries/themed_overview/jorgensen-2018-social-relationships-themed-overview.md), "Facilitate Reciprocal Social Relationships."
+- [Zacarian and Silverstone (2015)](reading-summaries/themed_overview/zacarian-silverstone-2015-classroom-community-themed-overview.md), "Preparing for Classroom Community."
+- [Edutopia media synthesis](reading-summaries/media-synthesis.md), *Classroom Management for New Teachers*.
+
+Review every available source directly from the [complete themed-summary list](README.md#direct-themed-reading-summaries).
 
 ### Continuity and Practice Evidence
 
@@ -45,24 +47,27 @@ The Blackboard journal screenshot gives a due date of **July 31, 2026, at 11:59 
 - EDU486 Invisible Invaders planning and July 24 field reflection: short directions, visible sequences, multiple participation routes, proactive check-ins, and honest review of where adult direction or time pressure reduced access.
 - Puzzle Plan and EQUITAS: richer evidence, intersectional context, access-to-agency, and redesign before blame.
 
-## Draft Package
+## Direct Assignment Review
 
-| Artifact | Current State | Final Human Decision |
-| --- | --- | --- |
-| [What do you know?](what-do-you-know-discussion-draft.md) | Almost-ready opening response | Confirm length and posting voice |
-| [Module 2 journal](module2-journal-draft.md) | Comprehensive review draft | Revise personal emphasis and final source set |
-| [PTR Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md) | Completed from one documented placement event, with evidence limits | Transfer reviewed answers into the official 2019 form |
-| [PTR planning summary](prevent-teach-reinforce-planning-draft.md) | Almost-ready assignment narrative | Confirm the selected case and attach the official completed form |
-| [Positive Classroom Support Plan](positive-classroom-support-plan-draft.md) | Comprehensive paper-format draft | Decide whether to keep as paper or convert to another format |
-| [Takeaways](takeaways-discussion-draft.md) | Almost-ready closing response | Revise after completing the module |
-| [References and source trail](references.md) | Draft citation set | Verify the final sources actually used |
+| Blackboard Item | Due | Repository Review Material | Final Human Decision |
+| --- | --- | --- | --- |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR planning draft](prevent-teach-reinforce-planning-draft.md); [Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md) | Confirm the selected case, transfer notes into the official form, and attach it |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](positive-classroom-support-plan-draft.md) | Decide whether to keep it as a paper or convert it |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Journal draft](module2-journal-draft.md) | Revise personal emphasis and final source set |
+| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](takeaways-discussion-draft.md) | Revise after completing the module |
+
+Additional module materials:
+
+- [What do you know? opening response](what-do-you-know-discussion-draft.md)
+- [References and source trail](references.md)
+- [Complete themed-summary list](README.md#direct-themed-reading-summaries)
 
 ## Decisions Before Anything Is Submitted
 
 - Confirm that the laptop-and-blocks event is the classroom experience Piter wants to use for the PTR assignment.
 - Review every tentative PTR inference. One event supports a useful hypothesis, not a diagnosis or a final functional assessment.
 - Open the authorized 2019 Appendix 4.1 form and transfer the reviewed completion notes into it.
-- Confirm the exact Blackboard due dates for the PTR assignment, support plan, and discussions.
+- Confirm whether Blackboard gives Takeaways a separate due date.
 - Edit the journal and support plan for Piter's preferred length, warmth, and emphasis.
 - Confirm that every named reading or media source was meaningfully engaged before retaining it in the final submission.
 - Add an AI-use disclosure if Piter decides it is appropriate for the selected submission format.

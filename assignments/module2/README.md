@@ -12,11 +12,14 @@ Start with the [Module 2 Review Guide](REVIEW-GUIDE.md).
 
 ## Date Record
 
-- Blackboard journal screenshot: **July 31, 2026, 11:59 PM EDT**
+- Blackboard Prevent Teach Reinforce Planning: **July 31, 2026, 11:59 PM EDT**
+- Blackboard Positive Classroom Support Plan: **July 31, 2026, 11:59 PM EDT**
+- Blackboard Module #2 Journal: **July 31, 2026, 11:59 PM EDT**
+- Blackboard Takeaways: direct item confirmed; no due date was shown in the supplied listing
 - Syllabus course summary: **July 22, 2026**
 - Syllabus/quick-guide module window: **July 14-27, 2026**
 
-These records conflict. Treat July 31 as verified only for the journal screenshot and check the current Blackboard date for each remaining item before submission.
+The direct Blackboard listings supplied on July 26 establish July 31 as the due date for PTR Planning, the Positive Classroom Support Plan, and the journal. The earlier syllabus dates remain useful as course-planning records but do not replace those current assignment dates.
 
 ## Required Work
 
@@ -29,14 +32,16 @@ These records conflict. Treat July 31 as verified only for the journal screensho
 - Complete the Positive Classroom Support Plan.
 - Respond to the opening and takeaways discussions.
 
-## Assignment Drafts
+## Direct Assignment Links
 
-- [What do you know?](what-do-you-know-discussion-draft.md)
-- [Module 2 journal](module2-journal-draft.md)
-- [PTR Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md)
-- [Prevent-Teach-Reinforce Planning](prevent-teach-reinforce-planning-draft.md)
-- [Positive Classroom Support Plan](positive-classroom-support-plan-draft.md)
-- [Takeaways](takeaways-discussion-draft.md)
+| Blackboard Item | Due | Review Draft and Supporting Work |
+| --- | --- | --- |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR planning draft](prevent-teach-reinforce-planning-draft.md); [Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md) |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](positive-classroom-support-plan-draft.md) |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Journal draft](module2-journal-draft.md) |
+| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](takeaways-discussion-draft.md) |
+
+Additional module response: [What do you know? discussion draft](what-do-you-know-discussion-draft.md).
 
 ## Source Support
 
@@ -46,13 +51,33 @@ These records conflict. Treat July 31 as verified only for the journal screensho
 - [Media synthesis](reading-summaries/media-synthesis.md)
 - [References and source trail](references.md)
 
-## Current Core Source Set
+## Direct Themed Reading Summaries
 
-1. Dunlap et al. (2019), *Prevent-Teach-Reinforce*, Chapter 4 and Appendix 4.1
-2. Gardner (2017), first-hand perspectives on behavioral interventions
-3. Jorgensen (2018), constructing learning and communicative competence
+### Current Core Source Set
 
-Supplementary sources include Dunlap, Strain, and Fox (2012), Jorgensen's reciprocal-relationships chapter, Zacarian and Silverstone (2015), Edutopia, Module 1 sources, Pine Brook placement evidence, and EDU486 camp work.
+1. [Dunlap positive behavior support and Prevent-Teach-Reinforce](reading-summaries/themed_overview/dunlap-pbs-autism-ptr-themed-overview.md)
+2. [Gardner (2017) - First-hand perspectives on behavioral interventions](reading-summaries/themed_overview/behavioral-interventions-report-themed-overview.md)
+3. [Jorgensen (2018) - Construct learning and communicative competence](reading-summaries/themed_overview/jorgensen-2018-communicative-competence-themed-overview.md)
+
+### Supplementary Source Summaries
+
+- [Jorgensen (2018) - Facilitate reciprocal social relationships](reading-summaries/themed_overview/jorgensen-2018-social-relationships-themed-overview.md)
+- [Zacarian and Silverstone (2015) - Preparing for classroom community](reading-summaries/themed_overview/zacarian-silverstone-2015-classroom-community-themed-overview.md)
+- [Kluth (2023) - ProQuest book record](reading-summaries/themed_overview/proquest-ebook-central-book-details-themed-overview.md)
+
+### Additional Source Summaries
+
+- [Simon (2016) - Autism spectrum disorder and school-centered interventions](reading-summaries/themed_overview/autism-spectrum-disorder-school-centered-themed-overview.md)
+- [Autism Speaks - Challenging behaviors tool kit](reading-summaries/themed_overview/challenging-behaviors-tool-kit-themed-overview.md)
+- [Denning and Moody (2018) - Behavioral interventions](reading-summaries/themed_overview/denning-moody-behavioral-interventions-themed-overview.md)
+- [Goodstein (2013) - Classroom management](reading-summaries/themed_overview/goodstein-2013-classroom-management-themed-overview.md)
+- [Goodstein (2013) - Peer support](reading-summaries/themed_overview/goodstein-2013-peer-support-themed-overview.md)
+- [Goodstein (2013) - Seating arrangements](reading-summaries/themed_overview/goodstein-2013-seating-arrangements-themed-overview.md)
+- [Leach excerpt](reading-summaries/themed_overview/leach-excerpt-themed-overview.md)
+- [Making inclusion work - Evidence-based interventions](reading-summaries/themed_overview/making-inclusion-work-evidence-based-interventions-themed-overview.md)
+- [Assistive technology and sensory supports](reading-summaries/themed_overview/assistive-technology-sensory-supports-themed-overview.md)
+
+Module 1 sources, Pine Brook placement evidence, and EDU486 camp work remain visible in the [references and source trail](references.md).
 
 ## Response Thread
 
@@ -68,6 +93,6 @@ Piter still needs to:
 - confirm the final reading/media set
 - approve the Pine Brook case
 - transfer the Appendix 4.1 notes into the official 2019 form
-- verify current Blackboard due dates
+- confirm whether Blackboard assigns a separate due date to Takeaways
 - decide the final format of each assignment
 - submit or post only after approval

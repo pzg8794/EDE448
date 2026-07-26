@@ -10,7 +10,7 @@ Last updated: July 26, 2026
 
 | Priority | Due | Task | Status | Working File |
 | --- | --- | --- | --- | --- |
-| 1 | Journal: July 31, 2026, 11:59 PM EDT; verify other Blackboard dates | Review and finalize the complete Module 2 package | Five assignment/discussion drafts, Appendix 4.1 completion notes, references, and source summaries prepared; nothing submitted | [Module 2 review guide](assignments/module2/REVIEW-GUIDE.md) |
+| 1 | PTR, support plan, and journal: July 31, 2026, 11:59 PM EDT; Takeaways date not shown | Review and finalize the complete Module 2 package | Direct Blackboard links, five assignment/discussion drafts, Appendix 4.1 completion notes, references, and all 15 source summaries prepared; nothing submitted | [Module 2 direct review links](assignments/module2/README.md#direct-assignment-links) |
 | 2 | Verify prior submission state | Reconcile any remaining Module 1 posting/submission receipts | Local package exists; Blackboard submission state was not changed in this workflow | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
 | 3 | August 6-7, 2026 | Build Module 3 AAC/communication work and final portfolio together | Discussions ready; AAC review/plan still need final details | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
 | 4 | August 7, 2026 | Assemble final 10-resource support portfolio | Planned; needs final resource pages | [Portfolio plan](portfolio/portfolio-plan.md) |
@@ -26,13 +26,13 @@ Last updated: July 26, 2026
 | 1 | July 15 | Sensory Walk Experience | Submission packet drafted | Add actual location, observation details, and true recommendations |
 | 1 | July 15 | Teach a Kit for Kids Lesson | Simulation response and LaTeX package drafted from Grade 2 placement evidence | Revise final factual details before submission |
 | 1 | July 15 | Takeaways discussion | Finalized and ready to post | Post to Blackboard and verify submission receipt |
-| 2 | Verify before posting | What do you already know discussion | Almost-ready; not posted | Piter reviews voice and length, then posts manually |
+| 2 | Confirm in Blackboard | What do you already know discussion | Almost-ready; not posted | Piter reviews voice and length, then posts manually |
 | 2 | Module window July 14-27 | Read three texts, including PTR | Core set selected and summarized | Confirm Chapter 4/Appendix 4.1, Gardner (2017), and Jorgensen (2018) remain the final set |
 | 2 | Optional | Media | Edutopia selected and critically synthesized | Retain or replace after Piter's review |
-| 2 | July 31, 11:59 PM EDT | Journal | Comprehensive almost-ready draft; not submitted | Piter reviews length, sources, and personal emphasis |
-| 2 | Verify in Blackboard | Prevent-Teach-Reinforce Planning | Appendix 4.1 companion and narrative drafted; not submitted | Approve case, transfer notes to official form, attach, and review |
-| 2 | Verify in Blackboard | Positive Classroom Support Plan | Comprehensive paper-format draft; not submitted | Review setting/length and choose final format |
-| 2 | Verify before posting | Takeaways discussion | Almost-ready; not posted | Revise after completing the module |
+| 2 | July 31, 11:59 PM EDT | [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | Comprehensive almost-ready draft; not submitted | [Review journal](assignments/module2/module2-journal-draft.md), then revise length, sources, and personal emphasis |
+| 2 | July 31, 11:59 PM EDT | [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | Appendix 4.1 companion and narrative drafted; not submitted | [Review PTR work](assignments/module2/prevent-teach-reinforce-planning-draft.md), approve case, transfer notes to official form, and attach |
+| 2 | July 31, 11:59 PM EDT | [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | Comprehensive paper-format draft; not submitted | [Review support plan](assignments/module2/positive-classroom-support-plan-draft.md), then choose final format |
+| 2 | No due date shown | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | Almost-ready; not posted | [Review takeaways](assignments/module2/takeaways-discussion-draft.md) after completing the module |
 | 3 | August 6 target | What do you know discussion | Ready to post | Final human review before Blackboard submission |
 | 3 | August 6 target | Read three texts | Planned; see [Module 3 readings](assignments/module3/readings-index.md) | Select exact readings |
 | 3 | August 6 target | Watch/listen to one media source | Planned | Add one media example |

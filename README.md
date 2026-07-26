@@ -38,17 +38,29 @@ My working personal lens is:
 | Due | Deliverable | Repo Draft |
 | --- | --- | --- |
 | July 15, 2026, 11:59 PM EDT | Module 1 journal, discussions, Sensory Walk Experience, Teach a Kit for Kids Lesson | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
-| July 22, 2026 target; July 27 module window | Module 2 journal, PTR planning, Positive Classroom Support Plan | [Module 2 tracker](assignments/module2/module2-task-tracker.md) |
+| July 31, 2026, 11:59 PM EDT | Module 2 journal, PTR planning, Positive Classroom Support Plan; Takeaways date not shown | [Module 2 direct review links](assignments/module2/README.md#direct-assignment-links) |
 | August 6, 2026 target; August 7 graduation target | Module 3 journal, AAC review discussion, Communication Support Plan | [Module 3 tracker](assignments/module3/module3-task-tracker.md) |
 | August 7, 2026 | Communication and Positive Behavioral Support Strategies and Resources Portfolio | [Portfolio plan](portfolio/portfolio-plan.md) |
+
+## Current Module 2 Links
+
+| Blackboard | Repository Review |
+| --- | --- |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | [PTR draft](assignments/module2/prevent-teach-reinforce-planning-draft.md) and [Appendix 4.1 notes](assignments/module2/ptr-appendix-4-1-completion-notes.md) |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | [Support-plan draft](assignments/module2/positive-classroom-support-plan-draft.md) |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | [Journal draft](assignments/module2/module2-journal-draft.md) |
+| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | [Takeaways draft](assignments/module2/takeaways-discussion-draft.md) |
+
+- [Review every Module 2 themed reading summary directly](assignments/module2/README.md#direct-themed-reading-summaries)
+- [Open the complete Module 2 review guide](assignments/module2/REVIEW-GUIDE.md)
 
 ## Themed Reading References
 
 Use these before drafting journals, discussions, assignments, and portfolio pages:
 
-- [Module 1 comprehensive themed overview](assignments/module1/reading-summaries/comprehensive_themed_overview.md)
-- [Module 2 comprehensive themed overview](assignments/module2/reading-summaries/comprehensive_themed_overview.md)
-- [Module 3 comprehensive themed overview](assignments/module3/reading-summaries/comprehensive_themed_overview.md)
+- [Module 1 themed summaries and comprehensive overview](assignments/module1/reading-summaries/README.md)
+- [Module 2 direct themed summaries and comprehensive overview](assignments/module2/README.md#direct-themed-reading-summaries)
+- [Module 3 themed summaries and comprehensive overview](assignments/module3/reading-summaries/README.md)
 
 ## Directory Map
 

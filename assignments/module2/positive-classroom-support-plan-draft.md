@@ -1,5 +1,11 @@
 # Positive Classroom Support Plan
 
+## Blackboard Destination
+
+[Open Positive Classroom Support Plan in Blackboard](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1)
+
+**Due:** July 31, 2026, 11:59 PM EDT
+
 ## Assignment Requirements
 
 - Describe a positive classroom support plan for a future classroom.

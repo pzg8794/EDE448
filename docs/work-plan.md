@@ -28,7 +28,7 @@ Work blocks:
 - Read at least one PTR chapter/resource from Dunlap et al.
 - Select a PTR checklist/guide and complete it using a real or composite non-identifying classroom context.
 - Draft positive classroom support plan with citations.
-- Finish journal by July 22 internal target.
+- Use July 22 as an internal drafting target; Blackboard lists PTR Planning, the support plan, and journal as due July 31.
 
 Portfolio harvesting:
 
@@ -36,15 +36,17 @@ Portfolio harvesting:
 - Positive Classroom Support Plan becomes portfolio resource 4.
 - Classroom routines and consent-centered support language become portfolio resource 5.
 
-## Week 4: Module 2 Buffer, July 23-July 27
+## Week 4: Module 2 Review And Finalization, July 23-July 31
 
-**Goal:** Resolve any Blackboard date ambiguity and polish Module 2 work.
+**Goal:** Review, personalize, and finalize the Module 2 work before the verified Blackboard deadlines.
 
 Work blocks:
 
-- Check Blackboard for the hard due date.
+- Review the [direct Module 2 assignment and repository links](../assignments/module2/README.md#direct-assignment-links).
 - Add citations and final personal field-practice details.
 - Convert the plan into the required submission format.
+- Complete PTR Planning, the Positive Classroom Support Plan, and Module #2 Journal by July 31, 11:59 PM EDT.
+- Confirm whether Takeaways has a separate Blackboard due date.
 - Begin AAC tool review research for Module 3.
 
 ## Week 5: Module 3, July 28-August 6

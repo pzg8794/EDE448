@@ -2,6 +2,10 @@
 
 ## Blackboard Prompt
 
+[Open Takeaways in Blackboard](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1)
+
+**Due:** No due date was shown in the supplied Blackboard listing.
+
 1. What are some takeaways from this module for you?
 2. What do you plan to incorporate or explore further after this course?
 

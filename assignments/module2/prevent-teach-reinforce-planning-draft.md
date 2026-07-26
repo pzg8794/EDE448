@@ -1,5 +1,11 @@
 # Prevent-Teach-Reinforce Planning
 
+## Blackboard Destination
+
+[Open Prevent Teach Reinforce Planning in Blackboard](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1)
+
+**Due:** July 31, 2026, 11:59 PM EDT
+
 ## Assignment Requirements
 
 - Review the resources in Dunlap et al.'s assigned PTR reading.

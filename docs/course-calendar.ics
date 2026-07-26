@@ -16,7 +16,7 @@ DTSTAMP:20260708T120000Z
 DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:EDE448 Module 2 internal due target
-DESCRIPTION:Syllabus assignment summary lists July 22 for Module 2 learning activities and journal. Verify Blackboard.
+DESCRIPTION:Syllabus assignment summary lists July 22 as an internal target. Blackboard lists PTR Planning, the Positive Classroom Support Plan, and Module #2 Journal as due July 31.
 END:VEVENT
 BEGIN:VEVENT
 UID:ede448-module2-window-20260727@pzg8794
@@ -25,6 +25,14 @@ DTSTART;VALUE=DATE:20260727
 DTEND;VALUE=DATE:20260728
 SUMMARY:EDE448 Module 2 course window ends
 DESCRIPTION:Detailed module section says Module 2 runs July 14-July 27.
+END:VEVENT
+BEGIN:VEVENT
+UID:ede448-module2-due-20260731@pzg8794
+DTSTAMP:20260726T120000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:EDE448 Module 2 Blackboard assignments due
+DESCRIPTION:Prevent Teach Reinforce Planning, Positive Classroom Support Plan, and Module #2 Journal are due by 11:59 PM EDT. The supplied Takeaways listing did not show a due date.
 END:VEVENT
 BEGIN:VEVENT
 UID:ede448-module3-target-20260806@pzg8794

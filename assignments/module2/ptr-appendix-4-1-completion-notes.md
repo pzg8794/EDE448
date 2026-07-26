@@ -1,5 +1,7 @@
 # PTR Appendix 4.1 Completion Notes
 
+Related assignment: [Prevent Teach Reinforce Planning in Blackboard](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1), due July 31, 2026, at 11:59 PM EDT.
+
 ## Review Status
 
 **Almost-ready working companion. Not submitted.**
