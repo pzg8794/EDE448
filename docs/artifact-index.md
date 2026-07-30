@@ -38,6 +38,7 @@
 - [Module 2 journal draft](../assignments/module2/module2-journal-draft.md)
 - [PTR Appendix 4.1 completion notes](../assignments/module2/ptr-appendix-4-1-completion-notes.md)
 - [PTR planning draft](../assignments/module2/prevent-teach-reinforce-planning-draft.md)
+- [PTR Module 1-themed LaTeX package](../assignments/module2/prevent-teach-reinforce-latex/README.md)
 - [Positive Classroom Support Plan draft](../assignments/module2/positive-classroom-support-plan-draft.md)
 - [Module 2 takeaways discussion](../assignments/module2/takeaways-discussion-draft.md)
 - [Module 3 index](../assignments/module3/README.md)

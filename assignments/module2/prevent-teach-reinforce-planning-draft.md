@@ -24,6 +24,8 @@
 
 The [official publisher page](https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx) confirms the 2019 second edition and Appendix 4.1 title. The completed public-safe working responses are in [PTR Appendix 4.1 Completion Notes](ptr-appendix-4-1-completion-notes.md). Piter should review those notes and transfer them into the authorized 2019 form before submission.
 
+The formal paper version is available in the [Module 1-themed LaTeX package](prevent-teach-reinforce-latex/README.md).
+
 ## Selected 2025-2026 Classroom Experience
 
 This draft uses one documented, non-identifying event from my Pine Brook elementary technology/IGNITE placement. During a transition from a familiar laptop activity to building with blocks, a learner raised their voice and protested when an adult tried to take the laptop away. I asked that the learner be allowed to keep the laptop while joining the hands-on activity. The learner began building and remained connected.
