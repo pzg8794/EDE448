@@ -1,34 +1,32 @@
 # Module 3 Task Tracker
 
-## Essential Question
+## Due and Submission Rule
 
-What does meaningful communication look like for students with complex needs?
-
-## Due Date
-
-Use August 6, 2026 as the Module 3 target and August 7, 2026 as the graduation/final-portfolio target.
+The local Blackboard captures show **August 10, 2026, 11:59 PM EDT** for AAC Review and Journal #3. Finish by August 7 if graduating this term. All files below are review drafts; nothing has been posted or submitted.
 
 ## Work Tracker
 
-| Task | Status | Draft / Evidence | Finalization Needed |
+| Task | Status | Evidence / Review File | Piter's Final Action |
 | --- | --- | --- | --- |
-| Opening discussion: what do you know? | Ready to post | [What do you know response](what-do-you-know-discussion-draft.md) | Final human review before Blackboard submission |
-| Read three texts | Planned | [Local readings index](readings-index.md); [themed reading summaries](reading-summaries/README.md) | Select exact three readings and citations |
-| Watch/listen to one media source | Planned | Module 3 media | Add concrete moment to journal/takeaways |
-| Module 3 journal | Drafted | [Journal draft](module3-journal-draft.md) | Add selected readings/media and one routine example |
-| AAC Review discussion | Drafted | [AAC review draft](aac-review-discussion-draft.md) | Add final tool details, visuals, and citations/links |
-| Classmate replies | Template drafted | In AAC review draft | Write after classmates post |
-| Communication Support Plan | Drafted | [Communication plan draft](communication-support-plan-draft.md) | Add student/context details and course citations |
-| Takeaways discussion | Ready to post | [Takeaways response](takeaways-discussion-draft.md) | Final human review before Blackboard submission |
+| What Do You Know? | Review draft prepared | [Prompt and response](discussions/README.md#what-do-you-know) | Review voice and post manually |
+| READ 1: Norrie et al. (2021) | Summary prepared | [AAC adoption and support](reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md) | Read/confirm source engagement |
+| READ 2: Downing et al. (2015), Ch. 4 | Summary prepared | [Rich communicative environment](reading-summaries/themed_overview/general-education-rich-communicative-environment-themed-overview.md) | Read/confirm source engagement |
+| READ 3: Peckham-Hardin (2015), Ch. 9 | Summary prepared | [Communication and challenging behavior](reading-summaries/themed_overview/communication-and-challenging-behavior-themed-overview.md) | Read/confirm source engagement |
+| LISTEN/WATCH one media source | Guide prepared; completion not claimed | [Media synthesis](reading-summaries/media-synthesis.md) | Complete/confirm source and add one concrete observation |
+| AAC Review | Personalized review draft prepared | [TD Snap review package](aac-review/README.md) | Review, post, then reply to a real classmate post |
+| Communication Support Plan | Personalized review draft prepared | [Support plan package](communication-support-plan/README.md) | Confirm separate due date, review, and submit manually |
+| Journal #3 | Personalized review draft prepared | [Journal package](module3-journal/README.md) | Confirm prompt, add media observation, submit manually |
+| Takeaways | Personalized review draft prepared | [Prompt and response](discussions/README.md#takeaways) | Confirm READ/MEDIA choices and post manually |
 
-## Module 3 Portfolio Harvest
+## Portfolio Harvest
 
-| Portfolio Resource | Assignment Source | Status |
+| Resource | Assignment Source | State |
 | --- | --- | --- |
-| AAC Tool Review For Teacher/Family Decision-Making | AAC Review | Drafted |
-| Daily Communication Support Plan And Home-School Bridge | Communication Support Plan | Drafted |
-| Low-Tech Backup AAC Board / Core Vocabulary Starter | Communication Support Plan | Planned |
+| AAC Tool Review for Teacher/Family Decision-Making | AAC Review | Drafted |
+| Communication Opportunity Matrix | Communication Support Plan | Drafted |
+| Student-Centered Home-School Communication Record | Communication Support Plan | Drafted |
+| Low-Tech Backup and Repair Plan | Communication Support Plan | Drafted |
 
-## Module 3 Reference Thread
+## Completion Test
 
-Use this module to show that AAC and communication supports are about authorship, not just speech replacement. Meaningful communication should allow students to choose, refuse, comment, ask, repair, joke, participate academically, build relationships, and affect what happens next.
+Module 3 is complete only when Piter has reviewed the drafts, verified the media observation, made the Blackboard posts/submissions, completed the classmate reply, and reported those actions here.

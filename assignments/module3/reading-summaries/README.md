@@ -1,34 +1,41 @@
-# Module 3: Communication Supports for Students with Complex Needs - Reading Summaries
+# Module 3 Reading Summaries
 
-These are public-safe, original themed overviews for the local `Read/` files. They summarize the sources through the same EDU498-style Puzzle Plan / EQUITAS lens: access, identity, healing, agency, criticality, joy, and transformation for students misread by school systems.
+These public-safe summaries cover all 18 local READ files. They are original analyses, not copies of the course readings. Each summary distinguishes the source's contribution, limits, Puzzle Plan/EQUITAS relevance, and assignment use.
 
-Raw source PDFs and full extracted Markdown copies stay local. These summaries are for assignment drafting, discussion prep, portfolio planning, and fast reference.
-
-## Module Essential Question
-
-What does meaningful communication look like for students with complex needs?
-
-## Module Synthesis
+## Synthesis and Planning
 
 - [Comprehensive themed overview](comprehensive_themed_overview.md)
+- [Media synthesis and review guide](media-synthesis.md)
+- [Puzzle Plan, EQUITAS, and cross-course evidence](framework-and-cross-course-evidence.md)
+- [References and source trail](../references.md)
 
-## Source-Specific Themed Overviews
+## Core Selected READ Set
 
-- [Augmentative and Alternative Communication (AAC)](themed_overview/augmentative-and-alternative-communication-aac-themed-overview.md)
-- [Automated Vocab and Photo](themed_overview/automated-vocab-and-photo-themed-overview.md)
-- [Children and Youth with ASD - AAC Chapter](themed_overview/children-youth-asd-aac-chapter-themed-overview.md)
+- [Norrie et al. (2021): Establishing Context for AAC](themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md)
+- [Downing et al. (2015): General Education as a Rich Communicative Environment](themed_overview/general-education-rich-communicative-environment-themed-overview.md)
+- [Peckham-Hardin (2015): Communication and Challenging Behavior](themed_overview/communication-and-challenging-behavior-themed-overview.md)
+
+## Assignment-Specific Supplements
+
+- [ASHA: Augmentative and Alternative Communication](themed_overview/augmentative-and-alternative-communication-aac-themed-overview.md)
+- [Mirenda (2015): Developing and Acquiring Communication Aids](themed_overview/developing-acquiring-communication-aids-themed-overview.md)
 - [Daily Communication Logs](themed_overview/daily-communication-logs-themed-overview.md)
-- [Language Development and AAC for Students with ASD/SD](themed_overview/language-development-aac-asd-sd-themed-overview.md)
+- [Fontana de Vargas, Dai, and Moffatt (2025): Automated Vocabulary from Photographs](themed_overview/automated-vocab-and-photo-themed-overview.md)
+
+## Additional Source Summaries
+
+- [Schlosser et al.: AAC for Children and Youth with Autism](themed_overview/children-youth-asd-aac-chapter-themed-overview.md)
+- [Weng: Language Development and AAC](themed_overview/language-development-aac-asd-sd-themed-overview.md)
 - [Nonverbal vs. Nonspeaking](themed_overview/nonverbal-vs-nonspeaking-themed-overview.md)
-- [Norrie et al. (2021) - Establishing Context for AAC](themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md)
-- [Remediation and Assistive Technologies for Communication](themed_overview/remediation-assistive-technologies-communication-themed-overview.md)
-- [General Education Classroom - Rich Communicative Environment](themed_overview/general-education-rich-communicative-environment-themed-overview.md)
-- [Developing and Acquiring Communication Aids](themed_overview/developing-acquiring-communication-aids-themed-overview.md)
-- [Communication and Challenging Behavior](themed_overview/communication-and-challenging-behavior-themed-overview.md)
-- [TherapyWorks - Most Popular AAC Devices](themed_overview/therapyworks-popular-aac-devices-themed-overview.md)
-- [Mobile Technologies for Students At Risk](themed_overview/mobile-technologies-students-at-risk-themed-overview.md)
-- [Viewpoints - Interventions for Students with Autism](themed_overview/viewpoints-interventions-students-autism-themed-overview.md)
-- [Aphasia Therapy Software](themed_overview/aphasia-therapy-software-themed-overview.md)
-- [iPods and iPads as AAC Devices](themed_overview/ipods-ipads-aac-devices-developmental-disorders-themed-overview.md)
-- [Ok and Rao (2019) - Digital Tools for the Inclusive Classroom](themed_overview/ok-rao-2019-digital-tools-inclusive-classroom-themed-overview.md)
-- [Tuttle and Carter (2025) - Visual Impairments and Assistive Technology](themed_overview/tuttle-carter-2025-visual-impairments-assistive-technology-themed-overview.md)
+- [Beals: Remediation and Assistive Technologies](themed_overview/remediation-assistive-technologies-communication-themed-overview.md)
+- [TherapyWorks: Popular AAC Devices](themed_overview/therapyworks-popular-aac-devices-themed-overview.md)
+- [Sansosti and Bedesem: Mobile Technologies](themed_overview/mobile-technologies-students-at-risk-themed-overview.md)
+- [Stuart: Interventions for Students with Autism](themed_overview/viewpoints-interventions-students-autism-themed-overview.md)
+- [National Aphasia Association: Therapy Software and Tools](themed_overview/aphasia-therapy-software-themed-overview.md)
+- [van der Meer: iPods and iPads as AAC Devices](themed_overview/ipods-ipads-aac-devices-developmental-disorders-themed-overview.md)
+- [Ok and Rao (2019): Digital Tools for Inclusive Classrooms](themed_overview/ok-rao-2019-digital-tools-inclusive-classroom-themed-overview.md)
+- [Tuttle and Carter (2025): Visual Impairment, Assistive Technology, and Classroom Experience](themed_overview/tuttle-carter-2025-visual-impairments-assistive-technology-themed-overview.md)
+
+## Reading Rule
+
+The summaries are a review scaffold. Before claiming completion, Piter should engage with the selected three readings through the access method that works for him and confirm that the final assignment wording matches what he takes from them.

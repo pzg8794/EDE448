@@ -72,9 +72,9 @@ The EDU486 camp work shows PTR at a broader level. Visible sequences, short dire
 
 ## Assignment Use
 
-- Core source for [PTR Appendix 4.1 completion notes](../../ptr-appendix-4-1-completion-notes.md)
-- Core source for [PTR Planning](../../prevent-teach-reinforce-planning-draft.md)
-- Structural source for the [Positive Classroom Support Plan](../../positive-classroom-support-plan-draft.md)
+- Core source for [PTR Appendix 4.1 completion notes](../../prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md)
+- Core source for [PTR Planning](../../prevent-teach-reinforce-planning/draft.md)
+- Structural source for the [Positive Classroom Support Plan](../../positive-classroom-support-plan/draft.md)
 - Method source for the [Module 2 journal](https://github.com/pzg8794/EDE448-Module2_Journal)
 
 ## Final Themed Takeaway

@@ -26,7 +26,7 @@ This connects directly to my Puzzle Plan and EQUITAS goals. The Puzzle Plan is m
 - Blackboard prompt: `Module2/assignments/Takeaways.png`
 - Dunlap et al. (2019), Gardner (2017), and Jorgensen (2018)
 - [Module 2 journal](https://github.com/pzg8794/EDE448-Module2_Journal)
-- [PTR Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md)
+- [PTR Appendix 4.1 completion notes](../prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md)
 - Pine Brook placement evidence
 - EDU486 July 21 planning/youth-feedback record and July 24 field reflection
 

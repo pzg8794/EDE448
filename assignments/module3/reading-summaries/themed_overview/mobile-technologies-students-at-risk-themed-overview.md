@@ -1,46 +1,28 @@
-# Mobile Technologies for Students At Risk - Themed Overview
+# Sansosti and Bedesem: Mobile Technologies for Students At Risk
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/The-Use-of-Mobile-Technologies-for-Students-At-Ris (1).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/The-Use-of-Mobile-Technologies-for-Students-At-Ris (1).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Mobile technology and student support.
+The article reviews potential uses of mobile technologies for students described as having or being at risk for behavioral disorders.
 
 ## Main Ideas
 
-This source examines mobile technologies for students at risk or students needing additional support.
+Mobile devices may increase portability, immediacy, privacy, customization, and student access to supports. The authors discuss applications for self-monitoring, organization, academic support, reminders, and delivery of established interventions. They also identify challenges involving distraction, cost, policy, teacher preparation, implementation fidelity, and a limited research base.
 
-- Mobile tools can expand access when they are integrated into instruction, not treated as novelty.
-- The Puzzle Plan link is inclusive technology: tools should reveal competence, not sort students.
-- EQUITAS asks who has device access, training, and reliable use across contexts.
+The article is careful that a mobile device does not make a practice evidence-based. Technology can deliver or support an intervention, but educators still need explicit guidance, meaningful goals, and evidence about which students benefit, under what conditions, and whether outcomes last.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+Some terminology centers risk and behavior management more than disability identity or student authorship. Self-monitoring can increase agency when students choose goals and use data for themselves; it can become surveillance when adults use the device mainly to increase compliance. Many tool examples may also age as apps and operating systems change.
 
-## EQUITAS Connection
+## Puzzle Plan and EQUITAS
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+The Puzzle Plan separates the device, the strategy, the evidence, and the power relationship. EQUITAS asks who controls the notifications, sees the data, defines success, and can opt out or revise the support.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Critical context for distinguishing TD Snap's technical features from implementation evidence.
+- Reminder that classroom technology should support access rather than monitor normality.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this for technology and AAC implementation arguments.
+Technology is a delivery environment; its fairness depends on the goal, evidence, implementation, and who controls it.

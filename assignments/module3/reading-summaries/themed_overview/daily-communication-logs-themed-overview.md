@@ -1,46 +1,39 @@
-# Daily Communication Logs - Themed Overview
+# Daily Communication Logs: Artifact Review and EQUITAS Redesign
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Daily Communication Logs.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Daily Communication Logs.md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
+The local source is a 30-page packet of school-home communication templates dated 2009. It is a practical artifact, not a research study.
 
-## Source Purpose
+## What the Packet Offers
 
-Home-school communication bridge.
+The packet demonstrates many possible formats: daily ratings, checklists, teacher comments, family comments, goal tracking, subject or routine notes, and parent initials. Some templates invite strengths through fields such as “Today I did a great job at” and provide two-way comment space.
 
-## Main Ideas
+## What Requires Critique
 
-This source supports daily communication logs as a bridge among students, families, and school teams.
+Many pages center adult judgments such as good/fair/poor, warnings, following directions, staying seated, keeping hands to self, or maintaining “eyes, ears, mouths closed, hands free, feet still.” These fields can efficiently communicate adult concerns, but they risk turning the student's whole day into a compliance report. Parent signatures may confirm receipt without creating genuine family or student authorship.
 
-- Communication logs should preserve voice, preferences, supports, and successes, not only problems.
-- Family knowledge is part of EQUITAS because it challenges school-only interpretations.
-- Agency grows when the student can help shape what is communicated across settings.
+The packet should therefore be treated as design material rather than authority. A form can be completed every day and still omit what the student communicated, which modes were available, what the environment demanded, what support worked, and whether a breakdown was repaired.
 
-## Puzzle Plan Connection
+## Puzzle Plan and EQUITAS Redesign
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+The Puzzle Plan asks what evidence is missing from the form. EQUITAS asks whose interpretation travels between settings. A stronger record would include:
 
-## EQUITAS Connection
+- a student-authored or student-approved message;
+- communication mode(s) used;
+- activity and environmental conditions;
+- choices, refusals, comments, questions, and repairs;
+- supports that increased access;
+- barriers to change tomorrow;
+- family context or response;
+- the student's decision about what is shared.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+This redesign also reflects the camp's multiple participation routes and avoids ranking speech, energy, public performance, or compliance as the only evidence of a successful day.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Key artifact for the Communication Support Plan's home-school record.
+- Example in the journal of how documentation can increase or restrict power.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this as the key source for the Communication Support Plan.
+A daily log should carry the student's communication across settings, not carry only adult ratings about the student.

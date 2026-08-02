@@ -1,46 +1,26 @@
-# Automated Vocab and Photo - Themed Overview
+# Fontana de Vargas, Dai, and Moffatt (2025): Automated Vocabulary From Photographs
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Automated Vocab and Photo.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Automated Vocab and Photo.md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
+This *Communications of the ACM* article presents Click AAC, a prototype that uses photographs to generate situation-specific boards with descriptive, related, and narrative vocabulary. The study draws on semi-structured interviews with AAC professionals who used the prototype in school and speech-language therapy settings.
 
-## Source Purpose
+## Findings
 
-Vocabulary and visual/photo support.
+Traditional grid-based systems can require users to remember category hierarchies, while partners must predict and program relevant vocabulary in advance. Click AAC generated immediate vocabulary from a photograph. Participants reported that this reduced partner workload and navigation, created timely opportunities for aided-language modeling, supported symbolic understanding and sentence construction, and connected communication to personal interests and unexpected moments.
 
-## Main Ideas
+The system also made errors. Computer vision misrecognized uncommon, cluttered, or two-dimensional scenes and could introduce cultural or representational bias. Professionals needed to review, remove, reorganize, and add vocabulary. The study reports professional observations from an exploratory prototype, not a controlled trial proving long-term communication outcomes.
 
-This source appears to focus on vocabulary, photos, and possibly automated or technology-supported communication materials.
+## Puzzle Plan and EQUITAS
 
-- Visual/photo supports can widen the doorway for students who need concrete, image-based, or contextual vocabulary.
-- Access improves when communication tools are personalized to real people, places, routines, and interests.
-- Agency depends on vocabulary that lets students say meaningful things, not just respond to adult prompts.
+The article fits the Puzzle Plan's intersection of AI, education, and evidence. Automated suggestions can widen the set of immediately available words, but the image model's output is not neutral and must not become the student's presumed message. EQUITAS asks whose language and culture the system recognizes, who can edit it, whether the communicator can reject suggestions, and whether automation increases authorship rather than partner convenience alone.
 
-## Puzzle Plan Connection
+The EDU486 camp provides a useful application: photographs of tools, samples, models, and advocacy artifacts could generate contextual vocabulary for observation and revision, but students would still need robust core language, repair options, and human partners.
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+## Assignment Use
 
-## EQUITAS Connection
+- Enrichment source for the AAC Review.
+- Future Puzzle Plan research example about AI-supported communication and bias.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+## Takeaway
 
-## Course Theme Connection
-
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
-
-## Teaching Implications
-
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this for portfolio resources involving visual supports or AAC vocabulary planning.
+AI may reduce vocabulary-programming friction, but human review and communicator control remain essential.

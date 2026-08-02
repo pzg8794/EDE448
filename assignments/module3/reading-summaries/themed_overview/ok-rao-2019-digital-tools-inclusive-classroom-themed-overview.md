@@ -1,46 +1,28 @@
-# Ok and Rao (2019) - Digital Tools for the Inclusive Classroom - Themed Overview
+# Ok and Rao (2019): Digital Tools for the Inclusive Classroom
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/ok-rao-2019-digital-tools-for-the-inclusive-classroom-google-chrome-as-assistive-and-instructional-technology.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/ok-rao-2019-digital-tools-for-the-inclusive-classroom-google-chrome-as-assistive-and-instructional-technology.md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Digital tools as assistive/instructional technology.
+Ok and Rao discuss free or low-cost Google Chrome applications and extensions as assistive and instructional technology within a Universal Design for Learning framework.
 
 ## Main Ideas
 
-Ok and Rao frame common digital tools, including Google Chrome supports, as assistive and instructional technology for inclusive classrooms.
+The source organizes tools around multiple means of representation, action and expression, and engagement. Examples include text-to-speech, speech recognition, reduced-clutter reading, annotation, graphic organization, and supports for literacy, mathematics, and organization. Common browser tools can reduce stigma because they are available to all students rather than issued only after public failure or disability disclosure.
 
-- Access can be built with everyday tools, not only specialized equipment.
-- EQUITAS asks whether teachers know how to activate supports students already have near them.
-- The Puzzle Plan link is inclusive tech translation: technical tools become justice tools when they expand participation.
+The authors encourage teachers to let students try tools in authentic tasks and identify what supports their own learning. This turns assistive technology from a fixed accommodation list into an iterative process of access and choice.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+Specific extensions, pricing, privacy practices, and compatibility can change quickly. Teachers must recheck current availability and school data policies. Universal availability is not universal usability: students may still need explicit instruction, alternative access methods, offline options, or specialized AAC/AT.
 
-## EQUITAS Connection
+## Puzzle Plan and EQUITAS
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+The source connects to the teaching placement, where modeled technology steps and reduced language demands revealed participation. EQUITAS asks whether students can choose tools without being labeled, whether data are protected, and whether “for everyone” designs still include students requiring individualized access.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Supports a classroom culture where multiple tools and response modes are ordinary.
+- Helps distinguish general assistive technology from dedicated AAC while showing how both can coexist.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source for portfolio resources on practical classroom technology supports.
+Inclusive technology works best when support is available before failure, taught explicitly, and chosen through authentic use.

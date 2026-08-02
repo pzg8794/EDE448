@@ -1,46 +1,26 @@
-# iPods and iPads as AAC Devices - Themed Overview
+# van der Meer: iPods and iPads as AAC Devices
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/iPods-and-iPads-as-AAC-Devices-for-Children-with-Developmental-Disorders (1).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/iPods-and-iPads-as-AAC-Devices-for-Children-with-Developmental-Disorders (1).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
+The chapter reviews research on iPods and iPads used as speech-generating AAC devices for people with developmental disabilities.
 
-## Source Purpose
+## Findings
 
-Mobile devices as AAC.
+The reviewed evidence was emerging and consisted largely of single-case studies focused on learning to request. In comparative studies, many participants learned to use iPad-based speech generation, picture exchange, and manual signs with broadly similar acquisition outcomes. Across the participants for whom preference was assessed, 27 of 40, or about 68%, preferred the iPad or speech-generating option. Preference did not prove that the device caused better communication outcomes, but it demonstrated that user choice is measurable and relevant.
 
-## Main Ideas
+## Critical Reading
 
-This source examines iPods/iPads as AAC devices for children with developmental disorders. It is useful for discussing mainstream mobile technology as communication access.
+Learning a prompted request in a structured trial is narrower than spontaneous communication across partners, functions, and settings. Small samples and varied procedures limit broad conclusions. Consumer devices can be portable and socially familiar, but access also depends on durability, positioning, battery, guided access, symbol and vocabulary design, partner skill, and backup options.
 
-- Mainstream devices can reduce stigma and increase portability, but they still require planning and support.
-- Agency depends on app selection, vocabulary, modeling, and reliable access.
-- EQUITAS asks who receives devices and who receives ongoing implementation support.
+## Puzzle Plan and EQUITAS
 
-## Puzzle Plan Connection
+This source gives the Puzzle Plan a useful evidence distinction: acquisition, efficiency, preference, generalization, and social participation are different outcomes. EQUITAS requires the communicator's preference to count without assuming that the most popular technology is automatically best.
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+## Assignment Use
 
-## EQUITAS Connection
+- Evidence for including student preference and trials in AAC selection.
+- Caution for the TD Snap review: application features do not substitute for instruction, partners, or broader message functions.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+## Takeaway
 
-## Course Theme Connection
-
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
-
-## Teaching Implications
-
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source for AAC review and technology access claims.
+Many learners can acquire tablet-based AAC, but preference, fit, instruction, and communication beyond requesting must guide the decision.

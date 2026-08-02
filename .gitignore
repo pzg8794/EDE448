@@ -25,3 +25,8 @@ Icon?
 
 # Local-only derived text/Markdown copies of course PDFs.
 /local-derived/
+
+# Dedicated assignment repositories are separate Git histories kept locally
+# beneath their assignment folders. The public course repo links to them but
+# does not absorb their files or .git metadata.
+/assignments/*/*/repository/

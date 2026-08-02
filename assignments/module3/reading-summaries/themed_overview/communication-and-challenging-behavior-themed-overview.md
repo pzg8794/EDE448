@@ -1,46 +1,29 @@
-# Communication and Challenging Behavior - Themed Overview
+# Peckham-Hardin (2015): Communication and Challenging Behavior
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Teaching_Communication_Skills_to_Students_with_Sev..._----_(9._The_Relationship_Between_Communication_and_Challenging_Behavior) (1).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Teaching_Communication_Skills_to_Students_with_Sev..._----_(9._The_Relationship_Between_Communication_and_Challenging_Behavior) (1).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Communication-behavior relationship.
+Chapter 9 of *Teaching Communication Skills to Students with Severe Disabilities* explains the relationship between communication and challenging behavior and presents functional communication training (FCT) as an evidence-based practice.
 
 ## Main Ideas
 
-This chapter explicitly connects communication and challenging behavior. It is one of the strongest sources for the course claim that behavior is communication.
+FCT begins by defining behavior observably and conducting a functional behavioral assessment. The team identifies a communication response that serves the same purpose, teaches it, reinforces it, and monitors whether behavior and communication change. The chapter's examples include requesting a break, making a joke or comment, and asking for a turn. The underlying need is treated as valid; the goal is a safer and more reliable form that partners can understand.
 
-- When communication access is blocked, behavior may become the message.
-- Healing means replacing blame with curiosity and support.
-- Agency grows when students get reliable ways to protest, request, reject, repair, and regulate.
+A replacement message will not remain useful if adults acknowledge it but do not honor its function. After the response becomes reliable, teams may gradually teach tolerance for delay, but communication cannot begin as another demand for compliance. Data should be sufficient to revise the hypothesis and plan, not collected for its own sake.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+FCT can protect communication when it validates the message, but terms such as “socially acceptable” can hide whose comfort defines acceptability. An EQUITAS application must ensure that the alternative is physically and cognitively accessible, no harder than the current action, available across partners, and capable of producing a meaningful response. Not every movement or distress signal has one simple function, so interpretation remains a hypothesis.
 
-## EQUITAS Connection
+## Connection to Fresh Work
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+The submitted paper *From Compliance to Communication* already used PTR to examine the removal of a familiar laptop. Module 3 should reference that work, not recreate it. The new contribution is a communication system that lets the learner say *keep this, different order, show me, not yet,* or *you misunderstood* across routines.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Core READ for the journal and takeaways.
+- Basis for honoring refusal, break, repair, and protest in the Communication Support Plan.
+- Bridge from Module 2 behavior support to Module 3 authorship.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source across Module 2 and Module 3 assignments.
+A taught message is functional only when partners understand it, honor it, and make it reliably easier than escalation.

@@ -58,8 +58,8 @@ The Module 2 drafts retain Module 1's key finding: diagnosis, observation, behav
 
 - [Comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
 - [Module 2 journal](https://github.com/pzg8794/EDE448-Module2_Journal)
-- [PTR Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md)
-- [PTR planning summary](prevent-teach-reinforce-planning-draft.md)
-- [Positive Classroom Support Plan](positive-classroom-support-plan-draft.md)
-- [Takeaways](takeaways-discussion-draft.md)
+- [PTR Appendix 4.1 completion notes](prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md)
+- [PTR planning summary](prevent-teach-reinforce-planning/draft.md)
+- [Positive Classroom Support Plan](positive-classroom-support-plan/draft.md)
+- [Takeaways](discussions/takeaways.md)
 - [References and source trail](references.md)

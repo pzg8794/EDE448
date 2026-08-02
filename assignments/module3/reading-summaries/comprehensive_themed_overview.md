@@ -1,60 +1,61 @@
-# Module 3: Communication Supports for Students with Complex Needs - Comprehensive Themed Overview
-
-## Big-Picture Frame
-
-Module 3 centers communication as access-to-agency. Through the EDU498 theme, communication is a literacy practice: students read, write, speak, gesture, select, reject, repair, build relationships, and influence the world through multiple modes. AAC is not only a device; it is a justice infrastructure for students who are often misread by schools.
+# Module 3 Comprehensive Themed Summary
 
 ## Essential Question
 
-What does meaningful communication look like for students with complex needs?
+**What does meaningful communication look like for students with complex needs?**
 
-## Reading Set
+Meaningful communication is not measured by speech, speed, independence from support, or possession of a device. It is present when a student's message is accessible, attributed to the student, responded to, and able to influence learning, relationships, support, and what happens next.
 
-- [Augmentative and Alternative Communication (AAC)](themed_overview/augmentative-and-alternative-communication-aac-themed-overview.md)
-- [Automated Vocab and Photo](themed_overview/automated-vocab-and-photo-themed-overview.md)
-- [Children and Youth with ASD - AAC Chapter](themed_overview/children-youth-asd-aac-chapter-themed-overview.md)
-- [Daily Communication Logs](themed_overview/daily-communication-logs-themed-overview.md)
-- [Language Development and AAC for Students with ASD/SD](themed_overview/language-development-aac-asd-sd-themed-overview.md)
-- [Nonverbal vs. Nonspeaking](themed_overview/nonverbal-vs-nonspeaking-themed-overview.md)
-- [Norrie et al. (2021) - Establishing Context for AAC](themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md)
-- [Remediation and Assistive Technologies for Communication](themed_overview/remediation-assistive-technologies-communication-themed-overview.md)
-- [General Education Classroom - Rich Communicative Environment](themed_overview/general-education-rich-communicative-environment-themed-overview.md)
-- [Developing and Acquiring Communication Aids](themed_overview/developing-acquiring-communication-aids-themed-overview.md)
-- [Communication and Challenging Behavior](themed_overview/communication-and-challenging-behavior-themed-overview.md)
-- [TherapyWorks - Most Popular AAC Devices](themed_overview/therapyworks-popular-aac-devices-themed-overview.md)
-- [Mobile Technologies for Students At Risk](themed_overview/mobile-technologies-students-at-risk-themed-overview.md)
-- [Viewpoints - Interventions for Students with Autism](themed_overview/viewpoints-interventions-students-autism-themed-overview.md)
-- [Aphasia Therapy Software](themed_overview/aphasia-therapy-software-themed-overview.md)
-- [iPods and iPads as AAC Devices](themed_overview/ipods-ipads-aac-devices-developmental-disorders-themed-overview.md)
-- [Ok and Rao (2019) - Digital Tools for the Inclusive Classroom](themed_overview/ok-rao-2019-digital-tools-inclusive-classroom-themed-overview.md)
-- [Tuttle and Carter (2025) - Visual Impairments and Assistive Technology](themed_overview/tuttle-carter-2025-visual-impairments-assistive-technology-themed-overview.md)
+## Selected Reading Argument
 
-## Cross-Reading Synthesis
+[Norrie, Waller, and Hannah (2021)](themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md) show why device availability is an incomplete measure of access. Their five-month ethnographic study in one special-education school found only six active high-tech AAC users among roughly 180 pupils with complex communication needs. Device fit, training, technical support, staffing, policy, and infrastructure shaped whether technology became usable communication. The study's proposed Assistive Technologist role makes partner and system responsibility visible.
 
-Across Module 3, the readings argue that communication is broader than speech and broader than a device. AAC, visual supports, communication aids, home-school logs, mobile technology, partner training, and classroom routines all matter because they decide whether a student can affect what happens next.
+[Downing, Hanreddy, and Peckham-Hardin (2015)](themed_overview/general-education-rich-communicative-environment-themed-overview.md) move the analysis into everyday general-education routines. Predictable exchanges can create practice, while unpredictable exchanges require flexible language and partner support. Ecological inventories, sociograms, language samples, and analysis of peer routines help educators find communication opportunities that a schedule or IEP goal alone can miss. Presence in a classroom is not the same as communicative participation.
 
-The module's strongest idea is that meaningful communication is agency. A student needs ways to request, refuse, comment, joke, ask, repair, share, participate academically, build relationships, and communicate across home and school. If the classroom only gives a student yes/no choices or basic requests, the classroom is still restricting communication power.
+[Peckham-Hardin (2015)](themed_overview/communication-and-challenging-behavior-themed-overview.md) connects communication access to behavior support through functional communication training. The need behind a message is validated; the learner receives a more reliable and accessible way to communicate; partners must honor and reinforce that response; and the team monitors whether the new pathway works. The chapter complements the submitted EDE448 PTR paper, but Module 3 adds a different question: what communication system lets the learner express the message across people, settings, and routines before escalation?
 
-Through the EDU498 theme, Module 3 is literacy as survival and self-determination. Students with complex communication needs are often misread as less competent because schools use speech, speed, handwriting, or conventional responses as proof of understanding. These readings help build a different system: one that treats AAC and assistive technology as tools for voice, identity, access, and justice.
+## Supporting Sources
 
-## Puzzle Plan / EQUITAS Synthesis
+[Mirenda (2015)](themed_overview/developing-acquiring-communication-aids-themed-overview.md) defines AAC as a continuously updated multimodal system combining unaided and aided techniques. [ASHA](themed_overview/augmentative-and-alternative-communication-aac-themed-overview.md) reinforces that AAC has no age, cognitive-score, or milestone prerequisite and may include gesture, writing, drawing, symbols, apps, and speech-generating devices. Together, these sources resist the idea that one device or one mode should carry every message.
 
-The module supports the Puzzle Plan by treating classroom evidence as a justice problem. If schools collect shallow evidence, students are misread. If schools collect richer evidence - communication attempts, sensory load, context, family knowledge, tool access, peer dynamics, and student preference - support becomes more accurate and humane.
+The [Daily Communication Logs](themed_overview/daily-communication-logs-themed-overview.md) are useful because they are imperfect. Many templates center adult ratings, warnings, sitting, following directions, or parent initials. An EQUITAS redesign would instead preserve the student's messages, modes, preferences, environmental conditions, supports, barriers, successful repairs, and family response.
 
-EQUITAS asks us to audit the default learner. Across this module, the default learner is often assumed to be verbal, regulated, English-dominant, neurotypical, compliant, print-comfortable, and independently organized. The readings help us redesign for students whose communication, culture, bodymind, trauma history, language, disability, or support needs require something more flexible.
+[Fontana de Vargas, Dai, and Moffatt (2025)](themed_overview/automated-vocab-and-photo-themed-overview.md) demonstrate both the promise and risk of AI-assisted AAC. Photo-generated contextual vocabulary reduced partner programming demands and opened immediate modeling opportunities, but image recognition errors and bias required human review and editing. Automation can expand options; it cannot become the author or final interpreter of the student's meaning.
 
-## Teaching Implications
+[Tuttle and Carter (2025)](themed_overview/tuttle-carter-2025-visual-impairments-assistive-technology-themed-overview.md) broaden the module beyond speech. Ten secondary students using assistive technology often worked independently in core classes, yet interactions with sighted peers remained limited. Technology and placement can support academic access without automatically producing belonging.
 
-- Name the actual access barrier instead of blaming the student.
-- Build supports into everyday routines before crisis or failure.
-- Use specific sources when writing assignments; do not cite vague module labels.
-- Treat family knowledge and student communication as valid evidence.
-- Connect every assignment back to dignity, agency, and participation.
+## Puzzle Plan and EQUITAS
+
+The **Puzzle Plan** is Piter Garcia's interdisciplinary framework for combining lived experience, education, data, research, technology, and advocacy so that no single label or data point becomes the whole person. **EQUITAS** is its equity-centered heart: it asks whose knowledge is included, what context is missing, how power and bias shape interpretation, and whether a support increases dignity, agency, belonging, and access.
+
+Applied here, the framework changes the evidence question. Instead of asking only whether a student used the expected word or device, educators document what the student communicated, which modes were available, who noticed, what barriers were present, whether the message was repaired, and whether the response changed the environment.
+
+## Personalized Evidence Thread
+
+The EDU486 camp offered concrete participation routes: looking, moving, choosing, tool use, drawing, writing, photographing, speaking, partnering, pausing, and returning. Identity Beads represented complementary contributions rather than a hierarchy. During model revision and the final showcase, youth could add labels or arrows, demonstrate, point, answer, ask, hold evidence, partner, observe, or pass. These observations do not claim AAC use by a specific camper; they show how a learning environment can distribute authorship across modes.
+
+The teaching placement adds a second pattern. When technology steps were modeled, language demands were reduced, and familiar tools remained available, participation changed. That is the central lesson of Norrie et al.: implementation quality is part of the communication system.
+
+Fresh EDE448 papers provide the bridge. *From Compliance to Communication* examined support as an alternative to coercive either-or conditions. *Words That Have Evidence* grounded self-talk in truthful evidence and reframed failure as learning. *Who Has More Power After Support?* used power after intervention as a dignity test. Module 3 extends these arguments by asking how students can author choices, refusals, comments, questions, and repairs in accessible forms.
+
+## Practice Commitments
+
+- Make robust communication available before a learner proves readiness.
+- Support requests, refusals, comments, questions, humor, repair, academic language, and relationship-building.
+- Keep a low-tech backup available when devices, batteries, positioning, or regulation change.
+- Model language without demanding imitation or taking over the student's device.
+- Train peers and adults to wait, notice, confirm, and act.
+- Treat family knowledge and student response to support as evidence.
+- Audit logs and data systems for adult-centered compliance measures.
+- Measure success by increased authorship, access, participation, repair, and belonging.
 
 ## Assignment Use
 
-Use this synthesis for the Module 3 journal, AAC review, Communication Support Plan, classmate replies, and final portfolio resources on AAC and home-school communication.
+- **AAC Review:** evaluate TD Snap as one component of a multimodal communication system.
+- **Communication Support Plan:** build opportunities and partner behavior into an evidence-to-action science routine and redesign home-school documentation.
+- **Journal:** argue that meaningful communication changes what happens next.
+- **Takeaways:** identify the three selected readings and future-practice commitments directly.
 
-## Final Module Takeaway
+## Final Takeaway
 
-Module 3 teaches that meaningful communication is not a luxury or a reward. It is the foundation of agency, belonging, and educational justice.
+Communication support is not complete when a tool is delivered. It becomes meaningful when the student can use available modes, with reliable partners and across real routines, to be recognized as the author of a message that matters.

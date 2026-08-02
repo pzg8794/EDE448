@@ -22,9 +22,9 @@
 
 **Dunlap et al. (2019), Appendix 4.1: PTR Functional Behavioral Assessment Checklist**
 
-The [official publisher page](https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx) confirms the 2019 second edition and Appendix 4.1 title. The completed public-safe working responses are in [PTR Appendix 4.1 Completion Notes](ptr-appendix-4-1-completion-notes.md). Piter should review those notes and transfer them into the authorized 2019 form before submission.
+The [official publisher page](https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx) confirms the 2019 second edition and Appendix 4.1 title. The completed public-safe working responses are in [PTR Appendix 4.1 Completion Notes](appendix-4-1-completion-notes.md). Piter should review those notes and transfer them into the authorized 2019 form before submission.
 
-The formal paper version is available in the [Module 1-themed LaTeX package](prevent-teach-reinforce-latex/README.md).
+The formal paper version is available in the [Module 1-themed LaTeX package](latex/README.md).
 
 ## Selected 2025-2026 Classroom Experience
 

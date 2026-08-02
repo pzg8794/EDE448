@@ -1,46 +1,26 @@
-# Aphasia Therapy Software - Themed Overview
+# National Aphasia Association: Therapy Software and Communication Tools
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/aphasia therapy software.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/aphasia therapy software.md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
+The local “aphasia therapy software” reading is a National Aphasia Association resource directory. It links applications, workbooks, communication tools, free resources, functional-living supports, and language-practice materials.
 
-## Source Purpose
+## Contribution
 
-Communication software example.
+Examples include DailyWords, Talking Keyboards, wallet communication cards, ParticiPics, PictoRing, and Aphasia Institute pictographic resources. The directory broadens the module beyond autism and school-age device lists. It shows that communication support may change across a lifespan and may involve rehabilitation, participation, identity, daily living, and temporary or long-term access.
 
-## Main Ideas
+## Critical Reading
 
-This source appears to describe aphasia therapy software. It broadens the module by showing communication technology beyond autism-specific tools.
+A directory establishes availability, not effectiveness, accessibility, privacy, maintenance, or fit. Linked tools vary in evidence, cost, technical support, and current availability. The page should be used to generate options and questions, followed by direct evaluation with the communicator and qualified team.
 
-- Communication access is relevant across disability categories and life contexts.
-- Technology should support expression, recovery, participation, and dignity.
-- EQUITAS asks whether tools are understandable, affordable, and usable for the person and partners.
+## Puzzle Plan and EQUITAS
 
-## Puzzle Plan Connection
+The source adds a lifespan piece to the Puzzle Plan. EQUITAS asks whether tools support the person's own goals and relationships, whether materials are adult-respectful, and whether communication access continues when speech or language changes rather than being treated as a childhood service.
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+## Assignment Use
 
-## EQUITAS Connection
+- Comparison source for future AAC/AT resource curation.
+- Reminder in the AAC Review that product selection requires current verification and individual trial.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+## Takeaway
 
-## Course Theme Connection
-
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
-
-## Teaching Implications
-
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this as a comparative technology source rather than the main AAC anchor.
+Resource lists expand possibilities; only communicator-led evaluation can turn a listed tool into meaningful access.

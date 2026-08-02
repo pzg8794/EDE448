@@ -49,5 +49,5 @@ Before submission:
 ## Build
 
 ```bash
-python3 /Users/pitergarcia/.codex/plugins/cache/openai-bundled/latex/0.2.4/scripts/compile_latex.py "/Users/pitergarcia/DataScience/Semester4(UofR)/EDE448/assignments/module2/prevent-teach-reinforce-latex/prevent_teach_reinforce_planning.tex"
+python3 /Users/pitergarcia/.codex/plugins/cache/openai-bundled/latex/0.2.4/scripts/compile_latex.py "/Users/pitergarcia/DataScience/Semester4(UofR)/EDE448/assignments/module2/prevent-teach-reinforce-planning/latex/prevent_teach_reinforce_planning.tex"
 ```

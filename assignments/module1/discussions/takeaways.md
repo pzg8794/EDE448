@@ -17,10 +17,10 @@ In my future classroom, I plan to look first for barriers rather than assuming t
 
 - Local Blackboard takeaways screenshot: `Module1/assignments/Takeaways.png`
 - Local media transcript: `Module1/Media/Autism-Insight_from Inside-en_128513.txt`
-- [Module 1 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
-- [Davidson (2013) - Neurodiversity Movement](reading-summaries/themed_overview/davidson-2013-neurodiversity-movement-themed-overview.md)
-- [Harvey (2018) - Autism and School](reading-summaries/themed_overview/harvey-2018-autism-and-school-themed-overview.md)
-- [Autism Guide for Educators](reading-summaries/themed_overview/autism-guide-for-educators-themed-overview.md)
+- [Module 1 comprehensive themed overview](../reading-summaries/comprehensive_themed_overview.md)
+- [Davidson (2013) - Neurodiversity Movement](../reading-summaries/themed_overview/davidson-2013-neurodiversity-movement-themed-overview.md)
+- [Harvey (2018) - Autism and School](../reading-summaries/themed_overview/harvey-2018-autism-and-school-themed-overview.md)
+- [Autism Guide for Educators](../reading-summaries/themed_overview/autism-guide-for-educators-themed-overview.md)
 
 ## Before Posting
 

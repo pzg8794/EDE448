@@ -194,10 +194,10 @@ Use this note if the instructor requests an AI-use explanation or if transparent
 - OAR grades 2-3 Friendship Tip Sheet
 - OAR *What's Up with Nick?* booklet and student-led lesson plan
 - EDE448 syllabus and Module 1 directions in the course Google Drive
-- [Module 1 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
-- [Davidson (2013), Neurodiversity Movement](reading-summaries/themed_overview/davidson-2013-neurodiversity-movement-themed-overview.md)
-- [Smith (2011), Making Inclusion Work](reading-summaries/themed_overview/smith-2011-making-inclusion-work-themed-overview.md)
-- [Denning and Moody (2018), Unique Needs and Autism](reading-summaries/themed_overview/denning-moody-2018-unique-needs-themed-overview.md)
+- [Module 1 comprehensive themed overview](../reading-summaries/comprehensive_themed_overview.md)
+- [Davidson (2013), Neurodiversity Movement](../reading-summaries/themed_overview/davidson-2013-neurodiversity-movement-themed-overview.md)
+- [Smith (2011), Making Inclusion Work](../reading-summaries/themed_overview/smith-2011-making-inclusion-work-themed-overview.md)
+- [Denning and Moody (2018), Unique Needs and Autism](../reading-summaries/themed_overview/denning-moody-2018-unique-needs-themed-overview.md)
 - Local TeachingPlacement Grade 2 and Grade 3 audience profiles and IGNITE SWD considerations; used for pacing and access design, not as proof that this assignment was taught
 
 ## Portfolio Reuse

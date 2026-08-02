@@ -49,17 +49,17 @@ Work blocks:
 - Confirm whether Takeaways has a separate Blackboard due date.
 - Begin AAC tool review research for Module 3.
 
-## Week 5: Module 3, July 28-August 6
+## Week 5: Module 3, July 28-August 10
 
 **Goal:** Define meaningful communication and build usable AAC / communication support artifacts.
 
 Work blocks:
 
-- Read three Module 3 texts, prioritizing AAC language development, general education communication environments, and assistive technology.
-- Watch/listen to one Module 3 media source.
-- Complete AAC review discussion draft.
-- Build Communication Support Plan with citations.
-- Complete Module 3 journal by August 6 target.
+- Use the [Module 3 review guide](../assignments/module3/REVIEW-GUIDE.md).
+- Engage with the selected Norrie et al., Downing et al., and Peckham-Hardin readings.
+- Watch/listen to one Module 3 media source and record one concrete observation.
+- Review and post the AAC Review, then write a real classmate reply.
+- Review the Communication Support Plan and Journal #3; submit manually by August 10, 11:59 PM EDT.
 
 Portfolio harvesting:
 

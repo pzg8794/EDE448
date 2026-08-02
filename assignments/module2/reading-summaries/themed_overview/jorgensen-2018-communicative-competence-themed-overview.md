@@ -59,8 +59,8 @@ The laptop-and-blocks event shows competence being constructed through a flexibl
 ## Assignment Use
 
 - Core communication source for the [Module 2 journal](https://github.com/pzg8794/EDE448-Module2_Journal)
-- Teach-component source for [PTR Planning](../../prevent-teach-reinforce-planning-draft.md)
-- Communication architecture for the [Positive Classroom Support Plan](../../positive-classroom-support-plan-draft.md)
+- Teach-component source for [PTR Planning](../../prevent-teach-reinforce-planning/draft.md)
+- Communication architecture for the [Positive Classroom Support Plan](../../positive-classroom-support-plan/draft.md)
 
 ## Final Themed Takeaway
 

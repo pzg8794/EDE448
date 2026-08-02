@@ -178,7 +178,7 @@ It does **not** establish:
 - a universal preference
 - what the learner felt internally
 
-That distinction is the basis of the [PTR Appendix 4.1 completion notes](../ptr-appendix-4-1-completion-notes.md).
+That distinction is the basis of the [PTR Appendix 4.1 completion notes](../prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md).
 
 ## EDU486 Hands-On Practice Bridge
 

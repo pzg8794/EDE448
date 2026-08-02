@@ -24,7 +24,7 @@ In this module, I hope to explore how Prevent-Teach-Reinforce can help me move f
 - Blackboard prompt: `Module2/assignments/What do you know?.png`
 - Pine Brook placement conference record and action-item summary
 - EDU486 July 21 planning/youth-feedback record and July 24 field reflection
-- [Module 2 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
+- [Module 2 comprehensive themed overview](../reading-summaries/comprehensive_themed_overview.md)
 
 ## Before Posting
 

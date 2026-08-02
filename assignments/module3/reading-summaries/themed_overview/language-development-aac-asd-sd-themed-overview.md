@@ -1,46 +1,28 @@
-# Language Development and AAC for Students with ASD/SD - Themed Overview
+# Weng: Language Development and AAC for Students With ASD/SD
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Nature_and_Needs_of_Individuals_with_Autism_Spectr..._----_(5_Language_Development_and_AAC_for_Students_with_ASD_SD) (1).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Nature_and_Needs_of_Individuals_with_Autism_Spectr..._----_(5_Language_Development_and_AAC_for_Students_with_ASD_SD) (1).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Language development and AAC.
+Pei-Lin Weng's chapter surveys language development and AAC for students with autism spectrum disorder and severe disabilities.
 
 ## Main Ideas
 
-This chapter connects language development with AAC for students with autism spectrum disorders and severe disabilities.
+The chapter reviews gestures and language development, unaided and aided AAC, direct and indirect selection, and scanning. It identifies practical barriers such as device bulk, voice quality, programming demands, weak professional support, negative reactions, finances, and misconceptions. Facilitators include device trials, early access, age-appropriate language, preferred voices, use outside school, peer engagement, and coordination with families and professionals.
 
-- Language access should be developmental and expansive, not restricted to basic requests.
-- The Puzzle Plan link is evidence: communication systems reveal competence that schools may otherwise miss.
-- EQUITAS asks whether students get access to rich language before they can demonstrate it independently.
+Weng also makes culture visible. Communication partners and “communication circles” include family and community, and decisions may be shaped by language, ethnicity, sexual orientation, socioeconomic context, and other identities. A bilingual Arabic-English example illustrates why a system designed only for the school's dominant language can sever home communication. The chapter also notes that display color and spatial grouping may reduce visual search demands for some users.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+Parts of the chapter use deficit-heavy or dated language, and a proposed “communication disorder simulation” risks turning disability into a brief nondisabled experience. The useful technical and cultural guidance should be retained without treating simulation as equivalent to lived experience or AAC users as problems to normalize.
 
-## EQUITAS Connection
+## Puzzle Plan and EQUITAS
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+This source is especially relevant to multiple identities. EQUITAS asks whether a device carries the languages, relationships, names, humor, and cultural meanings that matter beyond school. Feature matching is not only motor or cognitive; it is social and cultural.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Enrichment for bilingual vocabulary and family collaboration in the Communication Support Plan.
+- Critical source for discussing voice, device trialing, and partner/community fit in the AAC Review.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source when arguing for robust, modeled AAC vocabulary.
+An AAC system cannot support belonging if it leaves the communicator's home language, relationships, and identity outside the device.

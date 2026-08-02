@@ -1,46 +1,26 @@
-# Remediation and Assistive Technologies for Communication - Themed Overview
+# Beals (2017): Remediation and Assistive Technologies for Communication
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Remediation-and-Assistive-Technologies-for-Communi.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Remediation-and-Assistive-Technologies-for-Communi.md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Assistive technology and communication support.
+Katharine Beals surveys software intended to support grammar, syntax, and pragmatic communication and examines the strength of the available evidence.
 
 ## Main Ideas
 
-This source addresses assistive technologies for communication, including how tools can remediate or support communication barriers.
+The source is useful as an evidence-appraisal model. It asks whether studies have adequate samples, independent researchers, meaningful comparison conditions, maintenance, generalization, and outcomes that matter outside the program. Beals notes that intervention claims may rest on small studies, developer or company involvement, narrow tasks, and limited evidence that skills transfer to everyday communication.
 
-- Technology is only equitable when it expands participation and voice.
-- The Puzzle Plan link is tool justice: devices should not become new gatekeepers.
-- Access includes training, maintenance, customization, and real classroom use.
+## Critical Reading
 
-## Puzzle Plan Connection
+The article's skepticism toward product claims is valuable. Its concluding preference for remediation and eventual “liberation” from assistive technology is not compatible with a neurodiversity and access lens when it implies that supported communication is inherently lesser. Face-to-face speech should not be treated as the universal endpoint, and continued technology use is not evidence of failed learning.
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+## Puzzle Plan and EQUITAS
 
-## EQUITAS Connection
+The Puzzle Plan keeps two questions together: “Does the evidence support this claim?” and “Whose outcome is being valued?” EQUITAS distinguishes reducing support because the communicator chooses another efficient mode from removing support to make communication look more typical.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+## Assignment Use
 
-## Course Theme Connection
+- A critical companion for evaluating AAC product claims.
+- A reminder to distinguish app performance from generalized classroom authorship.
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+## Takeaway
 
-## Teaching Implications
-
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source for AAC review and technology-related portfolio pages.
+Demand stronger evidence from technology claims without making independence from technology the measure of human progress.

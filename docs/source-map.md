@@ -26,6 +26,11 @@ This repo documents source provenance without publishing raw course packets.
 | `Module2/assignments/Prevent Teach Reinforce Planning.pdf` | PTR planning submission requirements |
 | `Module2/assignments/Positive Classroom Support Plan.pdf` | Positive Classroom Support Plan submission requirements |
 | `Module3/assignments/Communication Support Plan.pdf` | Communication Support Plan submission requirements |
+| `Module3/assignments/AAC Review (Class Discussion).png` | AAC Review prompt, due date, points, and posting/reply requirements |
+| `Module3/assignments/Journal_3.png` | Journal #3 due date and confirmation that no separate prompt was added |
+| `Module3/assignments/Takeaways.png` | Module 3 Takeaways prompt |
+| `Module3/assignments/What do you know.png` | Module 3 opening discussion prompt |
+| `Module3/Media/` | Local source pages for the four Module 3 media choices |
 | `Comulative Assignment Information/Communication and Behavior Support Portfolio Assignment Information.pdf` | Final portfolio requirements |
 | `Comulative Assignment Information/Classroom Layout Plan.docx` | Example classroom support/layout artifact |
 | `Comulative Assignment Information/Organizational Strategies.docx` | Example classroom organization supports |
@@ -36,11 +41,11 @@ This repo documents source provenance without publishing raw course packets.
 | --- | --- |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/README.md` | Public course repo structure and boundary model |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/docs/access-to-agency-course-theme.md` | Access-to-agency commitments, multiple evidence modes, no forced disclosure, and bodymind variability |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/transcripts/2026-07-21-invisible-invaders-planning-and-youth-feedback-clean.md` | Youth feedback on short directions, visible sequence, choice, proactive check-ins, and pass/re-entry |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/camp-media/camp-day-1/reflections/day1-reflection.md` | July 24 hands-on camp evidence, participation routes, design gaps, evidence limits, and redesign |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/assignments/06-module2-reflection/module2-reflection.tex` | Personalized Puzzle Plan/EQUITAS definitions and inclusion-as-rigor framing |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/docs/day1-evidence-documentation.md` | Hands-on camp participation routes and access redesign |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/docs/day3-evidence-documentation.md` | Identity Beads, complementary contributions, and multiple evidence modes |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/docs/day4-and-day5-evidence-documentation.md` | Model revision, wearable advocacy, and showcase participation routes |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/docs/phd-puzzle-plan-alignment.md` | Public PhD/Puzzle Plan course-alignment style |
-| `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/transcripts/non-lesson-context/260210-placement-expectations-and-observation-planning.txt` | Non-identifying laptop-and-blocks placement event used for PTR reflection |
+| `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/transcripts/non-lesson-context/260210-placement-expectations-and-observation-planning.md` | Non-identifying laptop-and-blocks placement event used for PTR reflection |
 | `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/coursework/tasks/student-teaching-internship-action-items-and-key-information.md` | Curated record confirming the placement event |
 | `/Users/pitergarcia/DataScience/Semester5/Scholarship/The Puzzle Plan_ An Interdisciplinary Framework for Equitable Diagnostics and Advocacy-Driven Research.md` | Puzzle Plan pillars: technical rigor, educational equity, lived experience, translational outputs |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/ED452C/portfolio/puzzle-plan-evidence-map.md` | Placement/portfolio bridge language around inclusive design and technology access |
@@ -56,10 +61,21 @@ This repo documents source provenance without publishing raw course packets.
 
 | Item | Due Status | Repository Review |
 | --- | --- | --- |
-| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning-draft.md) and [Appendix 4.1 notes](../assignments/module2/ptr-appendix-4-1-completion-notes.md) |
-| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](../assignments/module2/positive-classroom-support-plan-draft.md) |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning/draft.md) and [Appendix 4.1 notes](../assignments/module2/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md) |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](../assignments/module2/positive-classroom-support-plan/draft.md) |
 | [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Authorized GitHub/Overleaf working repository](https://github.com/pzg8794/EDE448-Module2_Journal) |
-| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](../assignments/module2/takeaways-discussion-draft.md) |
+| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](../assignments/module2/discussions/takeaways.md) |
+
+## Module 3 Assignment Destinations
+
+| Item | Due Status | Repository Review |
+| --- | --- | --- |
+| AAC Review | August 10, 2026, 11:59 PM EDT | [AAC Review package](../assignments/module3/aac-review/README.md) |
+| [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Separate due date not visible; Module 3 ends August 10 | [Support-plan package](../assignments/module3/communication-support-plan/README.md) |
+| Journal #3 | August 10, 2026, 11:59 PM EDT | [Journal package](../assignments/module3/module3-journal/README.md) |
+| What Do You Know? and Takeaways | No due date shown in local captures | [Discussion prompts and drafts](../assignments/module3/discussions/README.md) |
+
+The local captures do not preserve direct item IDs for AAC Review, Journal #3, or the two discussions. Their landing pages use the authenticated course-outline destination rather than guessed links.
 
 ## Public Boundary
 

@@ -1,46 +1,28 @@
-# Viewpoints - Interventions for Students with Autism - Themed Overview
+# Stuart: Interventions for Students With Autism
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Viewpoints_on_Interventions_for_Learners_with_Disa..._----_(Chapter_6_Interventions_for_Students_with_Autism) (1).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Viewpoints_on_Interventions_for_Learners_with_Disa..._----_(Chapter_6_Interventions_for_Students_with_Autism) (1).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Interventions for autistic learners.
+Shannon Stuart's chapter surveys educational interventions for students with autism, including communication, visual, social, peer, and technology-supported approaches.
 
 ## Main Ideas
 
-This chapter surveys intervention approaches for students with autism. It can help compare how different supports understand learning, behavior, and communication.
+The chapter reviews strategies for receptive and expressive language, picture exchange and other AAC, visual schedules and supports, social narratives, video modeling, peer-mediated intervention, and instruction connected to student interests and familiar routines. Its practical strength is the insistence that supports be combined and embedded rather than treated as isolated techniques.
 
-- Criticality asks whether an intervention expands dignity or pressures masking.
-- Access requires choosing supports based on student needs and context.
-- Transformation means moving from correction to participation and self-advocacy.
+Peer-mediated and interest-based practices are especially relevant to Module 3 because meaningful communication requires partners and reasons to communicate. Visual supports can reduce language and memory demands, while AAC expands how students respond and initiate.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+The chapter includes deficit-oriented and normalization language common in traditional autism-intervention literature. A list of evidence-based practices does not answer whose goals are being pursued or whether the learner consents. Practices should be evaluated for generalization, social validity, sensory and cultural fit, and whether they expand agency rather than train students to appear less autistic.
 
-## EQUITAS Connection
+## Puzzle Plan and EQUITAS
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+The Puzzle Plan uses research evidence alongside lived response, context, and identity. EQUITAS asks whether peers become genuine communication partners or unpaid monitors, whether interests are honored or used only as rewards, and whether visual/AAC supports allow refusal and correction as well as task completion.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Supplement for partner modeling, peer participation, visual routines, and interests in the Communication Support Plan.
+- Critical reminder that communication outcomes must be student-centered.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source to evaluate intervention choices through a dignity lens.
+Combine evidence-based supports around authentic participation, then judge them by increased communication and dignity rather than increased typicality.

@@ -1,46 +1,28 @@
-# Developing and Acquiring Communication Aids - Themed Overview
+# Mirenda (2015): Developing and Acquiring Communication Aids
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Teaching_Communication_Skills_to_Students_with_Sev..._----_(6._Considerations_in_Developing_and_Acquiring_Communication_Aids).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Teaching_Communication_Skills_to_Students_with_Sev..._----_(6._Considerations_in_Developing_and_Acquiring_Communication_Aids).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Communication aid selection and development.
+Pat Mirenda's Chapter 6 in *Teaching Communication Skills to Students with Severe Disabilities* reviews considerations in building and acquiring AAC systems.
 
 ## Main Ideas
 
-This chapter focuses on considerations in developing and acquiring communication aids for students with severe disabilities.
+Mirenda distinguishes unaided techniques, such as gestures, facial expressions, vocalizations, and manual signs, from aided techniques that use external tools. The central concept is **multimodal communication**: people select among modes depending on the message, partner, setting, effort, and access conditions. A student's AAC system is the combination of all available techniques and should be updated as skills, needs, contexts, and preferences change.
 
-- Access requires matching aids to the student, context, motor/sensory profile, and communication goals.
-- EQUITAS asks who gets high-quality communication tools and who is delayed or denied.
-- Agency depends on aids that let students say what they actually need to say.
+The chapter considers manual signs, symbol displays, picture exchange, boards, and speech-generating devices, along with motor and sensory access, partner demands, vocabulary, display design, portability, and backup. Communication dictionaries can help new partners understand individualized signals. The strongest planning question is not which device is “best,” but which set of features and modes makes communication efficient and effective for this person.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+The reviewed evidence is strongest for acquisition and requesting; evidence for social connection, information sharing, spontaneous language, and generalization is less complete. Request success should not be mistaken for a full language system. The team must also avoid replacing an already efficient gesture with a slower device response merely because the device looks more conventional.
 
-## EQUITAS Connection
+## Puzzle Plan and EQUITAS
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+The Puzzle Plan resists one-tool explanations. EQUITAS adds preference and power to feature matching: who chose the vocabulary and voice, what happens when the student refuses the device, and whether a backup preserves communication during battery, positioning, sensory, or regulation changes.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Main conceptual support for treating TD Snap as one part of a system.
+- Basis for the Communication Support Plan's device, printed board, gestures, objects, and repair routes.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source to make AAC tool selection more thoughtful.
+The goal is not loyalty to one technology; it is a flexible system the communicator can actually use.

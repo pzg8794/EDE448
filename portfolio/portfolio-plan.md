@@ -16,13 +16,13 @@
 
 | # | Resource | Source/Draft | Purpose |
 | ---: | --- | --- | --- |
-| 1 | Sensory Access Walk And Redesign Checklist | [Sensory Walk draft](../assignments/module1/sensory-walk-experience-draft.md) | Helps teachers/families identify sensory barriers and plan improvements |
-| 2 | Autism Inclusion Mini-Lesson | [Kit for Kids draft](../assignments/module1/kit-for-kids-lesson-draft.md) | Gives peers respectful language and concrete inclusion behaviors |
-| 3 | PTR Classroom Access And Support Checklist | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning-draft.md) | Translates behavior concerns into prevention, teaching, and reinforcement supports |
-| 4 | Dignity-Centered Positive Classroom Support Plan | [Positive support draft](../assignments/module2/positive-classroom-support-plan-draft.md) | Provides whole-class routines, communication supports, and restorative repair |
+| 1 | Sensory Access Walk And Redesign Checklist | [Sensory Walk draft](../assignments/module1/sensory-walk-experience/draft.md) | Helps teachers/families identify sensory barriers and plan improvements |
+| 2 | Autism Inclusion Mini-Lesson | [Kit for Kids draft](../assignments/module1/teach-a-kit-for-kids-lesson/draft.md) | Gives peers respectful language and concrete inclusion behaviors |
+| 3 | PTR Classroom Access And Support Checklist | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning/draft.md) | Translates behavior concerns into prevention, teaching, and reinforcement supports |
+| 4 | Dignity-Centered Positive Classroom Support Plan | [Positive support draft](../assignments/module2/positive-classroom-support-plan/draft.md) | Provides whole-class routines, communication supports, and restorative repair |
 | 5 | Visual Routine And Transition Support Kit | New portfolio page | Supports predictability, executive functioning, and transition access |
-| 6 | AAC Tool Review For Teacher/Family Decision-Making | [AAC review draft](../assignments/module3/aac-review-discussion-draft.md) | Helps teams evaluate AAC tools beyond device features |
-| 7 | Daily Communication Support Plan And Home-School Bridge | [Communication plan draft](../assignments/module3/communication-support-plan-draft.md) | Keeps communication available across routines and between home/school |
+| 6 | AAC Tool Review For Teacher/Family Decision-Making | [AAC review draft](../assignments/module3/aac-review/draft.md) | Helps teams evaluate AAC tools beyond device features |
+| 7 | Daily Communication Support Plan And Home-School Bridge | [Communication plan draft](../assignments/module3/communication-support-plan/draft.md) | Keeps communication available across routines and between home/school |
 | 8 | Low-Tech Backup AAC Board / Core Vocabulary Starter | New portfolio page | Protects communication access when high-tech AAC is unavailable |
 | 9 | Inclusive Classroom Library And Media List | New portfolio page | Offers affirming books/media about autism, disability, communication, and belonging |
 | 10 | Peer Collaboration And Group Role Supports | New portfolio page | Makes group work more accessible for students with varied communication and executive-function needs |

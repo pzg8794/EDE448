@@ -1,46 +1,29 @@
-# Augmentative and Alternative Communication (AAC) - Themed Overview
+# ASHA: Augmentative and Alternative Communication (AAC)
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Augmentative and Alternative Communication (AAC).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Augmentative and Alternative Communication (AAC).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Core AAC overview.
+This concise American Speech-Language-Hearing Association public overview defines AAC and addresses common concerns. The local PDF captured the page on June 29, 2026.
 
 ## Main Ideas
 
-This source introduces AAC as a set of supports, tools, systems, and practices for people with communication needs.
+AAC includes all ways a person communicates besides talking. No-tech and low-tech examples include gestures, facial expressions, writing, drawing, spelling by pointing, and selecting photos, pictures, or written words. High-tech examples include tablet applications and speech-generating computers. A person's AAC system may combine several modes.
 
-- Communication is access: students need ways to express more than compliance.
-- Agency means students can choose, refuse, ask, comment, repair, and participate.
-- EQUITAS asks whether speech is being treated as the default proof of intelligence.
+ASHA states that people of all ages can use AAC, including children younger than three, and that there are no required cognitive skills, test scores, or developmental milestones before AAC can help. AAC does not prevent speech development and may support speech, language, and literacy. Feature matching may require collaboration among speech-language pathologists, occupational therapists, physical therapists, the communicator, family, and other partners.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+The page is an accessible professional overview, not a detailed classroom implementation study. It establishes definitions and counters prerequisite myths but does not by itself tell a team which vocabulary, access method, positioning, or partner practices fit an individual student.
 
-## EQUITAS Connection
+## Puzzle Plan and EQUITAS
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+ASHA's multimodal, no-prerequisite framing interrupts a common gatekeeping pattern: withholding communication until a learner demonstrates skills through inaccessible methods. EQUITAS asks whether the team recognizes gestures, writing, eye gaze, aided language, and other modes as legitimate authorship rather than treating speech as the default proof of competence.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Clear definition for the What Do You Know? response.
+- Foundational source for the TD Snap review.
+- Support for providing primary and backup modes in the Communication Support Plan.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this as an anchor source for AAC review and communication support planning.
+Communication access begins now; it is not a reward for meeting a readiness threshold.

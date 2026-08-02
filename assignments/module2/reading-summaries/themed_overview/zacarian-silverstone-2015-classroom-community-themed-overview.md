@@ -54,7 +54,7 @@ The EDU486 camp planning record shows the value of learning from youth before fi
 
 ## Assignment Use
 
-- Family, language, and preparation source for the [Positive Classroom Support Plan](../../positive-classroom-support-plan-draft.md)
+- Family, language, and preparation source for the [Positive Classroom Support Plan](../../positive-classroom-support-plan/draft.md)
 - Intersectional source for the [Module 2 journal](https://github.com/pzg8794/EDE448-Module2_Journal)
 - Beginning-of-year planning source for a final portfolio resource
 

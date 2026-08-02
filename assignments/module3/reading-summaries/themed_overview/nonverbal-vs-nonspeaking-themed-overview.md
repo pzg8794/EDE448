@@ -1,46 +1,26 @@
-# Nonverbal vs. Nonspeaking - Themed Overview
+# Nonverbal vs. Nonspeaking: Terminology, Stigma, and Source Limits
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Nonverbal vs. Nonspeaking_ Revealing Differences and Stigmas.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Nonverbal vs. Nonspeaking_ Revealing Differences and Stigmas.md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-Language, stigma, and terminology.
+This 2023 ABA Centers of Florida public-facing article explains why many advocates and professionals prefer **nonspeaking** to **nonverbal**. It is a commercial provider blog, not peer-reviewed research.
 
 ## Main Ideas
 
-This source helps distinguish nonverbal and nonspeaking language and the stigma carried by terminology.
+The article argues that *nonverbal* can be heard as “without language” or “without understanding,” while *nonspeaking* describes the absence or limitation of speech without erasing receptive language, gesture, writing, AAC, movement, or other communication. It encourages attention to varied modes and AAC support.
 
-- Words shape access: labels can either reveal needs or erase competence.
-- Criticality means questioning language that implies absence of thought or understanding.
-- Healing happens when teachers use language that preserves dignity and possibility.
+## Critical Reading
 
-## Puzzle Plan Connection
+The terminology distinction is useful, but individual preference remains authoritative; no single label should be imposed on every person. The article also markets ABA services and presents ABA as a “gold standard.” Those claims are separate from the language argument and should not be used as primary evidence for intervention effectiveness. The source is best treated as a prompt for respectful terminology, not as a comprehensive account of neurodivergent communication or support.
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+## Puzzle Plan and EQUITAS
 
-## EQUITAS Connection
+Words shape what adults expect to find. EQUITAS asks whether a label describes one communication feature or is used to erase competence and identity. The Puzzle Plan keeps terminology beside direct evidence from the communicator, family, context, and response to support.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+## Assignment Use
 
-## Course Theme Connection
+- Supports the Communication Support Plan's use of *nonspeaking* while preserving student preference.
+- Helps explain why speech cannot be treated as the full measure of language or thought.
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+## Takeaway
 
-## Teaching Implications
-
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source to improve language in the Communication Support Plan.
+Use language that does not turn the absence of speech into the absence of a person, and let individuals define how they wish to be described.

@@ -1,46 +1,26 @@
-# TherapyWorks - Most Popular AAC Devices - Themed Overview
+# TherapyWorks: Popular AAC Devices
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/The Most Popular AAC Devices _ TherapyWorks.pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/The Most Popular AAC Devices _ TherapyWorks.md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
+Amy Yacoub's 2023 TherapyWorks article is a public-facing product roundup. It introduces tools such as NovaChat, Via Pro with TouchChat, TD Snap, QuickTalker Freestyle, and Forbes AAC's ProSlate.
 
-## Source Purpose
+## Contribution
 
-AAC device overview.
+The article gives families and educators a starting vocabulary for comparing dedicated devices, tablet-based systems, symbol layouts, access options, voices, and portability. It also rejects strict prerequisites for beginning AAC. The list is useful for generating questions before a team trial: Is the system durable? Can the communicator access it physically? Does it support vocabulary growth, customization, backup, and use across settings?
 
-## Main Ideas
+## Critical Reading
 
-This public-facing source surveys popular AAC devices/tools. It is useful for comparing options in accessible language.
+This is not a comparative effectiveness study, and “popular” does not mean appropriate for an individual. Product versions, prices, operating systems, funding pathways, and support services change. Marketing descriptions should be checked against current manufacturer documentation and, more importantly, against a communicator-led assessment and trial.
 
-- Device comparison should focus on student agency, not just feature lists.
-- EQUITAS asks about cost, training, access method, portability, and family/school coordination.
-- Criticality means asking who can actually obtain and sustain the tool.
+## Puzzle Plan and EQUITAS
 
-## Puzzle Plan Connection
+EQUITAS asks who gets a real trial, whose preferences count, whether funding narrows the choices, and whether bilingual, sensory, motor, literacy, and identity needs are represented. A device table is one puzzle piece, not a prescription.
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+## Assignment Use
 
-## EQUITAS Connection
+- Background for why TD Snap was selected for deeper review rather than presented as universally best.
+- Source of comparison dimensions for future family/teacher decision tools.
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+## Takeaway
 
-## Course Theme Connection
-
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
-
-## Teaching Implications
-
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this source as a supplement for the AAC Review discussion.
+Product roundups can begin a conversation; feature matching, trials, partner support, and communicator preference must decide the system.

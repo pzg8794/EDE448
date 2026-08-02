@@ -1,34 +1,44 @@
-# Module 3: Communication Supports For Students With Complex Needs
+# Module 3: Communication Supports for Students With Complex Needs
 
 ## Essential Question
 
 What does meaningful communication look like for students with complex needs?
 
-## Due
+## Dates and Status
 
-Use **August 6, 2026** as the internal target for Module 3 learning activities and journal. The final portfolio is due **August 7, 2026**. The detailed module window runs through **August 10, 2026**, but the syllabus recommends finishing by August 7 if graduating this term.
+- **Blackboard due date shown for AAC Review and Journal #3:** August 10, 2026, 11:59 PM EDT
+- **Course guidance:** finish by August 7 if graduating this term
+- **Current state:** local review package prepared; no Module 3 item has been posted or submitted
 
-## Required Work
+## Start Here
 
-- Watch Dr. Love's module introduction.
-- Read three texts.
-- Watch or listen to one media source.
-- Complete Module 3 journal.
-- Submit AAC Review discussion post and respond to classmates.
-- Submit Communication Support Plan.
-
-## Drafts
-
+- [Complete Module 3 review guide](REVIEW-GUIDE.md)
 - [Module 3 task tracker](module3-task-tracker.md)
+- [References and source trail](references.md)
 - [Local readings index](readings-index.md)
-- [Themed reading summaries](reading-summaries/README.md)
-- [Comprehensive themed reading overview](reading-summaries/comprehensive_themed_overview.md)
-- [What do you know discussion response](what-do-you-know-discussion-draft.md)
-- [Module 3 journal draft](module3-journal-draft.md)
-- [AAC review discussion draft](aac-review-discussion-draft.md)
-- [Communication Support Plan draft](communication-support-plan-draft.md)
-- [Takeaways discussion response](takeaways-discussion-draft.md)
+- [Comprehensive themed summary](reading-summaries/comprehensive_themed_overview.md)
+- [Every source-specific themed summary](reading-summaries/README.md)
+- [Media synthesis and review guide](reading-summaries/media-synthesis.md)
+- [Puzzle Plan, EQUITAS, and cross-course evidence](reading-summaries/framework-and-cross-course-evidence.md)
 
-## Response Thread
+## Direct Assignment Links
 
-All Module 3 responses should keep the same argument: meaningful communication is not limited to speech or devices. AAC, visual supports, home-school logs, peer communication, and backup systems should give students real agency across the day.
+| Blackboard Item | Due | Review Material |
+| --- | --- | --- |
+| What Do You Know? | No date shown in local capture | [Prompt and personalized draft](discussions/README.md#what-do-you-know) |
+| AAC Review | August 10, 11:59 PM EDT | [Assignment page and TD Snap review](aac-review/README.md) |
+| [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Confirm in Blackboard; Module 3 ends August 10 | [Assignment page and personalized plan](communication-support-plan/README.md) |
+| Journal #3 | August 10, 11:59 PM EDT | [Assignment page and personalized journal](module3-journal/README.md) |
+| Takeaways | No date shown in local capture | [Prompt and personalized draft](discussions/README.md#takeaways) |
+
+The local screenshots do not preserve direct Blackboard item IDs for the discussions or Journal #3. Their landing pages use the course-outline link rather than inventing URLs.
+
+## Selected READ and MEDIA Set
+
+The three-reading set is [Norrie et al. (2021)](reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md), [Downing et al. (2015), Chapter 4](reading-summaries/themed_overview/general-education-rich-communicative-environment-themed-overview.md), and [Peckham-Hardin (2015), Chapter 9](reading-summaries/themed_overview/communication-and-challenging-behavior-themed-overview.md). The [Daily Communication Logs](reading-summaries/themed_overview/daily-communication-logs-themed-overview.md) and [Mirenda chapter](reading-summaries/themed_overview/developing-acquiring-communication-aids-themed-overview.md) support the assignments.
+
+The [media guide](reading-summaries/media-synthesis.md) recommends *The Key of G* but leaves the concrete observation open until Piter completes or confirms the selected source.
+
+## Shared Argument
+
+Meaningful communication is not limited to speech or device ownership. It exists when a student can choose, refuse, comment, ask, repair, participate academically, build relationships, and affect what happens next. AAC succeeds through access, vocabulary, communication partners, routines, family knowledge, and reliable backup systems.

@@ -110,10 +110,10 @@ Ortega, F. (2013). Cerebralizing autism within the neurodiversity movement. In J
 - Course prompt and Module 1 deck in the EDE448 Google Drive
 - Local media transcript: `Module1/Media/Autism-Insight_from Inside-en_128513.txt`
 - Local course-reading Markdown conversions under `local-derived/pdf-markdown/Module1/Read/` for source verification only; copyrighted extracted text is not published
-- [Module 1 comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
-- [Cole and Telesford (2023) themed overview](reading-summaries/themed_overview/cole-telesford-2023-autism-themed-overview.md)
-- [Ortega/Davidson neurodiversity themed overview](reading-summaries/themed_overview/davidson-2013-neurodiversity-movement-themed-overview.md)
-- [NEA guide themed overview](reading-summaries/themed_overview/nea-guide-teaching-students-with-autism-themed-overview.md)
+- [Module 1 comprehensive themed overview](../reading-summaries/comprehensive_themed_overview.md)
+- [Cole and Telesford (2023) themed overview](../reading-summaries/themed_overview/cole-telesford-2023-autism-themed-overview.md)
+- [Ortega/Davidson neurodiversity themed overview](../reading-summaries/themed_overview/davidson-2013-neurodiversity-movement-themed-overview.md)
+- [NEA guide themed overview](../reading-summaries/themed_overview/nea-guide-teaching-students-with-autism-themed-overview.md)
 - Non-identifying TeachingPlacement Grade 2 audience profile, transcript-derived lesson notes, and IGNITE SWD considerations
 
 ## Submission Check

@@ -1,46 +1,29 @@
-# General Education Classroom - Rich Communicative Environment - Themed Overview
+# Downing, Hanreddy, and Peckham-Hardin (2015): A Rich Communicative Environment
 
-## Source Location
+## Source
 
-- Source PDF: `Module3/Read/Teaching_Communication_Skills_to_Students_with_Sev..._----_(4._The_General_Education_Classroom_A_Rich_Communicative_Environment).pdf`
-- Local converted Markdown: `local-derived/pdf-markdown/Module3/Read/Teaching_Communication_Skills_to_Students_with_Sev..._----_(4._The_General_Education_Classroom_A_Rich_Communicative_Environment).md`
-- Module: Module 3: Communication Supports for Students with Complex Needs
-
-## Source Purpose
-
-General education as communication environment.
+Chapter 4 of *Teaching Communication Skills to Students with Severe Disabilities* examines how general-education settings can provide embedded communication instruction and peer interaction.
 
 ## Main Ideas
 
-This chapter frames the general education classroom as a rich communicative environment for students with severe disabilities.
+The authors distinguish predictable exchanges, such as a recurring lunch-line question, from unpredictable social interactions that require flexible, spontaneous communication. Educators can analyze classes, routines, and relationships to locate opportunities that are otherwise missed. Suggested tools include ecological inventories, sociograms, Social Networks inventories, language samples, peer observations, and analysis of the language used by students of similar age, culture, and gender.
 
-- Inclusion should create real communication opportunities, not just exposure.
-- Agency appears when students can participate in academic and social routines.
-- EQUITAS asks whether the classroom expects communication in only one mode.
+The chapter argues that communication instruction should occur throughout ordinary school life, not only in isolated specialist sessions. Peers provide language models and relationship possibilities, while educators model respectful, age-appropriate interaction. A communication dictionary can help partners understand a student's individualized signals. Physical placement in a general-education room, however, does not guarantee social closeness or meaningful exchange.
 
-## Puzzle Plan Connection
+## Critical Reading
 
-This source is one puzzle piece in the larger access-to-agency system. It helps us ask how schools interpret students whose communication, bodies, languages, sensory needs, attention, trauma, disability, culture, or overlapping identities are often misread. The point is not to collect labels. The point is to design better evidence and better supports.
+General education is treated as potentially communication-rich, but inclusion must be evaluated rather than presumed. Peer presence can become observation without relationship, and repeated “opportunities” can become adult prompts if the student has little choice about when or how to participate. The source is most useful when ecological analysis includes student preference, culture, sensory conditions, and partner power.
 
-## EQUITAS Connection
+## Puzzle Plan and EQUITAS
 
-Use this source to ask: Who is treated as the default learner? What access barrier is being normalized? What communication or participation mode is being ignored? What would change if equity were built into the structure before harm happens?
+This chapter helps the Puzzle Plan collect contextual evidence instead of treating a communication score as the whole learner. EQUITAS asks who gets to initiate, refuse, joke, repair, or remain quiet, and whether the environment recognizes multiple modes. The EDU486 camp routines provide a concrete application: model revision and showcase participation included labels, arrows, pointing, demonstrating, writing, speaking, partnering, observing, pausing, and returning.
 
-## Course Theme Connection
+## Assignment Use
 
-For EDE448, the theme is communication as access-to-agency. The reading matters when it helps teachers move from deficit interpretation toward dignity, communication access, sensory access, student voice, family knowledge, and meaningful participation.
+- Core READ for the journal and takeaways.
+- Structure for the Communication Support Plan's opportunity matrix.
+- Evidence that AAC vocabulary and partner support must travel across authentic routines.
 
-## Teaching Implications
+## Takeaway
 
-- Plan supports before students are framed as failing.
-- Treat behavior, silence, movement, refusal, AAC use, and sensory response as meaningful data.
-- Name the specific support instead of using vague inclusion language.
-- Build classroom routines that increase voice, choice, authorship, belonging, and repair.
-
-## Placement Connection
-
-This connects to the Pine Brook / technology-rich placement pattern: students' competence can be hidden by unclear directions, login friction, reading load, sensory load, social risk, or tool navigation. A teacher using this source should ask whether the classroom design is revealing student thinking or burying it.
-
-## Final Themed Takeaway
-
-Use this as a key source for embedding communication supports across the day.
+An inclusive schedule is not enough; the classroom must distribute real opportunities to author messages and relationships.

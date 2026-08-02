@@ -8,7 +8,7 @@ Reviewed: 2026-07-12
 - Module 1 assignment prompt in Drive: `Sensory Walk Experience.pdf`
 - Drive final draft: `EDE448 Module 1 - Sensory Walk Experience - Final`
 - LaTeX package repository: https://github.com/pzg8794/EDE448_Sensory_Walk_LaTeX_Package
-- Local final Markdown: [sensory-walk-experience-final.md](sensory-walk-experience-final.md)
+- Local final Markdown: [sensory-walk-experience/final.md](final.md)
 
 ## Verdict
 
