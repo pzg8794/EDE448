@@ -14,6 +14,16 @@ Icon?
 *.txt
 *.zip
 
+# LaTeX build products; editable sources and bibliographies remain tracked.
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
 /Module1/
 /Module2/
 /Module3/
@@ -30,3 +40,7 @@ Icon?
 # beneath their assignment folders. The public course repo links to them but
 # does not absorb their files or .git metadata.
 /assignments/*/*/repository/
+
+# Public-safe, original assignment visuals generated for Module 3.
+!assignments/module3/aac-review/assets/
+!assignments/module3/aac-review/assets/*.png

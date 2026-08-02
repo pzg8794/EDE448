@@ -1,0 +1,123 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=0.6in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage{needspace}
+\usepackage[table]{xcolor}
+\usepackage[natbibapa]{apacite}
+
+\definecolor{PrimaryRed}{HTML}{8B1E1E}
+\definecolor{DeepNavy}{HTML}{15324A}
+\definecolor{SoftBlue}{HTML}{DDEEFF}
+\definecolor{SoftGold}{HTML}{F8EDC7}
+\definecolor{SoftGray}{HTML}{F4F4F4}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=DeepNavy,
+  urlcolor=DeepNavy,
+  citecolor=DeepNavy,
+  pdftitle={Communication That Changes What Happens Next},
+  pdfauthor={Piter Zacari Garcia Bautista},
+  pdfsubject={EDE 448 Module 3 Journal},
+  pdfkeywords={AAC, meaningful communication, access-to-agency, Puzzle Plan, EQUITAS}
+}
+\setlength{\parindent}{0pt}
+\setstretch{1.08}
+\bibliographystyle{apacite}
+\newcommand{\reviewsection}[1]{%
+  \par\Needspace{5\baselineskip}\addvspace{0.16in}%
+  \noindent{\large\bfseries\color{PrimaryRed}#1}\par
+  \vspace{0.05in}%
+}
+
+\begin{document}
+
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\newgeometry{margin=0.7in}
+\thispagestyle{empty}
+
+\begin{center}
+{\large University of Rochester\\}
+{\normalsize Warner School of Education\\[0.15in]}
+
+{\color{PrimaryRed}\rule{\textwidth}{1.4pt}}\\[0.12in]
+{\Huge\bfseries Communication That Changes\\[0.07in]
+What Happens Next}\\[0.15in]
+{\huge Meaningful Communication, AAC,\\[0.07in]
+and Evidence Justice}\\[0.18in]
+{\Large EDE 448 --- Module 3 Journal}\\[0.12in]
+
+\vfill
+
+{\color{PrimaryRed}\rule{0.78\textwidth}{0.7pt}}\\[0.20in]
+
+\colorbox{SoftBlue}{%
+\parbox{0.88\textwidth}{%
+\centering\small\vspace{0.02in}
+\textbf{From Device Availability to Student Authorship}\\[0.05in]
+Communication becomes meaningful when the learner has an accessible way to author varied messages and partners allow those messages to influence learning, relationships, support, and the environment.
+}%
+}
+\end{center}
+
+\vfill
+
+\begin{center}
+\renewcommand{\arraystretch}{1.18}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\bfseries\RaggedLeft\arraybackslash}p{1.65in} >{\RaggedRight\arraybackslash}p{5.0in}}
+Student & Piter Zacari Garcia Bautista \\
+Assignment & Module 3 Journal \\
+Course & EDE 448 --- Communication and Positive Behavioral Supports for Students with Autism and Other Complex Needs \\
+Essential Question & What does meaningful communication look like for students with complex needs? \\
+Primary Sources & Norrie et al.; Downing et al.; Peckham-Hardin \\
+Applied Evidence & EDE448 Modules 1--2, K--5 teaching placement, and EDU486 Invisible Invaders camp \\
+Interpretive Lenses & Puzzle Plan and EQUITAS \\
+Due Date & August 10, 2026, 11:59 PM EDT \\
+\end{tabular}
+\end{center}
+
+\vfill
+
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\centering\itshape
+A communication system is meaningful when the student can use it to challenge an interpretation, enter a relationship, and change what happens next.\\
+{\color{PrimaryRed}\rule{4.5in}{0.8pt}}
+\end{minipage}
+\end{center}
+
+\vfill
+
+\begin{center}
+\begin{minipage}{0.95\textwidth}
+\small
+This journal uses my Puzzle Plan, an interdisciplinary framework that connects lived experience, education, data, research, technology, and advocacy so that no single diagnosis, observation, behavior, or score is mistaken for the whole learner. EQUITAS is the equity-centered heart of that framework. It asks whose knowledge is included, what context is missing, how power and bias shape interpretation, and whether a decision expands dignity, agency, belonging, and access. Applied to Module 3, these commitments make communication support an evidence-and-justice problem: adults must examine not only whether a device or strategy is present, but whether the student gains authorship and influence.
+\end{minipage}
+\end{center}
+
+\restoregeometry
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\pagenumbering{arabic}
+
+\input{sections/01_meaningful_communication}
+\input{sections/02_context_classroom_and_camp}
+\input{sections/03_behavior_power_and_evidence}
+\input{sections/04_media_future_practice_and_conclusion}
+
+\newpage
+\small
+\bibliography{references}
+
+\end{document}

@@ -13,6 +13,8 @@ Research one AAC device or tool, summarize it, review its communication benefits
 ## Review Package
 
 - [Personalized TD Snap review draft](draft.md)
+- [Blackboard-ready access-to-agency visual](assets/td-snap-access-to-agency.png)
+- [Editable visual source](assets/td-snap-access-to-agency.tex)
 - [Module 3 reference list](../references.md)
 - [AAC system overview](../reading-summaries/themed_overview/augmentative-and-alternative-communication-aac-themed-overview.md)
 - [Norrie et al. implementation study](../reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md)
@@ -20,4 +22,4 @@ Research one AAC device or tool, summarize it, review its communication benefits
 
 ## Human Review
 
-Confirm the final length and voice, inspect the Mermaid visual in GitHub, and post manually. A classmate reply cannot be completed honestly until classmates' posts are visible.
+Confirm the final length and voice, attach the PNG visual, and post manually. A classmate reply cannot be completed honestly until classmates' posts are visible; the draft includes a response structure that must be completed from an actual post.

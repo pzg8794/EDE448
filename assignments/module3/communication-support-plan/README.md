@@ -12,6 +12,8 @@ After completing the Module 3 READ and LISTEN/WATCH work, develop a support plan
 ## Review Package
 
 - [Personalized communication support plan](draft.md)
+- [Editable LaTeX package](latex/README.md)
+- Local compiled review copy: `latex/main.pdf` (five pages; ignored by the public repository)
 - [Module 3 reference list](../references.md)
 - [Daily Communication Logs critique and redesign](../reading-summaries/themed_overview/daily-communication-logs-themed-overview.md)
 - [Rich communicative environment](../reading-summaries/themed_overview/general-education-rich-communicative-environment-themed-overview.md)

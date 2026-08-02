@@ -4,19 +4,9 @@
 
 For my AAC review, I selected **TD Snap**, an augmentative and alternative communication application from Tobii Dynavox. The application offers multiple page sets, including Core First, Motor Plan, Express, Text, Scanning, and Aphasia. It can be configured for different access methods, including touch, switch scanning, and eye gaze. This flexibility matters because students with complex communication needs do not share one motor, sensory, visual, language, or literacy profile.
 
-```mermaid
-flowchart LR
-    A[Student authors a message] --> B{Available access}
-    B --> C[Touch]
-    B --> D[Switch or scanning]
-    B --> E[Eye gaze]
-    B --> F[Low-tech backup]
-    C --> G[Choose, refuse, comment, ask, repair]
-    D --> G
-    E --> G
-    F --> G
-    G --> H[Partner notices, confirms, and acts]
-```
+![TD Snap access-to-agency communication-system diagram](assets/td-snap-access-to-agency.png)
+
+*Figure 1. TD Snap is one component of a multimodal communication system. The diagram shows communicator intent moving through an accessible route, matched vocabulary, and responsive partner practice before becoming agency. The EQUITAS test asks whether the student can author varied messages and influence what happens next.*
 
 ### Benefits
 
@@ -44,6 +34,11 @@ TD Snap is a strong option when its page set and access method fit the communica
 - [ASHA AAC overview](../reading-summaries/themed_overview/augmentative-and-alternative-communication-aac-themed-overview.md)
 - [Mirenda (2015)](../reading-summaries/themed_overview/developing-acquiring-communication-aids-themed-overview.md)
 - [Norrie et al. (2021)](../reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md)
+
+## Visual Files
+
+- [Blackboard-ready PNG](assets/td-snap-access-to-agency.png)
+- [Editable LaTeX/TikZ source](assets/td-snap-access-to-agency.tex)
 
 ## Classmate Reply - Complete Only After Posts Are Visible
 

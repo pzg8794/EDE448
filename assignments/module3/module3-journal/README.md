@@ -13,6 +13,8 @@ The local Blackboard capture for Journal #3 says that the instructor has not add
 ## Review Package
 
 - [Personalized journal draft](draft.md)
+- [Editable Module 1/Module 2-style LaTeX package](latex/README.md)
+- Local compiled review copy: `latex/main.pdf` (four pages; ignored by the public repository)
 - [Selected reading set and source trail](../references.md)
 - [Media review guide](../reading-summaries/media-synthesis.md)
 - [Module 3 comprehensive themed summary](../reading-summaries/comprehensive_themed_overview.md)

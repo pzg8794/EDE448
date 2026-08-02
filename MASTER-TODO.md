@@ -50,9 +50,9 @@ The **Puzzle Plan** combines lived experience, education, data, research, techno
 | READ: Downing et al. (2015), Ch. 4 | Module work | Source-grounded summary prepared | Engage with source and confirm takeaway |
 | READ: Peckham-Hardin (2015), Ch. 9 | Module work | Source-grounded summary prepared | Engage with source and confirm takeaway |
 | LISTEN/WATCH one source | Module work | Four local options mapped; completion not claimed | Complete/confirm source and record one concrete observation |
-| AAC Review | August 10, 11:59 PM EDT | Personalized TD Snap review and visual prepared | Review, post, then reply to an actual classmate post |
-| Communication Support Plan | Confirm in Blackboard; August 10 module window | Personalized camp-informed plan prepared | Confirm date, review, and submit manually |
-| Journal #3 | August 10, 11:59 PM EDT | Personalized draft prepared; media placeholder remains | Confirm prompt, insert verified media moment, submit manually |
+| AAC Review | August 10, 11:59 PM EDT | Personalized TD Snap post and original PNG visual prepared | Review, post, then reply to an actual classmate post |
+| Communication Support Plan | Confirm in Blackboard; August 10 module window | Markdown and five-page LaTeX camp-informed plan prepared | Confirm date, review, and submit manually |
+| Journal #3 | August 10, 11:59 PM EDT | Markdown and four-page LaTeX package prepared; media placeholder remains | Confirm prompt, insert verified media moment, submit manually |
 | Takeaways | No date shown locally | Personalized source-specific draft prepared | Confirm READ/MEDIA and post manually |
 
 Direct links and all working files: [Module 3 assignment map](assignments/module3/README.md#direct-assignment-links).

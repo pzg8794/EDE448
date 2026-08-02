@@ -23,9 +23,9 @@ Use [Daily Communication Logs](reading-summaries/themed_overview/daily-communica
 | Assignment | Due | Review Material | Remaining Human Action |
 | --- | --- | --- | --- |
 | What Do You Know? | No date shown in capture | [Discussion draft](discussions/what-do-you-know.md) | Review and post manually |
-| AAC Review | August 10, 11:59 PM EDT | [TD Snap review](aac-review/README.md) | Review, post, then write a real reply |
-| Communication Support Plan | Confirm in Blackboard; Module 3 ends August 10 | [Support-plan package](communication-support-plan/README.md) | Confirm date, review, and submit manually |
-| Journal #3 | August 10, 11:59 PM EDT | [Journal package](module3-journal/README.md) | Confirm prompt; add media observation; submit manually |
+| AAC Review | August 10, 11:59 PM EDT | [TD Snap post and PNG visual](aac-review/README.md) | Review, post, then write a real reply |
+| Communication Support Plan | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and five-page LaTeX package](communication-support-plan/README.md) | Confirm date, review, and submit manually |
+| Journal #3 | August 10, 11:59 PM EDT | [Markdown and four-page LaTeX package](module3-journal/README.md) | Confirm prompt; add media observation; submit manually |
 | Takeaways | No date shown in capture | [Discussion draft](discussions/takeaways.md) | Review after READ/MEDIA and post manually |
 
 ## Personalization Thread
@@ -39,3 +39,7 @@ The drafts use three connected evidence bases:
 ## Public Boundary
 
 Raw PDFs, course captures, child media, and transcripts remain local. The repository contains original summaries and public-safe evidence descriptions only.
+
+## Draft Completion Standard
+
+Every Module 3 assignment now has a canonical review draft. The opening and closing discussions are ready for voice review. AAC Review includes the post, original visual, sources, and a conditional reply structure. The Communication Support Plan and Journal #3 include Markdown, editable LaTeX, BibTeX references, and compiled local review copies. The only content intentionally not invented is the media observation and the response to a classmate's future post.
