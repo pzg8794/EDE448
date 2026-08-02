@@ -35,7 +35,7 @@
 - [Module 2 media synthesis](../assignments/module2/reading-summaries/media-synthesis.md)
 - [Module 2 references and source trail](../assignments/module2/references.md)
 - [Module 2 what do you know discussion](../assignments/module2/what-do-you-know-discussion-draft.md)
-- [Module 2 journal draft](../assignments/module2/module2-journal-draft.md)
+- Module 2 journal draft (retained locally pending Piter's Overleaf project)
 - [PTR Appendix 4.1 completion notes](../assignments/module2/ptr-appendix-4-1-completion-notes.md)
 - [PTR planning draft](../assignments/module2/prevent-teach-reinforce-planning-draft.md)
 - [PTR Module 1-themed LaTeX package](../assignments/module2/prevent-teach-reinforce-latex/README.md)

@@ -48,7 +48,7 @@ My working personal lens is:
 | --- | --- |
 | [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | [PTR draft](assignments/module2/prevent-teach-reinforce-planning-draft.md), [Appendix 4.1 notes](assignments/module2/ptr-appendix-4-1-completion-notes.md), and [LaTeX package](assignments/module2/prevent-teach-reinforce-latex/README.md) |
 | [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | [Support-plan draft](assignments/module2/positive-classroom-support-plan-draft.md) |
-| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | [Journal draft](assignments/module2/module2-journal-draft.md) |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | Local-only working materials pending Piter's Overleaf project |
 | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | [Takeaways draft](assignments/module2/takeaways-discussion-draft.md) |
 
 - [Review every Module 2 themed reading summary directly](assignments/module2/README.md#direct-themed-reading-summaries)

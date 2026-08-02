@@ -57,7 +57,7 @@ The Module 2 drafts retain Module 1's key finding: diagnosis, observation, behav
 ## Where to Use the Sources
 
 - [Comprehensive themed overview](reading-summaries/comprehensive_themed_overview.md)
-- [Module 2 journal](module2-journal-draft.md)
+- Module 2 journal (local-only working materials)
 - [PTR Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md)
 - [PTR planning summary](prevent-teach-reinforce-planning-draft.md)
 - [Positive Classroom Support Plan](positive-classroom-support-plan-draft.md)

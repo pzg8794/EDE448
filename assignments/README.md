@@ -20,7 +20,7 @@ This folder contains public-safe assignment drafts, planning notes, and submissi
 - [Module 2 task tracker](module2/module2-task-tracker.md)
 - [Review every Module 2 themed reading summary](module2/README.md#direct-themed-reading-summaries)
 - [What do you know discussion draft](module2/what-do-you-know-discussion-draft.md)
-- [Blackboard Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) - [journal review draft](module2/module2-journal-draft.md)
+- [Blackboard Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) - local-only review materials pending Piter's Overleaf project
 - [Blackboard Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) - [PTR review draft](module2/prevent-teach-reinforce-planning-draft.md), [Appendix 4.1 notes](module2/ptr-appendix-4-1-completion-notes.md), and [LaTeX package](module2/prevent-teach-reinforce-latex/README.md)
 - [Blackboard Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) - [support-plan review draft](module2/positive-classroom-support-plan-draft.md)
 - [Blackboard Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) - [takeaways review draft](module2/takeaways-discussion-draft.md)

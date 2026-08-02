@@ -58,7 +58,7 @@ Hands-on technology and camp activities can support reciprocal roles when studen
 ## Assignment Use
 
 - Peer and belonging layer for the [Positive Classroom Support Plan](../../positive-classroom-support-plan-draft.md)
-- Supplementary source for the [Module 2 journal](../../module2-journal-draft.md)
+- Supplementary source for the local-only Module 2 journal
 - Portfolio planning for reciprocal peer participation
 
 ## Final Themed Takeaway

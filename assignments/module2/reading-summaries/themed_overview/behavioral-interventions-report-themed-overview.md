@@ -66,7 +66,7 @@ In EDU486 camp work, no learner should have to disclose a diagnosis, health hist
 
 ## Assignment Use
 
-- Core ethical source for the [Module 2 journal](../../module2-journal-draft.md)
+- Core ethical source for the local-only Module 2 journal
 - Consent and reinforcement source for [PTR Planning](../../prevent-teach-reinforce-planning-draft.md)
 - Rights and outcome standard for the [Positive Classroom Support Plan](../../positive-classroom-support-plan-draft.md)
 - Direct support for the [Takeaways response](../../takeaways-discussion-draft.md)
