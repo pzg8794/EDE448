@@ -1,6 +1,6 @@
 # Module 2 Task Tracker
 
-Last updated: July 26, 2026
+Last updated: August 1, 2026
 
 ## Essential Question
 
@@ -8,7 +8,7 @@ Last updated: July 26, 2026
 
 ## Submission State
 
-**No Module 2 item has been submitted or posted through this workflow.**
+**Piter has confirmed that the PTR paper was submitted. The Positive Classroom Support Plan, Module 2 journal, and discussion responses are not confirmed submitted and remain under review.**
 
 ## Date Record
 
@@ -31,9 +31,9 @@ The direct Blackboard assignment listings establish the July 31 deadline for the
 | Read required PTR chapter/resource | Module work | Selected and source-mapped | [Dunlap/PTR overview](reading-summaries/themed_overview/dunlap-pbs-autism-ptr-themed-overview.md) | Confirm engagement with Chapter 4 and official Appendix 4.1 |
 | Read two additional texts | Module work | Selected and summarized | [Gardner](reading-summaries/themed_overview/behavioral-interventions-report-themed-overview.md); [Jorgensen](reading-summaries/themed_overview/jorgensen-2018-communicative-competence-themed-overview.md) | Confirm both remain in final source set |
 | Media | Optional | Edutopia selected; critically synthesized | [Media synthesis](reading-summaries/media-synthesis.md) | Retain or replace after Piter's review |
-| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 11:59 PM EDT | Six-page LaTeX review PDF compiled; not submitted | [PTR narrative](prevent-teach-reinforce-planning-draft.md); [Appendix 4.1 notes](ptr-appendix-4-1-completion-notes.md); [LaTeX source package](prevent-teach-reinforce-latex/README.md) | Review the PDF, approve the case, and decide whether to attach the official form |
-| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 11:59 PM EDT | Comprehensive paper-format draft; not submitted | [Support plan](positive-classroom-support-plan-draft.md) | Review setting/length and choose final format |
-| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 11:59 PM EDT | Comprehensive almost-ready draft; not submitted | [Journal](module2-journal-draft.md) | Review personal emphasis, length, and sources |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 11:59 PM EDT | **User-confirmed submitted** | [From Compliance to Communication](https://github.com/pzg8794/EDE448-Module2-Journal); [course working files](prevent-teach-reinforce-latex/README.md) | No action here unless instructor feedback requires revision |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 11:59 PM EDT | Review-ready dedicated paper; not confirmed submitted | [Words That Have Evidence](https://github.com/pzg8794/EDE448-Positive_Classroom_Support_Plan); [course draft](positive-classroom-support-plan-draft.md) | Review final paper and submit manually only after approval |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 11:59 PM EDT | Eight-page Module 1-themed LaTeX package compiled; not submitted | [LaTeX package](module2-journal-latex/README.md); [source draft](module2-journal-draft.md) | Review voice, evidence, and sources before manual submission |
 | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown | Almost-ready; not posted | [Takeaways](takeaways-discussion-draft.md) | Revise after module completion and post manually |
 
 ## Source and Evidence Status
@@ -45,16 +45,16 @@ The direct Blackboard assignment listings establish the July 31 deadline for the
 | Takeaways Blackboard destination | Verified; no due date shown in the supplied listing |
 | 2019 PTR edition and Appendix 4.1 title | Verified through official publisher metadata |
 | Pine Brook laptop-and-blocks event | Verified in local placement transcript/action-item record |
-| EDU486 July 21 youth feedback | Verified in public-safe planning record |
-| EDU486 July 24 camp outcomes and limits | Verified in Day 1 field reflection |
+| EDU486 camp design and youth feedback | Verified in public-safe Day 1, Day 3, Day 4, and Day 5 records |
+| EDU486 July 31 youth retrospective | Verified in the public-safe record of requested changes, sensory feedback, response options, and evidence limits |
 | Source citations | Drafted in [references](references.md) |
 
 ## Portfolio Harvest
 
 | Portfolio Resource | Assignment Source | State |
 | --- | --- | --- |
-| PTR Access, Communication, and Support Review Guide | PTR Planning | Drafted for review |
-| Dignity-Centered Positive Classroom Support Plan | Support Plan | Drafted for review |
+| PTR Access, Communication, and Support Review Guide | PTR Planning | User-confirmed submitted in the completed PTR paper |
+| Dignity-Centered Positive Classroom Support Plan | Support Plan | Review-ready; not confirmed submitted |
 | Visible Routine and Re-entry Support | Support Plan / EDU486 | Identified for later portfolio design |
 | Multiple Routes Into Rigorous Participation | Support Plan / EDU486 | Identified for later portfolio design |
 

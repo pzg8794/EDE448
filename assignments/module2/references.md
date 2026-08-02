@@ -55,12 +55,17 @@ Ortega, F. (2013). Cerebralizing autism within the neurodiversity movement. In J
 
 ## Practice and Personalization Sources
 
-- Module 1 journal and takeaways in this repository
+- Submitted Module 1 journal: [*Who Gets to Name, Interpret, and Design?*](https://github.com/pzg8794/EDE448-module1-Introduction_to-Autism_and_Other_Complex_Support_Need)
+- Submitted PTR paper: [*From Compliance to Communication*](https://github.com/pzg8794/EDE448-Module2-Journal)
+- Current Positive Classroom Support Plan: [*Words That Have Evidence*](https://github.com/pzg8794/EDE448-Positive_Classroom_Support_Plan)
 - Pine Brook placement conference record dated February 10, 2026, under the local TeachingPlacement transcript archive
 - Pine Brook teaching-placement action-item summary documenting the laptop-and-blocks event
 - EDU486 `docs/access-to-agency-course-theme.md`
-- EDU486 July 21 Invisible Invaders planning and youth-feedback record
-- EDU486 July 24 Invisible Invaders Day 1 field reflection
+- [EDU486 Day 1 evidence documentation](https://github.com/pzg8794/EDU486/blob/main/docs/day1-evidence-documentation.md)
+- [EDU486 Day 3: separation, measurement, friction, and scientist identity](https://github.com/pzg8794/EDU486/blob/main/transcripts/camp-clean/2026-07-28-day3-separation-measurement-friction-scientist-identity.md)
+- [EDU486 Day 4: model, policy, and advocacy](https://github.com/pzg8794/EDU486/blob/main/transcripts/camp-clean/2026-07-29-day4-model-policy-advocacy.md)
+- [EDU486 Day 5: youth-led showcase and recognition](https://github.com/pzg8794/EDU486/blob/main/transcripts/camp-clean/2026-07-30-day5-youth-led-showcase.md)
+- [EDU486 July 31 youth retrospective and future design](https://github.com/pzg8794/EDU486/blob/main/transcripts/camp-clean/2026-07-31-day6-youth-retrospective.md)
 - EDU486 Module 2 reflection on inclusion, rigor, identity, access, technology, and justice
 
 ## Evidence Boundary

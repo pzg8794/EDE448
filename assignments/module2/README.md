@@ -2,7 +2,7 @@
 
 ## Review Status
 
-**Comprehensive review package prepared. Nothing in this folder has been submitted or posted through this workflow.**
+**Comprehensive review package prepared. Piter has confirmed that the PTR paper was submitted. The Positive Classroom Support Plan, Module 2 journal, and discussion responses remain review materials and have not been submitted or posted through this workflow.**
 
 Start with the [Module 2 Review Guide](REVIEW-GUIDE.md).
 
@@ -36,9 +36,9 @@ The direct Blackboard listings supplied on July 26 establish July 31 as the due 
 
 | Blackboard Item | Due | Review Draft and Supporting Work |
 | --- | --- | --- |
-| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR planning draft](prevent-teach-reinforce-planning-draft.md); [Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md); [Module 1-themed LaTeX package](prevent-teach-reinforce-latex/README.md) |
-| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](positive-classroom-support-plan-draft.md) |
-| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Journal draft](module2-journal-draft.md) |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **User-confirmed submitted:** [From Compliance to Communication](https://github.com/pzg8794/EDE448-Module2-Journal); [course working files](prevent-teach-reinforce-latex/README.md) |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **Review-ready, not confirmed submitted:** [Words That Have Evidence](https://github.com/pzg8794/EDE448-Positive_Classroom_Support_Plan); [course draft](positive-classroom-support-plan-draft.md) |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **Almost ready, not submitted:** [LaTeX package](module2-journal-latex/README.md); [main.tex](module2-journal-latex/main.tex); [references.bib](module2-journal-latex/references.bib); [source draft](module2-journal-draft.md) |
 | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](takeaways-discussion-draft.md) |
 
 Additional module response: [What do you know? discussion draft](what-do-you-know-discussion-draft.md).
@@ -77,7 +77,7 @@ Additional module response: [What do you know? discussion draft](what-do-you-kno
 - [Making inclusion work - Evidence-based interventions](reading-summaries/themed_overview/making-inclusion-work-evidence-based-interventions-themed-overview.md)
 - [Assistive technology and sensory supports](reading-summaries/themed_overview/assistive-technology-sensory-supports-themed-overview.md)
 
-Module 1 sources, Pine Brook placement evidence, and EDU486 camp work remain visible in the [references and source trail](references.md).
+Module 1 sources, Pine Brook placement evidence, the submitted PTR paper, the current Positive Classroom Support Plan, and EDU486 camp work through the July 31 youth retrospective remain visible in the [references and source trail](references.md).
 
 ## Response Thread
 
@@ -91,8 +91,8 @@ Piter still needs to:
 
 - review every draft for voice and preferred length
 - confirm the final reading/media set
-- approve the Pine Brook case
-- transfer the Appendix 4.1 notes into the official 2019 form
+- confirm that the Pine Brook connection carries the intended emphasis in the journal
+- confirm whether any instructor follow-up is needed for the submitted PTR paper
 - confirm whether Blackboard assigns a separate due date to Takeaways
 - decide the final format of each assignment
 - submit or post only after approval

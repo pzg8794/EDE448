@@ -10,7 +10,7 @@
 
 ## Review Status
 
-**Comprehensive almost-ready draft. Not submitted.**
+**Source draft retained for review history. Not submitted.** The current, Module 1-themed version is the [LaTeX review package](module2-journal-latex/README.md), with direct access to [main.tex](module2-journal-latex/main.tex) and [references.bib](module2-journal-latex/references.bib). It updates this argument by referencing the submitted Module 1 and PTR papers, the current Positive Classroom Support Plan, and public-safe EDU486 evidence through the July 31 youth retrospective.
 
 ## Selected Source Set
 
@@ -130,14 +130,17 @@ Zacarian, D., & Silverstone, M. A. (2015). Preparing for classroom community. In
 - [PTR Appendix 4.1 completion notes](ptr-appendix-4-1-completion-notes.md)
 - Module 1 journal and takeaways
 - Non-identifying Pine Brook placement conference record
-- EDU486 July 21 planning/youth-feedback record and July 24 field reflection
+- Submitted Module 1 journal, *Who Gets to Name, Interpret, and Design?*
+- Submitted PTR paper, *From Compliance to Communication*
+- Current Positive Classroom Support Plan, *Words That Have Evidence*
+- Public-safe EDU486 evidence from Day 1 through the July 31 youth retrospective
 
 ## Review Checklist
 
 - [x] Answers the essential question directly.
 - [x] Uses the required PTR source and two additional Module 2 reads.
 - [x] Connects Module 1 learning to Module 2 design.
-- [x] Integrates teaching placement and current hands-on camp evidence.
+- [x] Integrates teaching placement and public-safe camp evidence through July 31.
 - [x] Defines Puzzle Plan and EQUITAS at first use.
 - [x] Includes neurodivergence and intersecting identities.
 - [x] Distinguishes observation, hypothesis, and unsupported inference.
