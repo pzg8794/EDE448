@@ -58,7 +58,7 @@ This repo documents source provenance without publishing raw course packets.
 | --- | --- | --- |
 | [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning-draft.md) and [Appendix 4.1 notes](../assignments/module2/ptr-appendix-4-1-completion-notes.md) |
 | [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](../assignments/module2/positive-classroom-support-plan-draft.md) |
-| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | Local-only working materials pending Piter's Overleaf project |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Authorized GitHub/Overleaf working repository](https://github.com/pzg8794/EDE448-Module2_Journal) |
 | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](../assignments/module2/takeaways-discussion-draft.md) |
 
 ## Public Boundary
