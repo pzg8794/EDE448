@@ -7,6 +7,8 @@ and neurodiversity?
 
 **Blackboard destination:** [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1)
 
+**Dedicated repository:** [pzg8794/EDE448-Module2-Journal](https://github.com/pzg8794/EDE448-Module2-Journal)
+
 **Documented due date:** July 31, 2026, 11:59 PM EDT
 
 ## Review Status
@@ -21,16 +23,16 @@ workflow.
 - `references.bib` - course, prior-work, and EDU486 sources
 
 The paper updates the existing Markdown journal rather than replacing its core
-argument. It references the submitted Module 1 journal and PTR assignment,
-the current Positive Classroom Support Plan, and public-safe EDU486 evidence
-through the July 31 youth retrospective.
+argument. It connects the submitted Module 1 journal to the Module 2 READ and
+MEDIA, teaching-placement experience, and public-safe EDU486 evidence through
+the July 31 youth retrospective.
 
 ## Verification
 
 - Compiled with TeX Live and BibTeX on August 1, 2026
-- Eight pages total, matching the submitted Module 1 journal
-- 2,483 body words, excluding the cover and references
-- All eight rendered pages visually reviewed
+- Seven pages total, one page shorter than the submitted Module 1 journal
+- 2,335 body words, excluding the cover and references
+- All seven rendered pages visually reviewed
 - No unresolved citations, references, or overfull boxes
 
 ## Build

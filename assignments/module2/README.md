@@ -36,9 +36,9 @@ The direct Blackboard listings supplied on July 26 establish July 31 as the due 
 
 | Blackboard Item | Due | Review Draft and Supporting Work |
 | --- | --- | --- |
-| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **User-confirmed submitted:** [From Compliance to Communication](https://github.com/pzg8794/EDE448-Module2-Journal); [course working files](prevent-teach-reinforce-latex/README.md) |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **User-confirmed submitted:** [From Compliance to Communication](https://github.com/pzg8794/EDE448-Prevent_Teach_Reinforce_Planning); [course working files](prevent-teach-reinforce-latex/README.md) |
 | [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **Review-ready, not confirmed submitted:** [Words That Have Evidence](https://github.com/pzg8794/EDE448-Positive_Classroom_Support_Plan); [course draft](positive-classroom-support-plan-draft.md) |
-| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **Almost ready, not submitted:** [LaTeX package](module2-journal-latex/README.md); [main.tex](module2-journal-latex/main.tex); [references.bib](module2-journal-latex/references.bib); [source draft](module2-journal-draft.md) |
+| [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | **Almost ready, not submitted:** [dedicated journal repository](https://github.com/pzg8794/EDE448-Module2-Journal); [course LaTeX package](module2-journal-latex/README.md); [source draft](module2-journal-draft.md) |
 | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](takeaways-discussion-draft.md) |
 
 Additional module response: [What do you know? discussion draft](what-do-you-know-discussion-draft.md).
@@ -77,7 +77,7 @@ Additional module response: [What do you know? discussion draft](what-do-you-kno
 - [Making inclusion work - Evidence-based interventions](reading-summaries/themed_overview/making-inclusion-work-evidence-based-interventions-themed-overview.md)
 - [Assistive technology and sensory supports](reading-summaries/themed_overview/assistive-technology-sensory-supports-themed-overview.md)
 
-Module 1 sources, Pine Brook placement evidence, the submitted PTR paper, the current Positive Classroom Support Plan, and EDU486 camp work through the July 31 youth retrospective remain visible in the [references and source trail](references.md).
+Module 1 sources, Pine Brook placement evidence, and EDU486 camp work through the July 31 youth retrospective support the journal. The submitted PTR paper and current Positive Classroom Support Plan remain separately documented as parallel assignments in the tracker above. See the [references and source trail](references.md).
 
 ## Response Thread
 

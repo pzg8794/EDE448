@@ -53,11 +53,16 @@ Ortega, F. (2013). Cerebralizing autism within the neurodiversity movement. In J
 - [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1), due July 31, 2026, at 11:59 PM EDT
 - [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1), with no due date displayed in the supplied listing
 
-## Practice and Personalization Sources
+## Prior and Parallel Assignments
 
 - Submitted Module 1 journal: [*Who Gets to Name, Interpret, and Design?*](https://github.com/pzg8794/EDE448-module1-Introduction_to-Autism_and_Other_Complex_Support_Need)
-- Submitted PTR paper: [*From Compliance to Communication*](https://github.com/pzg8794/EDE448-Module2-Journal)
+- Submitted PTR paper: [*From Compliance to Communication*](https://github.com/pzg8794/EDE448-Prevent_Teach_Reinforce_Planning)
 - Current Positive Classroom Support Plan: [*Words That Have Evidence*](https://github.com/pzg8794/EDE448-Positive_Classroom_Support_Plan)
+
+The Module 1 journal provides conceptual continuity for the Module 2 journal. The PTR paper and Positive Classroom Support Plan are separately tracked assignments and are not sources for the journal.
+
+## Practice and Personalization Sources
+
 - Pine Brook placement conference record dated February 10, 2026, under the local TeachingPlacement transcript archive
 - Pine Brook teaching-placement action-item summary documenting the laptop-and-blocks event
 - EDU486 `docs/access-to-agency-course-theme.md`
