@@ -23,6 +23,8 @@ Icon?
 *.log
 *.out
 *.synctex.gz
+*.toc
+*.xdv
 
 /Module1/
 /Module2/
@@ -40,6 +42,7 @@ Icon?
 # beneath their assignment folders. The public course repo links to them but
 # does not absorb their files or .git metadata.
 /assignments/*/*/repository/
+/portfolio/repository/
 
 # Public-safe, original assignment visuals generated for Module 3.
 !assignments/module3/aac-review/assets/

@@ -1,6 +1,6 @@
 # Deadlines And Work Due
 
-Source state checked through **August 2, 2026** from local Blackboard exports/screenshots, direct Blackboard links supplied by Piter, the syllabus, and the course folder.
+Due-date source state checked through **August 2, 2026** from local Blackboard exports/screenshots, direct Blackboard links supplied by Piter, the syllabus, and the course folder. Portfolio build status was updated **August 6, 2026** without claiming Blackboard submission.
 
 ## Deadline Table
 
@@ -17,18 +17,19 @@ Source state checked through **August 2, 2026** from local Blackboard exports/sc
 | July 31, 2026, 11:59 PM EDT | Verified Blackboard due date | [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | [Authorized GitHub/Overleaf working repository](https://github.com/pzg8794/EDE448-Module2_Journal) |
 | No due date shown in supplied listing | Blackboard destination verified | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | [Takeaways draft](../assignments/module2/discussions/takeaways.md) |
 | August 7, 2026 | Course-recommended target | Finish Module 3 early if graduating this term | [Module 3 review guide](../assignments/module3/REVIEW-GUIDE.md) |
-| August 7, 2026 | Hard target | Final portfolio, especially if graduating this term | [Portfolio plan](../portfolio/portfolio-plan.md) |
+| August 7, 2026 | Hard target; 26-page review PDF prepared August 6; submission unconfirmed | Final ten-resource portfolio, especially if graduating this term | [Portfolio assignment and canonical package](../portfolio/README.md) |
 | August 10, 2026, 11:59 PM EDT | Blackboard due date shown locally | AAC Review and Journal #3 | [Module 3 assignment map](../assignments/module3/README.md#direct-assignment-links) |
 | Confirm in Blackboard; Module 3 ends August 10 | Assignment capture does not show a separate due date | Communication Support Plan | [Communication Support Plan package](../assignments/module3/communication-support-plan/README.md) |
 
 ## Immediate Triage: August 2-10
 
-1. Read the [Module 3 review guide](../assignments/module3/REVIEW-GUIDE.md).
-2. Engage with the selected three READ sources and confirm the takeaways.
-3. Complete or confirm one media source and add one concrete observation to Journal #3.
-4. Review the AAC post, submit it manually, and write a real response after classmates' posts become visible.
-5. Confirm the Communication Support Plan due date, review the plan, and submit manually.
-6. Reconcile overdue or unconfirmed Module 1 and Module 2 Blackboard receipts separately.
+1. Complete Piter's final read of the [portfolio review package](../portfolio/README.md), submit it manually by August 7, and record the receipt.
+2. Read the [Module 3 review guide](../assignments/module3/REVIEW-GUIDE.md).
+3. Engage with the selected three READ sources and confirm the takeaways.
+4. Complete or confirm one media source and add one concrete observation to Journal #3.
+5. Review the AAC post, submit it manually, and write a real response after classmates' posts become visible.
+6. Confirm the Communication Support Plan due date, review the plan, and submit manually.
+7. Reconcile overdue or unconfirmed Module 1 and Module 2 Blackboard receipts separately.
 
 ## Date Inconsistencies To Watch
 

@@ -2,7 +2,7 @@
 
 Public course repository for **EDE 448: Communication and Positive Behavioral Supports for Students with Autism and Other Complex Needs**, Summer Session B 2026, Warner School of Education, University of Rochester.
 
-This repo documents the course scope, deadlines, assignment work, portfolio planning, source trail, and strategic alignment with Piter Z. Garcia Bautista's broader PhD / Puzzle Plan goals: disability justice, equitable diagnostics, neurodivergent learning, communication access, inclusive technology, dignity-centered support, and educational systems that treat lived experience as evidence.
+This repo documents the course scope, deadlines, assignment work, final portfolio source, source trail, and strategic alignment with Piter Z. Garcia Bautista's broader PhD / Puzzle Plan goals: disability justice, equitable diagnostics, neurodivergent learning, communication access, inclusive technology, dignity-centered support, and educational systems that treat lived experience as evidence.
 
 ## Current Throughline
 
@@ -30,7 +30,7 @@ My working personal lens is:
 - [Assignments index](assignments/README.md)
 - [Dedicated assignment repository map](docs/repository-map.md)
 - [Course calendar import](docs/course-calendar.ics)
-- [Portfolio plan](portfolio/portfolio-plan.md)
+- [Portfolio assignment, rubric, and canonical package](portfolio/README.md)
 - [Public generated artifacts](public-artifacts/README.md)
 - [Public submission documents](public-submissions/README.md)
 
@@ -41,7 +41,7 @@ My working personal lens is:
 | July 15, 2026, 11:59 PM EDT | Module 1 journal, discussions, Sensory Walk Experience, Teach a Kit for Kids Lesson | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
 | July 31, 2026, 11:59 PM EDT | Module 2 journal, PTR planning, Positive Classroom Support Plan; Takeaways date not shown | [Module 2 direct review links](assignments/module2/README.md#direct-assignment-links) |
 | August 10, 2026, 11:59 PM EDT; August 7 graduation target | Module 3 journal, AAC review discussion, Communication Support Plan | [Module 3 review guide](assignments/module3/REVIEW-GUIDE.md) |
-| August 7, 2026 | Communication and Positive Behavioral Support Strategies and Resources Portfolio | [Portfolio plan](portfolio/portfolio-plan.md) |
+| August 7, 2026 | Communication and Positive Behavioral Support Strategies and Resources Portfolio | [Portfolio assignment and canonical package](portfolio/README.md) |
 
 ## Current Module 2 Links
 
@@ -81,7 +81,7 @@ Use these before drafting journals, discussions, assignments, and portfolio page
 | `assignments/module1/` | Module 1 tracker, discussions, journal, Sensory Walk, Kit for Kids drafts, and reading summaries |
 | `assignments/module2/` | Module 2 tracker, discussions, journal, PTR, Positive Classroom Support Plan drafts, and reading summaries |
 | `assignments/module3/` | Module 3 tracker, discussions, journal, AAC Review, Communication Support Plan drafts, and reading summaries |
-| `portfolio/` | Final 10-resource portfolio plan and reusable resource template |
+| `portfolio/` | Exact assignment/rubric reference, canonical 10-resource LaTeX source, bibliography, and planning provenance |
 | `public-artifacts/` | Public-safe generated support artifacts when finalized |
 | `public-submissions/` | Public-safe final submissions when cleared |
 

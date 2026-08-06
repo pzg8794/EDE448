@@ -1,12 +1,12 @@
 # Communication Support Plan LaTeX Package
 
-This editable paper follows the Module 1/Module 2 visual system and turns the Markdown plan into a review-ready submission document.
+This editable paper follows the Module 1/Module 2 visual system and turns the Markdown plan into a submission-ready document.
 
 ## Files
 
 - `main.tex`: complete paper, tables, and original communication-system diagram
 - `references.bib`: Module 3, prior EDE448, and EDU486 references
-- `main.pdf`: local compiled review copy; ignored by the public course repository
+- `../../../../output/pdf/EDE448-Communication-Support-Plan.pdf`: six-page, visually verified local submission copy; ignored by the public course repository
 
 ## Build
 

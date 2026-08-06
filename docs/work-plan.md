@@ -71,10 +71,16 @@ Portfolio harvesting:
 
 **Goal:** Submit at least 10 resources/supports, each useful to a teacher or family audience.
 
-Work blocks:
+Repository status on August 6: the canonical ten-resource LaTeX package is assembled, compiled to 26 pages, and visually reviewed. Each resource occupies two pages. The plan and template remain provenance rather than alternate submission drafts.
 
-- Assemble five module-derived resources.
-- Add at least five additional practical supports.
-- Write a 1-2 page explanation for each resource.
-- Add references/websites.
-- Include a brief author note explaining the course throughline: communication as access-to-agency.
+Completed work blocks:
+
+- [x] Assemble and transform module-derived evidence into ten standalone practitioner resources.
+- [x] Write a two-page explanation and practical tool for each resource.
+- [x] Add point-of-use citations, source links, and a unified bibliography.
+- [x] Include an assignment/rubric map, evidence boundary, portfolio map, and final reflection.
+- [x] Compile and inspect all 26 rendered pages.
+
+Remaining human action:
+
+- [ ] Complete Piter's final content read, submit the PDF manually in Blackboard by August 7, and record the receipt in the master tracker.

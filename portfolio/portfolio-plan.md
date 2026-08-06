@@ -1,4 +1,6 @@
-# Communication And Positive Behavioral Support Portfolio Plan
+# Communication And Positive Behavioral Support Portfolio Planning Record
+
+> **Status, August 6, 2026:** Planning is complete. The only canonical submission source is the [LaTeX package](latex/README.md). This file and the [resource template](resource-template.md) remain provenance, not competing drafts.
 
 ## Portfolio Throughline
 
@@ -12,36 +14,37 @@
 - Include relevant references, sources, or websites.
 - Use module assignments when possible.
 
-## Proposed 10-Resource Portfolio
+## Final 10-Resource Portfolio
 
-| # | Resource | Source/Draft | Purpose |
+| # | Resource | Canonical Source | Evidence Origin |
 | ---: | --- | --- | --- |
-| 1 | Sensory Access Walk And Redesign Checklist | [Sensory Walk draft](../assignments/module1/sensory-walk-experience/draft.md) | Helps teachers/families identify sensory barriers and plan improvements |
-| 2 | Autism Inclusion Mini-Lesson | [Kit for Kids draft](../assignments/module1/teach-a-kit-for-kids-lesson/draft.md) | Gives peers respectful language and concrete inclusion behaviors |
-| 3 | PTR Classroom Access And Support Checklist | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning/draft.md) | Translates behavior concerns into prevention, teaching, and reinforcement supports |
-| 4 | Dignity-Centered Positive Classroom Support Plan | [Positive support draft](../assignments/module2/positive-classroom-support-plan/draft.md) | Provides whole-class routines, communication supports, and restorative repair |
-| 5 | Visual Routine And Transition Support Kit | New portfolio page | Supports predictability, executive functioning, and transition access |
-| 6 | AAC Tool Review For Teacher/Family Decision-Making | [AAC review draft](../assignments/module3/aac-review/draft.md) | Helps teams evaluate AAC tools beyond device features |
-| 7 | Daily Communication Support Plan And Home-School Bridge | [Communication plan draft](../assignments/module3/communication-support-plan/draft.md) | Keeps communication available across routines and between home/school |
-| 8 | Low-Tech Backup AAC Board / Core Vocabulary Starter | New portfolio page | Protects communication access when high-tech AAC is unavailable |
-| 9 | Inclusive Classroom Library And Media List | New portfolio page | Offers affirming books/media about autism, disability, communication, and belonging |
-| 10 | Peer Collaboration And Group Role Supports | New portfolio page | Makes group work more accessible for students with varied communication and executive-function needs |
+| 1 | Sensory Access Walk and Redesign Checklist | [Resource source](latex/resources/01-sensory-access.tex) | Module 1 Sensory Walk and de-identified Pine Brook practice evidence |
+| 2 | Many Ways to Be a Good Classmate | [Resource source](latex/resources/02-good-classmate.tex) | Module 1 Kit for Kids design and a de-identified technology routine |
+| 3 | PTR Evidence-to-Support Planning Guide | [Resource source](latex/resources/03-ptr-planning.tex) | Module 2 PTR assignment and a non-identifying placement event |
+| 4 | Dignity-Centered Classroom Support System | [Resource source](latex/resources/04-dignity-centered-system.tex) | Module 2 Positive Classroom Support Plan and EDU486 reflection |
+| 5 | Visual Routine and Transition Access Planner | [Resource source](latex/resources/05-routine-transition-planner.tex) | Module 2 classroom plan, Module 1 sensory analysis, and EDU486 reflection |
+| 6 | AAC Tool Selection and Implementation Guide | [Resource source](latex/resources/06-aac-selection.tex) | Module 3 AAC Review, with TD Snap as a worked example |
+| 7 | Communication Opportunity Matrix and Partner Protocol | [Resource source](latex/resources/07-opportunity-matrix.tex) | Module 3 Communication Support Plan and EDU486 routines |
+| 8 | Low-Tech AAC Backup and Vocabulary Starter | [Resource source](latex/resources/08-low-tech-backup.tex) | Module 3 multimodal communication system and AAC review |
+| 9 | Student-Authored Home-School Communication Record | [Resource source](latex/resources/09-home-school-record.tex) | Module 3 Daily Communication Logs critique and Communication Support Plan |
+| 10 | Flexible Peer Roles and Participation Routes | [Resource source](latex/resources/10-peer-roles.tex) | Kit for Kids, EDU486 camp, and Module 3 communication planning |
 
 ## Portfolio Assembly Checklist
 
-- [ ] Make each resource a 1-2 page standalone support.
-- [ ] Add a teacher/family audience note to each resource.
-- [ ] Add "when to use" and "why it helps" sections.
-- [ ] Add sources or websites.
-- [ ] Remove student-identifying details.
-- [ ] Add a short introduction explaining the portfolio theme.
-- [ ] Add a table of contents.
-- [ ] Add an AI-use note if appropriate.
-- [ ] Export to the Blackboard-required format.
+- [x] Make each resource a 1-2 page standalone support.
+- [x] Add a teacher/family audience note to each resource.
+- [x] Add use guidance and an explanation of how each resource supports practice.
+- [x] Add sources or websites and a unified reference list.
+- [x] Remove student-identifying details and label prospective evidence accurately.
+- [x] Add an introduction explaining the portfolio theme and evidence boundary.
+- [x] Add a table of contents and portfolio map.
+- [x] Record AI-supported drafting in the [AI use log](../docs/ai-use-log.md).
+- [x] Compile and visually review the local PDF.
+- [ ] Complete Piter's final read, submit manually in Blackboard, and record the receipt.
 
-## Suggested Portfolio Introduction
+## Planning-Era Portfolio Introduction
 
 This portfolio collects communication and positive behavior support strategies for students with autism and other complex support needs. My organizing theme is **communication as access-to-agency**. I understand behavior, sensory needs, AAC, routines, and peer relationships as part of a communication ecosystem. These resources are designed for teachers and families who want practical supports that protect dignity, increase participation, and help adults interpret students more carefully.
 
 The portfolio reflects my broader teacher-scholar identity and Puzzle Plan goals. I am interested in how systems collect evidence about students, especially students whose communication, culture, disability, sensory experiences, or technology access are often misunderstood. Each resource is meant to help adults ask better questions: What is the student communicating? What barrier is present? What support would expand choice, belonging, and self-advocacy?
-
+<!-- End of completed portfolio planning record. -->

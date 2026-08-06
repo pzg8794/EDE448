@@ -6,10 +6,11 @@ This repo documents source provenance without publishing raw course packets.
 
 | Source | Link | Use |
 | --- | --- | --- |
-| Shared academic workspace | https://drive.google.com/drive/folders/1pY_fQ54nHKvFABNRGYAr5bQ3su_tUDAi | Starting Drive folder supplied by the user |
-| Semester4(UofR) folder | https://drive.google.com/drive/folders/11S7fDVszdnUd628wqg_kixgIX-a8K9lh | Parent folder containing current UofR courses |
-| EDE448 folder | https://drive.google.com/drive/folders/1pGIdniDMT7CMc8I7l6AOdTpq1oQtAhk6 | Course materials, modules, assignment information |
-| PHD folder | https://drive.google.com/drive/folders/15Qxk5JEo7yp-Ng4Od7kaZb8QoFEB5xdU | Broader PhD / application / public-profile planning context |
+| Shared academic workspace | [Open folder](https://drive.google.com/drive/folders/1pY_fQ54nHKvFABNRGYAr5bQ3su_tUDAi) | Starting Drive folder supplied by the user |
+| Semester4(UofR) folder | [Open folder](https://drive.google.com/drive/folders/11S7fDVszdnUd628wqg_kixgIX-a8K9lh) | Parent folder containing current UofR courses |
+| EDE448 course source | [Open folder](https://drive.google.com/drive/folders/1hoyyIG4wVXCYbRRv6IxYdPaLRbqBB52k) | User-confirmed primary course source shared August 6, 2026 |
+| EDE448 materials folder | [Open folder](https://drive.google.com/drive/folders/1pGIdniDMT7CMc8I7l6AOdTpq1oQtAhk6) | Previously recorded course materials, modules, and assignment information |
+| PHD folder | [Open folder](https://drive.google.com/drive/folders/15Qxk5JEo7yp-Ng4Od7kaZb8QoFEB5xdU) | Broader PhD / application / public-profile planning context |
 
 ## Local Course Sources
 
@@ -54,8 +55,8 @@ This repo documents source provenance without publishing raw course packets.
 
 | Source | Use |
 | --- | --- |
-| https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx | Verifies 2019 PTR second-edition metadata, five-step process, and appendix titles |
-| https://www.delawarepbs.org/wp-content/uploads/2019/10/Handouts-Combined.pdf | Verifies the 2019 Appendix 4.1 fields; copyrighted form is linked, not reproduced |
+| [PTR product page](https://products.brookespublishing.com/Prevent-Teach-Reinforce-P1085.aspx) | Verifies 2019 PTR second-edition metadata, five-step process, and appendix titles |
+| [Appendix 4.1 handout](https://www.delawarepbs.org/wp-content/uploads/2019/10/Handouts-Combined.pdf) | Verifies the 2019 Appendix 4.1 fields; copyrighted form is linked, not reproduced |
 
 ## Module 2 Blackboard Destinations
 

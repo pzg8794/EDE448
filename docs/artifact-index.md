@@ -60,9 +60,14 @@
 
 ## Portfolio
 
-- [Portfolio index](../portfolio/README.md)
-- [Portfolio plan](../portfolio/portfolio-plan.md)
-- [Resource template](../portfolio/resource-template.md)
+- [Portfolio assignment, rubric, and status](../portfolio/README.md)
+- [Canonical LaTeX package and build instructions](../portfolio/latex/README.md)
+- [Main portfolio source](../portfolio/latex/main.tex)
+- [Ten numbered resource sources](../portfolio/latex/resources/)
+- [Unified portfolio bibliography](../portfolio/latex/references.bib)
+- [Local 26-page review PDF](../output/pdf/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf) (ignored by Git; not a submission receipt)
+- [Completed portfolio planning record](../portfolio/portfolio-plan.md)
+- [Planning-era resource template](../portfolio/resource-template.md)
 
 ## Public Boundary Documents
 

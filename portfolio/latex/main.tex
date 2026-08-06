@@ -1,0 +1,281 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=0.65in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage[table]{xcolor}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+\usetikzlibrary{arrows.meta,positioning,fit}
+\usepackage[natbibapa]{apacite}
+
+\definecolor{PrimaryRed}{HTML}{8B1E1E}
+\definecolor{DeepNavy}{HTML}{15324A}
+\definecolor{MidTeal}{HTML}{287D7A}
+\definecolor{SoftBlue}{HTML}{DDEEFF}
+\definecolor{SoftGreen}{HTML}{E4F1E8}
+\definecolor{SoftGold}{HTML}{F8EDC7}
+\definecolor{SoftRose}{HTML}{F5E2E7}
+\definecolor{SoftGray}{HTML}{F4F4F4}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=DeepNavy,
+  urlcolor=DeepNavy,
+  citecolor=DeepNavy,
+  pdftitle={Communication as Access-to-Agency},
+  pdfauthor={Piter Zacari Garcia Bautista},
+  pdfsubject={EDE 448 Communication and Positive Behavioral Support Strategies and Resources Portfolio},
+  pdfkeywords={communication, AAC, sensory access, positive behavior support, inclusion, Puzzle Plan, EQUITAS}
+}
+
+\setlength{\parindent}{0pt}
+\setstretch{1.045}
+\setlist[itemize]{leftmargin=0.22in,itemsep=0.025in,topsep=0.04in}
+\setlist[enumerate]{leftmargin=0.25in,itemsep=0.025in,topsep=0.04in}
+\captionsetup{font=small,labelfont=bf,labelsep=period}
+\bibliographystyle{apacite}
+\setlength{\headheight}{22pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\color{DeepNavy}Communication as Access-to-Agency}
+\fancyhead[R]{\small\color{DeepNavy}EDE 448 Portfolio}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{PrimaryRed}\leaders\hrule height \headrulewidth\hfill}}
+
+\newcommand{\toolsection}[1]{%
+  \Needspace{4\baselineskip}
+  \vspace{0.065in}\noindent{\normalsize\bfseries\color{PrimaryRed}#1}
+  \par\vspace{0.02in}
+}
+
+\newcommand{\resourceheading}[5]{%
+  \clearpage
+  \phantomsection
+  \addcontentsline{toc}{section}{Resource #1: #2}
+  {\color{PrimaryRed}\rule{\textwidth}{1.2pt}}\par
+  \vspace{0.08in}
+  {\Large\bfseries\color{DeepNavy}Resource #1: #2}\par
+  \vspace{0.07in}
+  \colorbox{SoftBlue}{%
+    \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+      \small
+      \textbf{Area:} #3\hfill\textbf{Primary audience:} #4\\
+      \textbf{Practice origin:} #5
+    }%
+  }
+  \vspace{0.08in}
+}
+
+\newcommand{\reflectionbox}[1]{%
+  \vspace{0.06in}
+  \noindent\colorbox{SoftGold}{%
+    \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+      \small\textbf{Evidence and reflection.} #1
+    }%
+  }
+  \vspace{0.05in}
+}
+
+\newcommand{\adaptationbox}[1]{%
+  \vspace{0.06in}
+  \noindent\colorbox{SoftGreen}{%
+    \parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+      \small\textbf{Adaptation and limitation.} #1
+    }%
+  }
+  \vspace{0.05in}
+}
+
+\newcommand{\sourcebox}[1]{%
+  \vspace{0.06in}
+  \noindent{\small\color{DeepNavy}\textbf{Key sources and links.} #1}
+}
+
+\newcommand{\tableheaderthree}[3]{%
+  \rowcolor{PrimaryRed}
+  \color{white}\bfseries #1 &
+  \color{white}\bfseries #2 &
+  \color{white}\bfseries #3 \\
+}
+
+\newcommand{\tableheaderfour}[4]{%
+  \rowcolor{PrimaryRed}
+  \color{white}\bfseries #1 &
+  \color{white}\bfseries #2 &
+  \color{white}\bfseries #3 &
+  \color{white}\bfseries #4 \\
+}
+
+\begin{document}
+
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\newgeometry{margin=0.72in}
+\thispagestyle{empty}
+
+\begin{center}
+{\large University of Rochester\\}
+{\normalsize Warner School of Education\\[0.16in]}
+
+{\color{PrimaryRed}\rule{\textwidth}{1.5pt}}\\[0.16in]
+{\Huge\bfseries Communication as\\[0.06in]Access-to-Agency}\\[0.16in]
+{\LARGE Communication and Positive Behavioral\\[0.04in]Support Strategies and Resources Portfolio}\\[0.13in]
+{\large EDE 448 --- Summer 2026}\\[0.10in]
+
+\vfill
+
+\begin{tikzpicture}[
+  node distance=0.18in,
+  pillar/.style={draw=DeepNavy, rounded corners=2pt, minimum width=1.42in,
+    minimum height=0.76in, align=center, font=\small\bfseries, inner sep=4pt},
+  flow/.style={-{Latex[length=2.0mm]}, line width=0.8pt, draw=PrimaryRed}
+]
+\node[pillar, fill=SoftBlue] (notice) {Notice the\\whole context};
+\node[pillar, fill=SoftGold, right=of notice] (listen) {Listen across\\communication modes};
+\node[pillar, fill=SoftGreen, right=of listen] (design) {Design access\\before distress};
+\node[pillar, fill=SoftRose, right=of design] (revise) {Review power\\and revise};
+\draw[flow] (notice) -- (listen);
+\draw[flow] (listen) -- (design);
+\draw[flow] (design) -- (revise);
+\end{tikzpicture}
+
+\vfill
+
+\colorbox{SoftBlue}{%
+\parbox{0.90\textwidth}{%
+\centering\small\vspace{0.02in}
+\textbf{Ten practical resources for teachers, families, and support teams}\\[0.04in]
+Each resource explains what the support is, why it matters, when and how to use it, what evidence informs it, and how it should change when the learner communicates that a different route is needed.
+}%
+}
+\end{center}
+
+\vfill
+
+\begin{center}
+\renewcommand{\arraystretch}{1.18}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\bfseries\RaggedLeft\arraybackslash}p{1.75in} >{\RaggedRight\arraybackslash}p{5.15in}}
+Student & Piter Zacari Garcia Bautista \\
+Course & EDE 448 --- Communication and Positive Behavioral Supports for Students with Autism and Other Complex Needs \\
+Assignment & Communication and Positive Behavioral Support Strategies and Resources Portfolio \\
+Professional Context & Inclusive, technology-rich upper-elementary and middle school learning environments \\
+Interpretive Framework & Puzzle Plan, with EQUITAS at its equity-centered heart \\
+Due Date & August 7, 2026 \\
+\end{tabular}
+\end{center}
+
+\vfill
+
+\begin{center}
+\begin{minipage}{0.94\textwidth}
+\small
+The \textbf{Puzzle Plan} is my interdisciplinary framework for combining lived experience, education, data, research, technology, and advocacy so that no diagnosis or data point stands alone. \textbf{EQUITAS} asks whose knowledge is included, what context is missing, how power and bias shape interpretation, and whether support increases dignity, agency, belonging, and access.
+\end{minipage}
+\end{center}
+
+\restoregeometry
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\pagenumbering{roman}
+
+\section*{Assignment and Design Standard}
+\addcontentsline{toc}{section}{Assignment and Design Standard}
+
+This culminating portfolio is worth 40 percent of the EDE448 grade and is due August 7, 2026. The Blackboard prompt contains the internally inconsistent phrase ``at least ten (8) resources/supports.'' I use the more demanding interpretation: ten resources, each designed to stand alone within one or two pages. Every entry explains the support for a teacher or family audience, connects it to communication, social-emotional learning, or behavior, identifies when and why it should be used, and provides relevant sources or websites.
+
+The portfolio reworks applicable Module 1, 2, and 3 assignments into practitioner tools rather than stacking ten old papers together. It uses course readings, public professional guidance, de-identified field evidence, and prospective planning scenarios. Copyrighted course packets and private student records are not reproduced.
+
+\toolsection{How the Rubric Is Made Visible}
+
+\renewcommand{\arraystretch}{1.17}
+\setlength{\tabcolsep}{5pt}
+\begin{tabularx}{\textwidth}{>{\bfseries\RaggedRight\arraybackslash}p{1.70in} >{\RaggedRight\arraybackslash}X}
+\rowcolor{PrimaryRed}
+\color{white}Rubric Area & \color{white}Portfolio Evidence \\
+Scholarly connections & Claims are cited at the point of use and linked to instructional decisions; the reference list uses APA-style source information. \\
+\rowcolor{SoftGray}
+Organization and clarity & Ten numbered, categorized resources follow one repeated structure and include ready-to-use tables, scripts, checklists, or visuals. \\
+Relevance to practice & Every resource names a setting, implementation sequence, evidence to notice, and concrete teacher/family actions. \\
+\rowcolor{SoftGray}
+Evidence and reflection & Each entry distinguishes observation from inference, names limitations, and identifies conditions that would trigger adaptation. \\
+\end{tabularx}
+
+\toolsection{Evidence Boundary}
+
+The Pine Brook technology-placement and EDU486 camp examples are de-identified records of practice. They illustrate environmental conditions and participation routes, not diagnoses or universal student traits. The Communication Support Plan is explicitly prospective and does not claim that a particular camper used AAC. The Kit for Kids source is still labeled a simulation draft in the course repository, so this portfolio treats it as a practice-informed lesson design rather than independent proof of delivery. These boundaries are part of the scholarship: evidence is strongest when its limits remain visible.
+
+\clearpage
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+
+\section*{Portfolio Map}
+\addcontentsline{toc}{section}{Portfolio Map}
+
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\centering\arraybackslash}p{0.35in} >{\RaggedRight\arraybackslash}p{2.40in} >{\RaggedRight\arraybackslash}p{1.35in} >{\RaggedRight\arraybackslash}p{2.65in}}
+\rowcolor{PrimaryRed}
+\color{white}\bfseries \# & \color{white}\bfseries Resource & \color{white}\bfseries Primary Area & \color{white}\bfseries Assignment/Evidence Origin \\
+1 & Sensory Access Walk and Redesign Checklist & Sensory/environment & Module 1 Sensory Walk; Pine Brook placement \\
+\rowcolor{SoftGray}
+2 & Many Ways to Be a Good Classmate & Inclusion/SEL & Module 1 Kit for Kids lesson design \\
+3 & PTR Evidence-to-Support Planning Guide & Positive behavior support & Module 2 PTR assignment; placement event \\
+\rowcolor{SoftGray}
+4 & Dignity-Centered Classroom Support System & Classroom systems & Module 2 Positive Classroom Support Plan \\
+5 & Visual Routine and Transition Access Planner & Routines/executive access & Module 2 support plan; sensory and camp reflection \\
+\rowcolor{SoftGray}
+6 & AAC Tool Selection and Implementation Guide & AAC & Module 3 TD Snap review \\
+7 & Communication Opportunity Matrix and Partner Protocol & Communication & Module 3 Communication Support Plan \\
+\rowcolor{SoftGray}
+8 & Low-Tech AAC Backup Starter & AAC continuity & Module 3 multimodal system \\
+9 & Student-Authored Home--School Communication Record & Family partnership & Module 3 Daily Communication Logs redesign \\
+\rowcolor{SoftGray}
+10 & Flexible Peer Roles and Participation Routes & Social interaction & Kit for Kids, camp, and communication plan \\
+\end{longtable}
+\normalsize
+
+\input{resources/01-sensory-access}
+\input{resources/02-good-classmate}
+\input{resources/03-ptr-planning}
+\input{resources/04-dignity-centered-system}
+\input{resources/05-routine-transition-planner}
+\input{resources/06-aac-selection}
+\input{resources/07-opportunity-matrix}
+\input{resources/08-low-tech-backup}
+\input{resources/09-home-school-record}
+\input{resources/10-peer-roles}
+
+\clearpage
+\section*{Portfolio-Wide Reflection and Revision Commitments}
+\addcontentsline{toc}{section}{Portfolio-Wide Reflection and Revision Commitments}
+
+Across these ten resources, the most important change in my thinking is that support cannot be judged only by whether behavior becomes quieter, work becomes faster, or adults experience fewer disruptions. A support is meaningful when the learner has more reliable ways to communicate, participate, refuse, repair, build relationships, demonstrate thinking, and influence what happens next. That standard links sensory design, peer culture, PTR, AAC, classroom routines, and family partnership.
+
+The field evidence also keeps me cautious. One successful change in a technology lesson does not establish a behavioral function. A prospective AAC profile is not a real child's assessment. A checklist does not replace the learner's own communication. A visual routine can become coercive when it is used to force compliance rather than clarify choices. A peer role can become exclusion when adults assign it permanently. For that reason, each resource pairs an implementation tool with a revision trigger.
+
+In future practice, I will review these tools with students, families, special educators, speech-language pathologists, paraprofessionals, and other relevant partners. I will ask whose knowledge is missing, whether the resource works across languages and communication modes, whether the adult actions are feasible, and whether data show greater access rather than only fewer visible concerns. The portfolio is therefore a starting system, not a finished prescription. Its strongest outcome should be more accountable adult design and more student-authored evidence.
+
+\clearpage
+\small
+\bibliography{references}
+
+\end{document}

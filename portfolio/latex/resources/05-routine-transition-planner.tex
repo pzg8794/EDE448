@@ -1,0 +1,63 @@
+\resourceheading{5}{Visual Routine and Transition Access Planner}{Classroom routines, executive-function access, and regulation}{Teachers, paraprofessionals, learners, and families}{Module 2 classroom plan, Module 1 sensory analysis, and EDU486 practice reflection}
+
+\toolsection{What This Resource Is}
+
+This planner makes the route through a lesson or transition visible without turning the schedule into a demand for rigid compliance. It separates the learning goal from hidden demands involving memory, language, initiation, pacing, materials, public performance, and abrupt stopping. Students can see what is required, what can be chosen, how to ask for change, and how to re-enter after a pause.
+
+Use it before a new routine, a high-load transition, a substitute day, group project, hands-on investigation, digital task, or any pattern where students appear ``not ready'' but the first step, endpoint, communication route, or sensory conditions are unclear.
+
+\toolsection{The Visible Route}
+
+\begin{center}
+\begin{tikzpicture}[
+  node distance=0.14in,
+  routebox/.style={draw=DeepNavy, rounded corners=2pt, text width=1.20in,
+    minimum height=0.62in, align=center, font=\small, inner sep=3pt},
+  flow/.style={-{Latex[length=2mm]}, line width=0.8pt, draw=PrimaryRed}
+]
+\node[routebox, fill=SoftBlue] (preview) {Preview purpose and route};
+\node[routebox, fill=SoftGold, right=of preview] (model) {Model one starting move};
+\node[routebox, fill=SoftGreen, right=of model] (work) {Investigate or practice};
+\node[routebox, fill=SoftRose, right=of work] (pause) {Pause, communicate, revise};
+\node[routebox, fill=SoftBlue, right=of pause] (close) {Close in more than one mode};
+\draw[flow] (preview) -- (model);
+\draw[flow] (model) -- (work);
+\draw[flow] (work) -- (pause);
+\draw[flow] (pause) -- (close);
+\end{tikzpicture}
+\end{center}
+
+Pair the route with three pacing labels: \textbf{Must Do} (the smallest evidence needed for the learning goal), \textbf{Can Do} (meaningful extension or another representation), and \textbf{Skip Today} (a component that can wait without hiding consequences). Timers communicate information rather than threats. A familiar tool may travel through a transition when it supports access and safety.
+
+\toolsection{Routine-by-Routine Planning Tool}
+
+\small
+\renewcommand{\arraystretch}{1.15}
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{0.90in} >{\RaggedRight\arraybackslash}p{1.52in} >{\RaggedRight\arraybackslash}p{1.95in} >{\RaggedRight\arraybackslash}p{2.12in}}
+\tableheaderfour{Routine}{Hidden Demand/Risk}{Make Visible}{Communication and Re-entry}
+\endfirsthead
+\tableheaderfour{Routine}{Hidden Demand/Risk}{Make Visible}{Communication and Re-entry}
+\endhead
+Arrival & Fatigue, social load, uncertain first step & Agenda, calm entry task, material locations, greeting options & Private check-in; help; begin quietly; chosen first task \\
+\rowcolor{SoftGray}
+Mini-lesson & Long language, passive waiting, unclear purpose & Purpose, short model, one direction, completed example & Read, point, annotate, hold tool, AAC, observe first \\
+Hands-on work & Noise, tool competition, unclear roles, speed pressure & Stable materials, role cards, safety model, extension path & Sample, record, photograph, label, partner, pass and re-enter \\
+\rowcolor{SoftGray}
+Digital task & Login/interface friction mistaken for conceptual difficulty & Projected click path, debugging card, visible checkpoints & Type, point, test, narrate, screenshot, ask for another route \\
+Transition & Abrupt removal, lost support, multiple simultaneous commands & Warning, first/next, overlap, cleanup model, carry-item rule & More time; keep this; observe; move with partner; break \\
+\rowcolor{SoftGray}
+Reset/return & Shame, missed information, no visible re-entry point & Nonpunitive location, return card, current step, private welcome & Choose duration within routine; signal ready; resume named step \\
+Closure & Oral bias, public performance, rushed reflection & Prompt shown early, protected time, multiple output modes & Speak, write, draw, point, photograph, submit privately, return later \\
+\end{longtable}
+\normalsize
+
+\toolsection{Five-Minute Review After the Routine}
+
+Record which routes were displayed, which were actually usable, what the learner communicated, whether the first step was accessible, where adult prompting increased, and what changed participation. Ask the learner: \textit{What should stay? What should change? What was missing?} The next plan should name one concrete redesign rather than asking the learner to ``try harder.''
+
+\reflectionbox{Across the Pine Brook sensory walk and EDU486 camp, access improved when directions were shorter, a first move was modeled, materials and options were visible, and participation did not depend on one spoken route. Reflection also showed that strong activity design can fail at closure or transition when time pressure narrows choices. The routine itself is therefore evidence, not neutral background \citep{campEvidence2026}.}
+
+\adaptationbox{Visual schedules can become coercive if adults use them only to insist that a student finish. Build in change language: \textit{not yet, different order, show me, more time, skip today,} and \textit{something else}. The goal is predictability with negotiation. For learners who find dense visuals distracting, reduce the display to the current and next step; for learners who need the whole route, keep the endpoint visible.}
+
+\sourcebox{Sensory-environment guidance \citep{guggenheimSensory,michigan2025sensory}; communicative competence \citep{jorgensen2018competence}; de-identified camp evidence \citep{campEvidence2026}.}

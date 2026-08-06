@@ -10,6 +10,23 @@ This prospective plan supports a nonspeaking upper-elementary student during an 
 
 The learner uses a speech-generating AAC system with direct touch, gestures, facial expression, and object-based choices. A printed core-and-fringe board provides backup. The student enjoys visual evidence, sorting, photography, and demonstrating with materials. The support goal is not “appropriate device use.” It is reliable authorship across observation, model revision, group decision-making, sensory choices, showcase preparation, and communication with home.
 
+## Individual Communication Profile and Planning Assumptions
+
+Because this is a prospective, non-identifying assignment scenario, the details below are planning assumptions rather than claims about a real child. In practice, the team would confirm or revise every item with the student and family before implementation.
+
+| Area | Specific Communication Need | Planning Response |
+| --- | --- | --- |
+| Reliable current modes | The student uses direct-touch AAC, reaching/pointing, facial expression, body movement, and moving an object toward or away from a partner | Treat every reliable mode as communication; never require a clear message to be repeated on the device |
+| Message range | The student can make familiar choices but needs efficient access to comments, questions, refusal, sensory messages, academic language, and repair | Provide stable core vocabulary, science-specific fringe words, and visible repair language before the routine begins |
+| Processing and partner pace | Rapid questions and repeated prompting can interrupt message formulation | Ask one question, model without demanding imitation, wait at least 10 seconds, and confirm rather than guess |
+| Motor and positioning access | Direct touch is reliable when the system is stable and within reach; carrying materials can make the device difficult to access | Use a stable mount or nonslip surface, keep a partner board near wet or hands-on materials, and preserve access during transitions |
+| Sensory access | Smell, texture, crowding, or noise may change participation and communication | Preteach *stop, different, too much, space,* and *another way*; provide a non-contact participation route |
+| Literacy and visual supports | The student recognizes familiar symbols, photographs, and selected printed words; unfamiliar page changes slow navigation | Pair symbols with print, use photographs for activity-specific referents, and keep symbol locations stable |
+| Social and academic priorities | The student needs routes to direct peers, disagree, explain evidence, joke, and choose a public or private role | Program peer names and activity vocabulary; build opportunities to initiate rather than only answer adult questions |
+| Home-school continuity | Adults often choose what travels home, which can erase the student's authorship or privacy | Let the student select, revise, approve, or decline the outgoing message and invite family context back to school |
+
+The first implementation meeting would turn these assumptions into confirmed access information: what the student already communicates, with whom, through which modes, in which languages, under what sensory and motor conditions, and which messages the student and family want the system to make easier. If the student rejects part of this profile, the profile changes.
+
 ## Framework
 
 The **Puzzle Plan** is my interdisciplinary framework for combining lived experience, education, data, research, technology, and advocacy so that no diagnosis or data point stands alone. **EQUITAS** is its equity-centered heart: it asks whose knowledge is included, what context is missing, how bias and power shape interpretation, and whether support increases dignity, agency, belonging, and access.
@@ -86,6 +103,8 @@ The record follows the student across settings without reducing the day to adult
 ## Data, Review, and Consent
 
 For two weeks, the team will sample the selected science routine and dismissal. Data will record: communication opportunities offered; modes used; message functions; partner wait/modeling; breakdowns and repairs; device/board availability; sensory or task conditions; and whether the message changed what happened. The team will review patterns with the student and family, not merely count device activations.
+
+Implementation responsibilities will be explicit: the teacher prepares the routine vocabulary and opportunities; the speech-language pathologist checks access, vocabulary organization, and partner modeling; classroom staff keep both high- and low-tech routes available and record barriers without grading compliance; the family contributes home vocabulary, language, and context; and the student approves priorities and decides what may travel between settings. The team will conduct a brief access check at the start of each day, review data after five school days, and make a joint keep/change/stop decision after ten school days.
 
 The plan will be revised if it increases prompts without increasing authorship, if the student avoids the system, if partners dominate the interaction, or if messages are acknowledged but not acted on. The success question is the same one developed in *Who Has More Power After Support?*: after support, does the student have more dignity, agency, belonging, access, and power to influence the environment?
 
