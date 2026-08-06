@@ -47,3 +47,7 @@ Icon?
 # Public-safe, original assignment visuals generated for Module 3.
 !assignments/module3/aac-review/assets/
 !assignments/module3/aac-review/assets/*.png
+
+# Self-contained copy required by the cumulative portfolio package.
+!portfolio/latex/assets/
+!portfolio/latex/assets/*.png
