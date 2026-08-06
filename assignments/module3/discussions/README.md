@@ -5,7 +5,7 @@
 - **Prompt:** What do you already know about assistive technology and AAC for students with disabilities? What are you hoping to explore and learn about in this module?
 - **Blackboard:** [open Module 3 in the EDE448 course outline](https://learn.rochester.edu/ultra/courses/_113760_1/outline?courseId=_113760_1)
 - **Draft:** [What Do You Know?](what-do-you-know.md)
-- **State:** review draft; not posted
+- **State:** submission-ready personalized draft; not posted
 
 ## Takeaways
 

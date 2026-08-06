@@ -1,6 +1,6 @@
 # EDE448 Master Task and Assignment Tracker
 
-Last updated: August 2, 2026
+Last updated: August 6, 2026
 
 ## Course Throughline
 
@@ -45,7 +45,7 @@ The **Puzzle Plan** combines lived experience, education, data, research, techno
 
 | Task | Due | Current State | Remaining Human Action |
 | --- | --- | --- | --- |
-| What Do You Know? | No date shown locally | Personalized review draft prepared | Review and post manually |
+| What Do You Know? | No date shown locally | Submission-ready personalized draft prepared; posting unconfirmed | Review, post manually, and record completion |
 | READ: Norrie et al. (2021) | Module work | Source-grounded summary prepared | Engage with source and confirm takeaway |
 | READ: Downing et al. (2015), Ch. 4 | Module work | Source-grounded summary prepared | Engage with source and confirm takeaway |
 | READ: Peckham-Hardin (2015), Ch. 9 | Module work | Source-grounded summary prepared | Engage with source and confirm takeaway |

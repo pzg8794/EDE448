@@ -22,7 +22,7 @@ Use [Daily Communication Logs](reading-summaries/themed_overview/daily-communica
 
 | Assignment | Due | Review Material | Remaining Human Action |
 | --- | --- | --- | --- |
-| What Do You Know? | No date shown in capture | [Discussion draft](discussions/what-do-you-know.md) | Review and post manually |
+| What Do You Know? | No date shown in capture | [Submission-ready discussion draft](discussions/what-do-you-know.md) | Review, post manually, and record completion |
 | AAC Review | August 10, 11:59 PM EDT | [TD Snap post and PNG visual](aac-review/README.md) | Review, post, then write a real reply |
 | Communication Support Plan | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and five-page LaTeX package](communication-support-plan/README.md) | Confirm date, review, and submit manually |
 | Journal #3 | August 10, 11:59 PM EDT | [Markdown and four-page LaTeX package](module3-journal/README.md) | Confirm prompt; add media observation; submit manually |

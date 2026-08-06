@@ -8,7 +8,7 @@ The local Blackboard captures show **August 10, 2026, 11:59 PM EDT** for AAC Rev
 
 | Task | Status | Evidence / Review File | Piter's Final Action |
 | --- | --- | --- | --- |
-| What Do You Know? | Review draft prepared | [Prompt and response](discussions/README.md#what-do-you-know) | Review voice and post manually |
+| What Do You Know? | Submission-ready personalized draft prepared; not posted | [Prompt and response](discussions/README.md#what-do-you-know) | Review voice, post manually, and record completion |
 | READ 1: Norrie et al. (2021) | Summary prepared | [AAC adoption and support](reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md) | Read/confirm source engagement |
 | READ 2: Downing et al. (2015), Ch. 4 | Summary prepared | [Rich communicative environment](reading-summaries/themed_overview/general-education-rich-communicative-environment-themed-overview.md) | Read/confirm source engagement |
 | READ 3: Peckham-Hardin (2015), Ch. 9 | Summary prepared | [Communication and challenging behavior](reading-summaries/themed_overview/communication-and-challenging-behavior-themed-overview.md) | Read/confirm source engagement |
