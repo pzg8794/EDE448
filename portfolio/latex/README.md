@@ -6,7 +6,6 @@ This folder contains the canonical editable source for the EDE448 **Communicatio
 
 - `main.tex`: title page, assignment/rubric map, portfolio map, synthesis, and document assembly
 - `resources/`: ten numbered standalone practitioner resources
-- `assets/`: original, public-safe visuals required by the resources
 - `references.bib`: unified APA-style source trail
 - `../../output/pdf/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf`: local compiled review copy; ignored by Git
 
