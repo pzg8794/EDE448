@@ -6,6 +6,7 @@ This folder contains the canonical editable source for the EDE448 **Communicatio
 
 - `main.tex`: title page, assignment/rubric map, portfolio map, synthesis, and document assembly
 - `resources/`: ten numbered standalone practitioner resources
+- `assets/artifact-previews/`: three actual completed artifact pages used in Resources 5, 7, and 9; local here and tracked only in the private dedicated portfolio repository
 - `references.bib`: unified APA-style source trail
 - `../../output/pdf/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf`: local compiled review copy; ignored by Git
 
@@ -25,11 +26,13 @@ After review, copy `main.pdf` to:
 ../../output/pdf/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf
 ```
 
-## Evidence Boundary
+## Restricted Educational Use and Evidence Boundary
 
-The Pine Brook and EDU486 examples are de-identified practice evidence. The Communication Support Plan is a prospective scenario and does not claim that a particular camper used AAC. The final Kit for Kids assignment records a taught Grade 2 mini-lesson; the portfolio uses de-identified teacher notes and two anonymous response examples rather than claiming an independent recording of every teaching move. Copyrighted OAR and PTR materials are cited or linked, not reproduced.
+The completed submission is provided solely for course-related teaching, learning, assessment, and internal review within the University of Rochester Warner School of Education. Resources 5, 7, and 9 reproduce actual completed EDU486 pages, including youth names and photographs, under signed parent/guardian consent for this educational context. The portfolio is not for public or external distribution and may not be copied, posted, published, forwarded, distributed, or otherwise used outside authorized Warner School course activities without separate written authorization and confirmation that parent/guardian consent covers the proposed use.
 
-The EDU486 evidence core is a completed four-layer communication system: post-activity video memos, personalized daily souvenirs, five reviewed day-recap decks, and two full-week personalized family recap books organized per attended day and per activity. Participant photographs, names, personalized stories, family contacts, and private messages remain outside this public package. Day 5 has photographs and a same-session transcript but no source video. The final family books and email drafts were reviewed as completed production artifacts, but no delivery receipt or family response was recovered; the portfolio therefore says they were prepared, not sent.
+The public EDE448 course repository intentionally excludes the three image assets. Its LaTeX source displays an omission notice when they are absent. The complete assets are stored only in the local submission package and private dedicated portfolio repository. Family contacts, private correspondence, and unrelated records remain excluded. Day 5 has photographs and a same-session transcript but no source video. The family books and email drafts were completed, but no delivery receipt or family response was recovered; the portfolio therefore says they were prepared, not sent.
+
+The Pine Brook examples remain de-identified. The Communication Support Plan is prospective and does not claim that a particular camper used AAC. The Kit for Kids evidence remains limited to de-identified teacher notes and two anonymous responses. Copyrighted OAR and PTR materials are cited or linked, not reproduced.
 
 ## Practice Artifact Trail
 
@@ -37,16 +40,16 @@ The EDU486 evidence core is a completed four-layer communication system: post-ac
 | --- | --- |
 | 1 | Completed Pine Brook IGNITE sensory walk and laptop/blocks access observation |
 | 2 | Taught Grade 2 Kit for Kids lesson and two anonymous student applications |
-| 3 | Public-safe PTR Appendix 4.1 completion notes and placement transition event |
+| 3 | PTR Appendix 4.1 completion notes and non-identifying placement transition event |
 | 4 | Implemented EDU486 post-activity video memos, original-video index, and de-identified transcripts |
-| 5 | Implemented personalized science souvenirs, activity evidence, and source indexes |
+| 5 | Implemented personalized science souvenirs, activity evidence, source indexes, and an actual completed Day 3 page |
 | 6 | Module 3 AAC review plus Grade 2 IGNITE communication/access supports |
-| 7 | Five implemented and reviewed EDU486 day-recap evidence stories for Days 1--5 |
+| 7 | Five implemented and reviewed EDU486 day-recap evidence stories for Days 1--5, including an actual Day 3 overview slide |
 | 8 | Low-tech AAC starter revised from documented fish smell/texture feedback |
-| 9 | Two completed personalized full-week recap books and email drafts, with delivery and response left unverified |
+| 9 | Two completed personalized full-week recap books and email drafts, including an actual Day 3 page, with delivery and response left unverified |
 | 10 | Identity Beads, policy role-play, measurement, and showcase participation roles |
 
 ## Submission State
 
-The artifact-centered package was compiled and visually reviewed as ten two-page spreads in a 26-page PDF on August 6, 2026. The local review PDF at the path above is refreshed only from the reviewed build. Piter's final content approval and manual Blackboard submission remain; nothing has been submitted through this repository.
+The restricted package was compiled and visually reviewed on August 6, 2026. The ten resources occupy exactly 20 pages; six framing pages contain the title and use notice, assignment standard, contents, portfolio map, closing reflection, and references, for 26 physical pages total. The local review PDF at the path above is refreshed only from the reviewed internal build. Piter's final content approval and manual Blackboard submission remain; nothing has been submitted through this repository.
 <!-- End of canonical portfolio package reference. -->

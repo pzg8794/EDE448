@@ -4,7 +4,7 @@ The **Communication and Positive Behavioral Support Strategies and Resources Por
 
 ## Current State
 
-The canonical ten-resource LaTeX package is assembled in [`latex/`](latex/README.md). The artifact-centered revision compiles to a 26-page PDF, with every resource occupying two pages, and passed a full 13-spread visual review on August 6, 2026. The package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, unified reference list, and a documented [Resource 1--10 practice-artifact trail](latex/README.md#practice-artifact-trail).
+The canonical ten-resource LaTeX package is assembled in [`latex/`](latex/README.md). The restricted internal revision contains 20 resource pages and six framing pages, for 26 physical pages total; every resource occupies two pages. It passed a full 13-spread visual review on August 6, 2026. The package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, unified reference list, and a documented [Resource 1--10 practice-artifact trail](latex/README.md#practice-artifact-trail).
 
 Piter's final content approval and manual Blackboard submission remain. Nothing in this folder should be treated as submitted until a Blackboard receipt is confirmed.
 
@@ -21,12 +21,18 @@ The portfolio's evidence core is the communication system already built during E
 
 Teaching-placement learning supplied concrete access and classroom-system knowledge. The Puzzle Plan keeps student voice, artifacts, context, and adult interpretation from collapsing into one data point; EQUITAS tests whose account shapes the next lesson, institutional understanding, and family narrative.
 
+## Restricted Educational Use
+
+The completed portfolio is for course-related teaching, learning, assessment, and internal review within the University of Rochester Warner School of Education. Resources 5, 7, and 9 contain actual completed pages with identifiable youth names and photographs included under signed parent/guardian consent for this educational context. The portfolio is not for public or external distribution. It must not be copied, posted, published, forwarded, distributed, or otherwise used outside authorized Warner School course activities without separate written authorization and confirmation that parent/guardian consent covers the proposed use.
+
+The outer EDE448 course repository remains public and excludes those image assets. The complete submission package is local and in the private dedicated portfolio repository.
+
 ## Dedicated Overleaf Workspace
 
-- [GitHub/Overleaf portfolio repository](https://github.com/pzg8794/EDE448-Communication_and_Behavioral_Support_Portfolio)
+- [Private GitHub/Overleaf portfolio repository](https://github.com/pzg8794/EDE448-Communication_and_Behavioral_Support_Portfolio)
 - Local independent checkout: `portfolio/repository/` (ignored by this course repository)
 
-Use the dedicated repository for Overleaf authoring. Pull remote edits into `portfolio/repository/`, compile and review them there, and then mirror approved `main.tex`, `references.bib`, and `resources/` changes into [`portfolio/latex/`](latex/README.md) so the course repository retains the reviewed source snapshot. The two repositories keep independent Git histories.
+Use the private dedicated repository for Overleaf authoring and the complete restricted asset package. Pull remote edits into `portfolio/repository/` and compile and review them there. Mirror non-identifying source changes into [`portfolio/latex/`](latex/README.md), but never add identifiable image assets or the restricted PDF to the public course repository. The two repositories keep independent Git histories.
 
 ## Assignment Core
 
@@ -56,11 +62,11 @@ The 40-point rubric assigns 10 points to each area:
 
 ## Submission Standard
 
-The final portfolio uses **Communication as Access-to-Agency** as its organizing theme. Each resource is independently usable, public-safe, strengths-based, and explicit about dignity, consent, neurodiversity, student voice, implementation, adaptation, and evidence limits.
+The final portfolio uses **Communication as Access-to-Agency** as its organizing theme. Each resource is independently usable, strengths-based, and explicit about dignity, consent, neurodiversity, student voice, implementation, adaptation, and evidence limits. The completed portfolio is a restricted Warner School educational submission, not a public artifact.
 
 ## Canonical Files
 
-- [Dedicated GitHub/Overleaf workspace](https://github.com/pzg8794/EDE448-Communication_and_Behavioral_Support_Portfolio)
+- [Private GitHub/Overleaf workspace](https://github.com/pzg8794/EDE448-Communication_and_Behavioral_Support_Portfolio)
 - [Editable LaTeX package and build instructions](latex/README.md)
 - [Main document source](latex/main.tex)
 - [Ten numbered resource sources](latex/resources/)

@@ -12,7 +12,7 @@ The **Puzzle Plan** combines lived experience, education, data, research, techno
 
 | Priority | Date | Task | State | Start Here |
 | --- | --- | --- | --- | --- |
-| 1 | August 7 | Review and submit final 10-resource portfolio | Artifact-centered 26-page package compiled and visually reviewed; submission unconfirmed | [Portfolio assignment and package](portfolio/README.md) |
+| 1 | August 7 | Review and submit final 10-resource portfolio | Restricted package compiled and visually reviewed: 20 resource pages plus 6 framing pages; submission unconfirmed | [Portfolio assignment and package](portfolio/README.md) |
 | 2 | August 7 early target; August 10 Blackboard deadline | Review and complete Module 3 READ/MEDIA and assignments | Comprehensive review package prepared; nothing posted or submitted | [Module 3 review guide](assignments/module3/REVIEW-GUIDE.md) |
 | 3 | Now | Reconcile overdue/unconfirmed Module 2 items | PTR confirmed submitted; other items remain unconfirmed | [Module 2 review guide](assignments/module2/REVIEW-GUIDE.md) |
 | 4 | Now | Confirm Module 1 Blackboard receipts | Dedicated packages exist; submission state not confirmed here | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
@@ -61,14 +61,14 @@ Direct links and all working files: [Module 3 assignment map](assignments/module
 
 | Requirement | Target | State | Next Action |
 | --- | --- | --- | --- |
-| Ten communication/positive-support resources | August 7 | Complete and visually reviewed in one 26-page package; each resource is two pages | Piter completes final content read and submits manually |
-| Public-safe source trail | With portfolio | Complete; unified bibliography and evidence boundaries included | Preserve the public/private boundary during upload |
+| Ten communication/positive-support resources | August 7 | Complete and visually reviewed: 20 resource pages plus 6 framing pages, 26 physical pages total | Piter completes final content read and submits manually |
+| Restricted-use source and consent boundary | With portfolio | Complete; title-page notice, unified bibliography, consent language, private dedicated repository, and public asset exclusion verified | Upload only through an approved Warner course channel; do not distribute externally |
 | Course/Puzzle Plan synthesis | With portfolio | Complete through the access-to-agency theme and final reflection | Confirm the synthesis represents Piter's final voice |
 
 ## Done Definition
 
-An item is complete only when the prompt is answered directly, claims are grounded, frameworks are defined at first use, citations are present, lived details are truthful and public-safe, Piter has approved the final version, Blackboard posting/submission is confirmed where required, and this tracker records that confirmation.
+An item is complete only when the prompt is answered directly, claims are grounded, frameworks are defined at first use, citations are present, lived details are truthful and either de-identified or covered by the documented restricted educational-use consent boundary, Piter has approved the final version, Blackboard posting/submission is confirmed where required, and this tracker records that confirmation.
 
 ## Repository Organization
 
-Dedicated paper repositories are nested under their matching module and assignment directory and remain independent Git working trees. See the [repository map](docs/repository-map.md). Raw readings, Blackboard captures, child media, transcripts, and private student information remain local.
+Dedicated paper repositories are nested under their matching module and assignment directory and remain independent Git working trees. See the [repository map](docs/repository-map.md). Raw readings, Blackboard captures, transcripts, and private student information remain local. The only exception is the consented portfolio artifact set, which is also stored in the private dedicated portfolio repository and must not be synchronized to the public course repository.

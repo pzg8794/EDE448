@@ -58,9 +58,9 @@ This repo documents source provenance without publishing raw course packets.
 | `assignments/module1/sensory-walk-experience/final.md` | Resource 1's Pine Brook sensory conditions, environmental redesign, and laptop/blocks observation |
 | `assignments/module1/teach-a-kit-for-kids-lesson/final.md` | Resource 2's taught Grade 2 lesson sequence and two anonymous student applications |
 | `assignments/module2/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md` | Resource 3's evidence-supported PTR checklist snapshot and explicit unknowns |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/transcripts/camp-clean/` and reviewed dated original-video indexes | Resource 4's implemented post-activity memo routine and de-identified transcript evidence; Day 5 has no source video, and no youth media is copied into EDE448 |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/share-ready/Invisible-Invaders-Recaps-Souvenirs-Activity-Images/` | Resource 5's personalized souvenirs and Resource 7's five reviewed day-recap decks; photographs support action and context but do not independently prove understanding |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/parent-note-output/2026-08-03-personalized-daily-recap-books/` | Resource 9's two completed per-day, per-activity family recap books and email drafts; no delivery receipt or family response is claimed |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/transcripts/camp-clean/` and reviewed dated original-video indexes | Resource 4's implemented post-activity memo routine and de-identified transcript evidence; Day 5 has no source video, and Resource 4 embeds no youth media |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/share-ready/Invisible-Invaders-Recaps-Souvenirs-Activity-Images/` | Resource 5's personalized souvenirs and Resource 7's five reviewed day-recap decks; the restricted Warner submission embeds one actual Day 3 souvenir page and one Day 3 recap overview under signed parent/guardian consent; photographs support action and context but do not independently prove understanding |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/parent-note-output/2026-08-03-personalized-daily-recap-books/` | Resource 9's two completed per-day, per-activity family recap books and email drafts; the restricted Warner submission embeds one actual Day 3 page under signed parent/guardian consent; no delivery receipt or family response is claimed |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/public-artifacts/` and `transcripts/camp-clean/` | Resources 8 and 10: public-safe sensory feedback, Identity Beads, policy, showcase roles, and clean retrospective records |
 | `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/pine-brook-elementary/teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md` | Resource 6's real Grade 2 picture-card, AAC, visual-schedule, adaptive-input, speech-to-text, and voice-recording contexts; no learner is identified |
 
@@ -91,6 +91,6 @@ This repo documents source provenance without publishing raw course packets.
 
 The local captures do not preserve direct item IDs for AAC Review, Journal #3, or the two discussions. Their landing pages use the authenticated course-outline destination rather than guessed links.
 
-## Public Boundary
+## Repository and Restricted-Use Boundary
 
-The source files above are used for requirements extraction and private working context. They are not committed to this public repo unless they are original public-safe work products.
+The outer EDE448 repository is public and excludes identifiable artifact images and the restricted compiled portfolio. Its LaTeX source shows omission notices when the three local assets are absent. The complete artifact pages are stored only in the local submission package and the private dedicated portfolio repository. The final portfolio is solely for authorized University of Rochester Warner School teaching, learning, assessment, and internal review; external copying, posting, publication, forwarding, distribution, or other use requires separate written authorization and confirmation that parent/guardian consent covers the proposed use.

@@ -14,6 +14,10 @@ Icon?
 *.txt
 *.zip
 
+# Identifiable artifact images used in the final Warner-only portfolio remain
+# excluded from this public course repository. The complete assets are versioned
+# only in the private dedicated portfolio repository.
+
 # LaTeX build products; editable sources and bibliographies remain tracked.
 *.aux
 *.bbl

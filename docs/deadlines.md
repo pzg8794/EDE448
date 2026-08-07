@@ -17,7 +17,7 @@ Due-date source state checked through **August 2, 2026** from local Blackboard e
 | July 31, 2026, 11:59 PM EDT | Verified Blackboard due date | [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | [Authorized GitHub/Overleaf working repository](https://github.com/pzg8794/EDE448-Module2_Journal) |
 | No due date shown in supplied listing | Blackboard destination verified | [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | [Takeaways draft](../assignments/module2/discussions/takeaways.md) |
 | August 7, 2026 | Course-recommended target | Finish Module 3 early if graduating this term | [Module 3 review guide](../assignments/module3/REVIEW-GUIDE.md) |
-| August 7, 2026 | Hard target; 26-page review PDF prepared August 6; submission unconfirmed | Final ten-resource portfolio, especially if graduating this term | [Portfolio assignment and canonical package](../portfolio/README.md) |
+| August 7, 2026 | Hard target; 20 resource pages plus 6 framing pages prepared August 6; submission unconfirmed | Final ten-resource portfolio, especially if graduating this term | [Portfolio assignment and canonical package](../portfolio/README.md) |
 | August 10, 2026, 11:59 PM EDT | Blackboard due date shown locally | AAC Review and Journal #3 | [Module 3 assignment map](../assignments/module3/README.md#direct-assignment-links) |
 | Confirm in Blackboard; Module 3 ends August 10 | Assignment capture does not show a separate due date | Communication Support Plan | [Communication Support Plan package](../assignments/module3/communication-support-plan/README.md) |
 

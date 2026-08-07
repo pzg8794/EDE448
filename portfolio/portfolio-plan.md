@@ -10,6 +10,7 @@
 
 - At least 10 resources/supports.
 - Each resource should include 1-2 pages of content.
+- Final accounting: 20 resource pages plus 6 framing pages, for 26 physical pages total.
 - Audience: teachers and/or families.
 - Include relevant references, sources, or websites.
 - Use module assignments when possible.
@@ -35,7 +36,7 @@
 - [x] Add a teacher/family audience note to each resource.
 - [x] Add use guidance and an explanation of how each resource supports practice.
 - [x] Add sources or websites and a unified reference list.
-- [x] Remove student-identifying details and label prospective evidence accurately.
+- [x] Label prospective evidence accurately; keep Pine Brook evidence de-identified; include consented EDU486 artifact pages only in the restricted Warner submission and private repository.
 - [x] Add an introduction explaining the portfolio theme and evidence boundary.
 - [x] Add a table of contents and portfolio map.
 - [x] Record AI-supported drafting in the [AI use log](../docs/ai-use-log.md).
