@@ -53,4 +53,26 @@ Name who prints and updates the board, who checks availability, where backups li
 
 \adaptationbox{A dense grid may be inaccessible because of vision, motor, literacy, language, or attention needs. Reduce field size, increase spacing/contrast, use objects or photographs, add partner-assisted scanning, or create layered boards while preserving robust message functions. Do not change symbol locations casually. Any redesign should be trialed with the communicator, and rejection of the board is data rather than noncompliance.}
 
+\vfill
+\begin{center}
+{\scriptsize\bfseries\color{DeepNavy}Communication Continuity: Same Message Range, Different Route}\par
+\vspace{0.035in}
+\begin{tikzpicture}[
+  route/.style={draw=DeepNavy, rounded corners=2pt, minimum width=1.62in,
+    minimum height=0.52in, align=center, font=\tiny, inner sep=3pt},
+  link/.style={<->, >=Latex, line width=0.65pt, draw=PrimaryRed}
+]
+\node[route, fill=SoftBlue] (device) {\textbf{HIGH-TECH AAC}\\speech-generating system};
+\node[route, fill=SoftGreen, right=0.34in of device] (paper) {\textbf{PRINTED BACKUP}\\stable vocabulary locations};
+\node[route, fill=SoftGold, right=0.34in of paper] (other) {\textbf{OTHER RELIABLE MODES}\\gesture, writing, object};
+\draw[link] (device) -- (paper);
+\draw[link] (paper) -- (other);
+\node[draw=MidTeal, rounded corners=2pt, below=0.11in of paper, text width=4.70in,
+  align=center, font=\tiny, inner sep=3pt] {\textbf{The message range must travel too:} stop \quad help \quad different \quad question \quad repair \quad more time \quad sensory boundary.};
+\end{tikzpicture}
+
+\vspace{0.02in}
+{\tiny Camp feedback supplies concrete context vocabulary; the communication route can change without shrinking the communicator's agency.}
+\end{center}
+
 \sourcebox{ASHA AAC overview \citep{ashaAAC}; multimodal AAC design \citep{mirenda2015aids}; implementation context \citep{norrie2021context}; de-identified camp feedback \citep{campEvidence2026}.}
