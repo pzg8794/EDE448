@@ -21,12 +21,12 @@
 | 1 | Sensory Access Walk and Redesign Checklist | [Resource source](latex/resources/01-sensory-access.tex) | Module 1 Sensory Walk and de-identified Pine Brook practice evidence |
 | 2 | Many Ways to Be a Good Classmate | [Resource source](latex/resources/02-good-classmate.tex) | Module 1 Kit for Kids design and a de-identified technology routine |
 | 3 | PTR Evidence-to-Support Planning Guide | [Resource source](latex/resources/03-ptr-planning.tex) | Module 2 PTR assignment and a non-identifying placement event |
-| 4 | Dignity-Centered Classroom Support System | [Resource source](latex/resources/04-dignity-centered-system.tex) | Module 2 Positive Classroom Support Plan and EDU486 reflection |
-| 5 | Visual Routine and Transition Access Planner | [Resource source](latex/resources/05-routine-transition-planner.tex) | Module 2 classroom plan, Module 1 sensory analysis, and EDU486 reflection |
+| 4 | 30-Second Student Video Memo | [Resource source](latex/resources/04-dignity-centered-system.tex) | Implemented EDU486 post-activity video memos and de-identified source transcripts |
+| 5 | Every-Day Personalized Science Souvenir | [Resource source](latex/resources/05-routine-transition-planner.tex) | Implemented EDU486 personalized souvenirs, student memos, and reviewed activity evidence |
 | 6 | AAC Tool Selection and Implementation Guide | [Resource source](latex/resources/06-aac-selection.tex) | Module 3 AAC Review, with TD Snap as a worked example |
-| 7 | Communication Opportunity Matrix and Partner Protocol | [Resource source](latex/resources/07-opportunity-matrix.tex) | Module 3 Communication Support Plan and EDU486 routines |
+| 7 | Day Recap Evidence Story | [Resource source](latex/resources/07-opportunity-matrix.tex) | Five implemented and reviewed EDU486 day-recap presentations |
 | 8 | Low-Tech AAC Backup and Vocabulary Starter | [Resource source](latex/resources/08-low-tech-backup.tex) | Module 3 multimodal communication system and AAC review |
-| 9 | Student-Authored Home-School Communication Record | [Resource source](latex/resources/09-home-school-record.tex) | Module 3 Daily Communication Logs critique and Communication Support Plan |
+| 9 | Full-Week Personalized Family Recap | [Resource source](latex/resources/09-home-school-record.tex) | Module 3 Daily Communication Logs critique and two completed EDU486 day-by-day recap books |
 | 10 | Flexible Peer Roles and Participation Routes | [Resource source](latex/resources/10-peer-roles.tex) | Kit for Kids, EDU486 camp, and Module 3 communication planning |
 
 ## Portfolio Assembly Checklist

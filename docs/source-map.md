@@ -8,7 +8,7 @@ This repo documents source provenance without publishing raw course packets.
 | --- | --- | --- |
 | Shared academic workspace | [Open folder](https://drive.google.com/drive/folders/1pY_fQ54nHKvFABNRGYAr5bQ3su_tUDAi) | Starting Drive folder supplied by the user |
 | Semester4(UofR) folder | [Open folder](https://drive.google.com/drive/folders/11S7fDVszdnUd628wqg_kixgIX-a8K9lh) | Parent folder containing current UofR courses |
-| EDE448 course source | [Open folder](https://drive.google.com/drive/folders/1hoyyIG4wVXCYbRRv6IxYdPaLRbqBB52k) | User-confirmed primary course source shared August 6, 2026 |
+| Authoritative EDE448 portfolio evidence root | [Open folder](https://drive.google.com/drive/folders/1ZX08NvxOa5yx3gAOdBEccWFGcw07xZJ6?usp=sharing) | Controlling Drive root used for the final communication-artifact audit |
 | EDE448 materials folder | [Open folder](https://drive.google.com/drive/folders/1pGIdniDMT7CMc8I7l6AOdTpq1oQtAhk6) | Previously recorded course materials, modules, and assignment information |
 | PHD folder | [Open folder](https://drive.google.com/drive/folders/15Qxk5JEo7yp-Ng4Od7kaZb8QoFEB5xdU) | Broader PhD / application / public-profile planning context |
 
@@ -58,8 +58,10 @@ This repo documents source provenance without publishing raw course packets.
 | `assignments/module1/sensory-walk-experience/final.md` | Resource 1's Pine Brook sensory conditions, environmental redesign, and laptop/blocks observation |
 | `assignments/module1/teach-a-kit-for-kids-lesson/final.md` | Resource 2's taught Grade 2 lesson sequence and two anonymous student applications |
 | `assignments/module2/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md` | Resource 3's evidence-supported PTR checklist snapshot and explicit unknowns |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/public-artifacts/` and `transcripts/camp-clean/` | Resources 4, 5, 7, 8, and 10: youth feedback, Field Friday visual route, access pathways, sensory vocabulary, Identity Beads, policy, and showcase roles; only public/de-identified content is represented |
-| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/parent-note-output/2026-07-29-family-camp-update/` and `2026-07-29-family-update-transcript-corrected/` | Resource 9's sequence and family-facing language; private photographs, names, contact information, and personalized files are not copied into EDE448 |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/transcripts/camp-clean/` and reviewed dated original-video indexes | Resource 4's implemented post-activity memo routine and de-identified transcript evidence; Day 5 has no source video, and no youth media is copied into EDE448 |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/share-ready/Invisible-Invaders-Recaps-Souvenirs-Activity-Images/` | Resource 5's personalized souvenirs and Resource 7's five reviewed day-recap decks; photographs support action and context but do not independently prove understanding |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/parent-note-output/2026-08-03-personalized-daily-recap-books/` | Resource 9's two completed per-day, per-activity family recap books and email drafts; no delivery receipt or family response is claimed |
+| `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/public-artifacts/` and `transcripts/camp-clean/` | Resources 8 and 10: public-safe sensory feedback, Identity Beads, policy, showcase roles, and clean retrospective records |
 | `/Users/pitergarcia/DataScience/Semester5/Semester3(UofR)/TeachingPlacement/pine-brook-elementary/teaching-placement-ignite-curriculum-gcsd-25-26/teaching-placement-ignite-curriculum-gcsd-25-26-grade-2-notes.md` | Resource 6's real Grade 2 picture-card, AAC, visual-schedule, adaptive-input, speech-to-text, and voice-recording contexts; no learner is identified |
 
 ## Public Reference Sources

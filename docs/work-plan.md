@@ -33,8 +33,8 @@ Work blocks:
 Portfolio harvesting:
 
 - PTR checklist/guide becomes portfolio resource 3.
-- Positive Classroom Support Plan becomes portfolio resource 4.
-- Classroom routines and consent-centered support language become portfolio resource 5.
+- Positive Classroom Support Plan informs the behavior-as-communication, consent, and systems analysis carried through the portfolio.
+- Classroom routines and consent-centered language support the reusable workflows in the completed communication artifacts.
 
 ## Week 4: Module 2 Review And Finalization, July 23-July 31
 
@@ -64,14 +64,14 @@ Work blocks:
 Portfolio harvesting:
 
 - AAC review becomes portfolio resource 6.
-- Communication Support Plan becomes portfolio resource 7.
-- Daily communication log/home-school bridge can become portfolio resource 8.
+- Communication Support Plan informs communication access, partner response, and evidence review across resources 7--9.
+- Daily Communication Logs critique becomes part of Resource 9's shift from adult ratings to a completed per-day, per-activity family learning story.
 
 ## Final Portfolio Sprint: August 1-August 7
 
 **Goal:** Submit at least 10 resources/supports, each useful to a teacher or family audience.
 
-Repository status on August 6: the canonical ten-resource LaTeX package is assembled, compiled to 26 pages, and visually reviewed. Each resource occupies two pages. The plan and template remain provenance rather than alternate submission drafts.
+Repository status on August 6: the canonical ten-resource LaTeX package is assembled, the artifact-centered correction compiles to 26 pages, and all 13 spreads have been visually reviewed. Each resource occupies two pages. Resources 4, 5, 7, and 9 now center the completed video-memo, souvenir, day-recap, and full-week family-recap system. The plan and template remain provenance rather than alternate submission drafts.
 
 Completed work blocks:
 
@@ -79,7 +79,7 @@ Completed work blocks:
 - [x] Write a two-page explanation and practical tool for each resource.
 - [x] Add point-of-use citations, source links, and a unified bibliography.
 - [x] Include an assignment/rubric map, evidence boundary, portfolio map, and final reflection.
-- [x] Compile and inspect all 26 rendered pages.
+- [x] Inspect all 26 pages of the current artifact-centered rendering.
 
 Remaining human action:
 

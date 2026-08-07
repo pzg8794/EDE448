@@ -4,9 +4,22 @@ The **Communication and Positive Behavioral Support Strategies and Resources Por
 
 ## Current State
 
-The canonical ten-resource LaTeX package is assembled in [`latex/`](latex/README.md). The artifact-grounded revision compiled to a 26-page PDF and passed a ten-spread visual review on August 6, 2026. Every resource occupies two pages; the package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, unified reference list, and a documented [Resource 1--10 practice-artifact trail](latex/README.md#practice-artifact-trail).
+The canonical ten-resource LaTeX package is assembled in [`latex/`](latex/README.md). The artifact-centered revision compiles to a 26-page PDF, with every resource occupying two pages, and passed a full 13-spread visual review on August 6, 2026. The package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, unified reference list, and a documented [Resource 1--10 practice-artifact trail](latex/README.md#practice-artifact-trail).
 
 Piter's final content approval and manual Blackboard submission remain. Nothing in this folder should be treated as submitted until a Blackboard receipt is confirmed.
+
+## Completed Communication System
+
+The portfolio's evidence core is the communication system already built during EDU486, not a set of hypothetical supports:
+
+| Timescale | Completed product | Communication and support function |
+| --- | --- | --- |
+| After each activity | 30-Second Student Video Memo | Preserves what the learner did, experienced, learned or confirmed, and wants investigated next |
+| Every day | Every-Day Personalized Science Souvenir | Returns a student-centered learning portrait with evidence, significance, and uncertainty |
+| End of day | Day Recap Evidence Story | Reconstructs every activity for youth review, next-day redesign, collaborators, and family communication |
+| End of week | Full-Week Personalized Family Recap | Gives each attended day its own page and each day five activity cards; completed packages are documented as prepared, not verified as delivered |
+
+Teaching-placement learning supplied concrete access and classroom-system knowledge. The Puzzle Plan keeps student voice, artifacts, context, and adult interpretation from collapsing into one data point; EQUITAS tests whose account shapes the next lesson, institutional understanding, and family narrative.
 
 ## Dedicated Overleaf Workspace
 

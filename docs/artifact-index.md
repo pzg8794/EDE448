@@ -64,6 +64,7 @@
 - [Canonical LaTeX package and build instructions](../portfolio/latex/README.md)
 - [Main portfolio source](../portfolio/latex/main.tex)
 - [Ten numbered resource sources](../portfolio/latex/resources/)
+- Completed communication system: [30-second video memo](../portfolio/latex/resources/04-dignity-centered-system.tex), [every-day souvenir](../portfolio/latex/resources/05-routine-transition-planner.tex), [day recap](../portfolio/latex/resources/07-opportunity-matrix.tex), and [full-week family recap](../portfolio/latex/resources/09-home-school-record.tex)
 - [Unified portfolio bibliography](../portfolio/latex/references.bib)
 - [Resource 1--10 practice-artifact trail](../portfolio/latex/README.md#practice-artifact-trail)
 - [Portfolio artifact provenance and privacy boundaries](source-map.md#portfolio-practice-artifact-provenance)
