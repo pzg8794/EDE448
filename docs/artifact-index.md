@@ -68,7 +68,7 @@
 - [Unified portfolio bibliography](../portfolio/latex/references.bib)
 - [Resource 1--10 practice-artifact trail](../portfolio/latex/README.md#practice-artifact-trail)
 - [Portfolio artifact provenance and privacy boundaries](source-map.md#portfolio-practice-artifact-provenance)
-- Actual completed Day 3 souvenir, recap-overview, and weekly-recap pages are embedded only in the local submission package and private dedicated portfolio repository under signed parent/guardian consent
+- Six restricted visuals are embedded only in the local submission package and private dedicated portfolio repository under signed parent/guardian consent: the showcase evidence strip, Videos 06--08 memo-source strip, Day 3 souvenir, Day 3 recap overview, Days 1--5 recap archive strip, and Day 3 weekly-recap page
 - [Local review PDF: 20 resource pages plus 6 framing pages, 26 physical pages total](../output/pdf/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf) (ignored by Git; restricted Warner educational use; not a submission receipt)
 - [Completed portfolio planning record](../portfolio/portfolio-plan.md)
 - [Planning-era resource template](../portfolio/resource-template.md)

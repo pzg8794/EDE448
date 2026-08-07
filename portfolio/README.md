@@ -23,9 +23,9 @@ Teaching-placement learning supplied concrete access and classroom-system knowle
 
 ## Restricted Educational Use
 
-The completed portfolio is for course-related teaching, learning, assessment, and internal review within the University of Rochester Warner School of Education. Resources 5, 7, and 9 contain actual completed pages with identifiable youth names and photographs included under signed parent/guardian consent for this educational context. The portfolio is not for public or external distribution. It must not be copied, posted, published, forwarded, distributed, or otherwise used outside authorized Warner School course activities without separate written authorization and confirmation that parent/guardian consent covers the proposed use.
+The completed portfolio is for course-related teaching, learning, assessment, and internal review within the University of Rochester Warner School of Education. Six restricted visuals on the title page and in Resources 4, 5, 7, and 9 contain completed EDU486 evidence, including identifiable youth names and photographs, under signed parent/guardian consent for this educational context. The portfolio is not for public or external distribution. It must not be copied, posted, published, forwarded, distributed, or otherwise used outside authorized Warner School course activities without separate written authorization and confirmation that parent/guardian consent covers the proposed use.
 
-The outer EDE448 course repository remains public and excludes those image assets. The complete submission package is local and in the private dedicated portfolio repository.
+The outer EDE448 course repository remains public and excludes all six image assets. Its source substitutes fixed-height omission panels so the asset-free build remains 26 pages. The complete submission package is local and in the private dedicated portfolio repository.
 
 ## Dedicated Overleaf Workspace
 

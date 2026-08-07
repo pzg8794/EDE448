@@ -20,7 +20,7 @@
 \usepackage[table]{xcolor}
 \usepackage{tikz}
 \usepackage{fancyhdr}
-\usetikzlibrary{arrows.meta,positioning,fit}
+\usetikzlibrary{arrows.meta,positioning,fit,calc}
 \usepackage[natbibapa]{apacite}
 
 \definecolor{PrimaryRed}{HTML}{8B1E1E}
@@ -123,6 +123,26 @@
   }%
 }
 
+\newcommand{\restrictedartifactpanel}[4]{%
+  \begingroup
+  \begin{minipage}[c][#3][c]{#2}
+    \centering
+    \IfFileExists{#1}{%
+      \includegraphics[width=\linewidth,height=#3,keepaspectratio]{#1}%
+    }{%
+      \setlength{\fboxsep}{4pt}%
+      \fcolorbox{DeepNavy}{SoftGray}{%
+        \parbox[c][\dimexpr#3-2\fboxsep-2\fboxrule\relax][c]{\dimexpr\linewidth-2\fboxsep-2\fboxrule\relax}{%
+          \centering\scriptsize
+          \textbf{Restricted visual omitted from the public course-repository build.}\\[0.02in]
+          #4
+        }%
+      }%
+    }%
+  \end{minipage}%
+  \endgroup
+}
+
 \newcommand{\tableheaderthree}[3]{%
   \rowcolor{PrimaryRed}
   \color{white}\bfseries #1 &
@@ -175,9 +195,13 @@
 
 \colorbox{SoftBlue}{%
 \parbox{0.90\textwidth}{%
-\centering\small\vspace{0.02in}
-\textbf{Ten practical resources for teachers, families, and support teams}\\[0.04in]
+\restrictedartifactpanel{assets/artifact-previews/cover-showcase-evidence-strip.png}{0.35\linewidth}{0.50in}{Restricted showcase evidence strip omitted in the public build.}%
+\hfill
+\begin{minipage}[c]{0.61\linewidth}
+\centering\small
+\textbf{Ten practical resources for teachers, families, and support teams}\\[0.035in]
 Four implemented camp artifacts anchor the collection; six connected EDE448 tools extend the same commitments to sensory access, PTR, AAC, peer participation, and classroom practice.
+\end{minipage}
 }%
 }
 \end{center}
@@ -225,7 +249,7 @@ My teaching placement taught me to make participation routes visible and treat s
 
 This culminating portfolio is worth 40 percent of the EDE448 grade and is due August 7, 2026. The Blackboard prompt contains the internally inconsistent phrase ``at least ten (8) resources/supports.'' I use the more demanding interpretation: ten resources, each designed to stand alone within one or two pages. Every entry explains the support for a teacher or family audience, connects it to communication, social-emotional learning, or behavior, identifies when and why it should be used, and provides relevant sources or websites. The ten resources occupy 20 pages; the title, assignment standard, contents, portfolio map, closing reflection, and references are six framing pages and are not counted toward the resource limit. The complete PDF therefore contains 26 physical pages.
 
-The portfolio reworks applicable Module 1, 2, and 3 assignments into practitioner tools rather than stacking ten old papers together. Its evidence core is a communication system already built through EDU486: a 30-second student video memo after an activity, an every-day personalized souvenir, a day recap evidence story, and a full-week personalized family recap organized per attended day and per activity. Six connected EDE448 resources extend the same commitments to sensory access, peer culture, PTR, AAC, backup communication, and flexible roles. Three completed artifact pages are reproduced under signed parent/guardian consent for this internal UofR educational review; family contacts, private correspondence, and unrelated records are not reproduced.
+The portfolio reworks applicable Module 1, 2, and 3 assignments into practitioner tools rather than stacking ten old papers together. Its evidence core is a communication system already built through EDU486: a 30-second student video memo after an activity, an every-day personalized souvenir, a day recap evidence story, and a full-week personalized family recap organized per attended day and per activity. Six connected EDE448 resources extend the same commitments to sensory access, peer culture, PTR, AAC, backup communication, and flexible roles. Six artifact visuals are reproduced under signed parent/guardian consent for this internal UofR educational review; family contacts, private correspondence, and unrelated records are not reproduced.
 
 \toolsection{How the Rubric Is Made Visible}
 
@@ -244,10 +268,35 @@ Evidence and reflection & Each entry distinguishes observation from inference, n
 
 \toolsection{Evidence Boundary}
 
-The Pine Brook technology-placement examples remain de-identified practice records, not diagnoses or universal student traits. Resources 5, 7, and 9 reproduce actual completed EDU486 pages, including participant names and photographs, under signed parent/guardian consent for this internal UofR educational submission. Plans do not prove implementation; photographs show action but not complete understanding; automatic transcripts require source review before direct quotation. Day 5 has photographs and a same-session clean transcript but no source video. The full-week family packages were completed and prepared for delivery, but no delivery receipt or family response was recovered. The Communication Support Plan remains prospective and never claims that a particular camper used AAC; the Kit for Kids evidence remains limited to de-identified teacher notes and two anonymous responses.
+The Pine Brook technology-placement examples remain de-identified practice records, not diagnoses or universal student traits. The title page and Resources 4, 5, 7, and 9 reproduce completed EDU486 visuals, including participant names and photographs, under signed parent/guardian consent for this internal UofR educational submission. Plans do not prove implementation; photographs show action but not complete understanding; automatic transcripts require source review before direct quotation. Day 5 has photographs and a same-session clean transcript but no source video. The full-week family packages were completed and prepared for delivery, but no delivery receipt or family response was recovered. The Communication Support Plan remains prospective and never claims that a particular camper used AAC; the Kit for Kids evidence remains limited to de-identified teacher notes and two anonymous responses.
 
 \clearpage
 \tableofcontents
+
+\vfill
+\begin{center}
+{\normalsize\bfseries\color{DeepNavy}How the Resources Move Evidence Toward Agency}\par
+\vspace{0.10in}
+\begin{tikzpicture}[
+  stage/.style={draw=DeepNavy, rounded corners=2pt, minimum width=1.48in,
+    minimum height=0.78in, align=center, font=\scriptsize, inner sep=5pt},
+  route/.style={-{Latex[length=1.8mm]}, line width=0.75pt, draw=PrimaryRed}
+]
+\node[stage, fill=SoftBlue] (notice) {\textbf{NOTICE ACCESS}\\sensory setting, peers,\\behavior context\\\textit{Resources 1--3}};
+\node[stage, fill=SoftGold, right=0.16in of notice] (record) {\textbf{RECORD MEANING}\\student voice and\\personal evidence\\\textit{Resources 4--5}};
+\node[stage, fill=SoftGreen, right=0.16in of record] (keep) {\textbf{KEEP ROUTES OPEN}\\AAC, backup modes,\\flexible roles\\\textit{Resources 6, 8, 10}};
+\node[stage, fill=SoftRose, right=0.16in of keep] (return) {\textbf{RETURN FOR ACTION}\\day stories and\\family communication\\\textit{Resources 7, 9}};
+\draw[route] (notice) -- (record);
+\draw[route] (record) -- (keep);
+\draw[route] (keep) -- (return);
+\node[draw=MidTeal, fill=white, rounded corners=2pt, below=0.17in of $(record.south)!0.5!(keep.south)$,
+  minimum width=3.20in, minimum height=0.38in, align=center, font=\scriptsize] {\textbf{Puzzle Plan + EQUITAS:} whose evidence survives, and what does it change?};
+\end{tikzpicture}
+
+\vspace{0.10in}
+\parbox{0.86\textwidth}{\centering\small
+Read the collection as a feedback path: examine conditions, preserve learner meaning, keep communication available, and return evidence to the people who can change the next opportunity.}
+\end{center}
 \clearpage
 \pagenumbering{arabic}
 

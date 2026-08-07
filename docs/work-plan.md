@@ -71,7 +71,7 @@ Portfolio harvesting:
 
 **Goal:** Submit at least 10 resources/supports, each useful to a teacher or family audience.
 
-Repository status on August 6: the canonical ten-resource LaTeX package is assembled as 20 resource pages plus 6 framing pages, for 26 physical pages total, and all 13 spreads have been visually reviewed. Each resource occupies two pages. Resources 5, 7, and 9 include actual completed Day 3 artifact pages under signed parent/guardian consent. The title page carries a Warner-only restricted educational use notice. The complete package is local and in the private dedicated repository; the public course repository excludes identifiable assets. Resources 4, 5, 7, and 9 center the completed video-memo, souvenir, day-recap, and full-week family-recap system. The plan and template remain provenance rather than alternate submission drafts.
+Repository status on August 6: the canonical ten-resource LaTeX package is assembled as 20 resource pages plus 6 framing pages, for 26 physical pages total, and all 13 spreads have been visually reviewed. Each resource occupies two pages. Six consented artifact visuals appear on the title page and in Resources 4, 5, 7, and 9. The title page carries a Warner-only restricted educational use notice. The complete package is local and in the private dedicated repository; the public course repository excludes identifiable assets and substitutes fixed-height omission panels. Resources 4, 5, 7, and 9 center the completed video-memo, souvenir, day-recap, and full-week family-recap system. The plan and template remain provenance rather than alternate submission drafts.
 
 Completed work blocks:
 
@@ -79,7 +79,7 @@ Completed work blocks:
 - [x] Write a two-page explanation and practical tool for each resource.
 - [x] Add point-of-use citations, source links, and a unified bibliography.
 - [x] Include an assignment/rubric map, evidence boundary, portfolio map, and final reflection.
-- [x] Embed and inspect the actual completed souvenir, day-recap, and weekly-recap examples.
+- [x] Embed and inspect all six restricted artifact visuals and add public-native pathway, access-route, and peer-action diagrams.
 - [x] Add the Warner-only restricted educational use notice and move the dedicated portfolio repository to private visibility.
 - [x] Inspect all 20 resource pages and 6 framing pages in the 26-page rendering.
 

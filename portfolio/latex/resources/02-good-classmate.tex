@@ -35,6 +35,23 @@ Ask & Ask what support helps rather than guessing from a diagnosis or behavior. 
 Respect & Protect communication tools, sensory needs, boundaries, breaks, privacy, and refusal. & Do not grab a device, require eye contact, disclose a diagnosis, or make support conditional on compliance. \\
 \end{tabularx}
 
+\vfill
+\begin{center}
+\begin{tikzpicture}[
+	action/.style={draw=DeepNavy, rounded corners=2pt, minimum width=1.45in,
+		minimum height=0.60in, align=center, font=\scriptsize, inner sep=4pt},
+	next/.style={-{Latex[length=1.7mm]}, line width=0.7pt, draw=PrimaryRed}
+]
+\node[action, fill=SoftBlue] (invite) {\textbf{INVITE}\\offer a real route};
+\node[action, fill=SoftGold, right=0.13in of invite] (wait) {\textbf{WAIT}\\keep the floor open};
+\node[action, fill=SoftGreen, right=0.13in of wait] (ask) {\textbf{ASK}\\support, do not guess};
+\node[action, fill=SoftRose, right=0.13in of ask] (respect) {\textbf{RESPECT}\\tools, boundaries, refusal};
+\draw[next] (invite) -- (wait);
+\draw[next] (wait) -- (ask);
+\draw[next] (ask) -- (respect);
+\node[font=\scriptsize\bfseries, text=DeepNavy, below=0.09in of $(wait.south)!0.5!(ask.south)$] {Choice stays with the learner};
+\end{tikzpicture}
+\end{center}
 
 \newpage
 \toolsection{Practice Scenario}
