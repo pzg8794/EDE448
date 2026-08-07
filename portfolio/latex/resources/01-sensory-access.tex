@@ -3,31 +3,7 @@
 \vspace{-0.5cm}
 \toolsection{What This Resource Is}
 
-\noindent
-\begin{minipage}[t]{0.70\textwidth}
 This is a structured way to examine a classroom from the learner's path rather than from the adult's desk. The reviewer follows one routine from entry through instruction, hands-on work, transition, reset, and exit; records what students must hear, see, touch, filter, remember, and communicate; and redesigns barriers before distress becomes the only visible evidence. The Guggenheim sensory-detective approach and Michigan Developmental Disabilities Institute checklist both direct attention to the complete experience, including noise, lighting, crowds, routes, predictability, and quiet space \citep{guggenheimSensory,michigan2025sensory}.
-\end{minipage}\hfill
-\begin{minipage}[t]{0.27\textwidth}
-\centering
-{\scriptsize\bfseries\color{DeepNavy}REUSABLE CAMP ACCESS BOARD}\par
-\vspace{0.035in}
-\begin{tikzpicture}[
-  route/.style={draw=MidTeal, rounded corners=1.5pt, minimum width=0.77in,
-    minimum height=0.30in, align=center, font=\tiny\bfseries, inner sep=2pt}
-]
-\node[route, fill=SoftBlue] (talk) {TALK};
-\node[route, fill=SoftGold, right=0.04in of talk] (point) {POINT};
-\node[route, fill=SoftGreen, below=0.04in of talk] (draw) {DRAW / WRITE};
-\node[route, fill=SoftRose, right=0.04in of draw] (build) {BUILD / MOVE};
-\node[route, fill=SoftRose, below=0.04in of draw] (photo) {PHOTO / AUDIO};
-\node[route, fill=SoftGreen, right=0.04in of photo] (partner) {PARTNER};
-\node[route, fill=SoftGold, below=0.04in of photo] (quiet) {QUIET ROUTE};
-\node[route, fill=SoftBlue, right=0.04in of quiet] (pass) {PASS / RETURN};
-\end{tikzpicture}
-
-\vspace{0.02in}
-{\tiny Every route can show rigorous learning; a learner may change routes at any time.}
-\end{minipage}
 
 This resource supports communication and behavior because sensory load can change how quickly a learner processes language, accesses AAC, begins a task, tolerates proximity, or signals a need. Covering ears, moving away, repeating a question, holding onto a familiar tool, or declining a transition may communicate an environmental mismatch rather than defiance.
 
@@ -71,5 +47,29 @@ Exit and review & What the student could access, avoid, communicate, and influen
 \reflectionbox{\textbf{Practice artifact --- Pine Brook IGNITE sensory walk:} The completed walk rated the room ``sensory-supportive in its teaching practices but not yet fully sensory-designed.'' Picture choice boards, visual steps, pre-sorted materials, movement, and hands-on choices supported entry. During building, Chromebook audio, robot movement, table noise, teacher directions, and cleanup accumulated; no consistently marked low-sensory reset area was visible. One learner joined the blocks activity when a familiar laptop could remain nearby. The observation does not prove why the laptop helped, but it shows that removing an unnecessary either-or condition changed participation and warranted further inquiry.}
 
 \adaptationbox{Sensory-friendliness varies by person, activity, time, pain, fatigue, culture, and prior experience. A checklist cannot prescribe headphones, dim lighting, or breaks for everyone. Reviewers should also avoid creating a reset space that becomes exclusion or a reward contingent on compliance. The revision trigger is simple: if the support reduces visible behavior but also reduces communication, learning, or belonging, redesign it.}
+
+\vfill
+\begin{center}
+{\scriptsize\bfseries\color{DeepNavy}Placement Access Path: Make the Next Move Visible}\par
+\vspace{0.035in}
+\begin{tikzpicture}[
+  access/.style={draw=DeepNavy, rounded corners=2pt, minimum width=1.10in,
+    minimum height=0.46in, align=center, font=\tiny, inner sep=3pt},
+  next/.style={-{Latex[length=1.5mm]}, line width=0.65pt, draw=PrimaryRed}
+]
+\node[access, fill=SoftBlue] (goal) {\textbf{NAME GOAL}\\plain language};
+\node[access, fill=SoftGold, right=0.09in of goal] (show) {\textbf{SHOW FIRST STEP}\\model or example};
+\node[access, fill=SoftGreen, right=0.09in of show] (route) {\textbf{CHOOSE ROUTE}\\point, card, device};
+\node[access, fill=SoftRose, right=0.09in of route] (reset) {\textbf{RESET / HELP}\\visible checkpoint};
+\node[access, fill=SoftBlue, right=0.09in of reset] (proof) {\textbf{SHOW SUCCESS}\\save, explain, demonstrate};
+\draw[next] (goal) -- (show);
+\draw[next] (show) -- (route);
+\draw[next] (route) -- (reset);
+\draw[next] (reset) -- (proof);
+\end{tikzpicture}
+
+\vspace{0.025in}
+\parbox{0.92\textwidth}{\centering\tiny\textit{Placement-derived access pattern.} Grade 2 IGNITE planning paired a visible goal and modeled start with picture-rich choices, flexible response routes, a help/reset checkpoint, and an observable proof of completion.}
+\end{center}
 
 \sourcebox{Guggenheim sensory-environment course resource \citep{guggenheimSensory}; Michigan Developmental Disabilities Institute checklist \citep{michigan2025sensory}.}
