@@ -25,6 +25,32 @@ Review & Student outcomes and adult implementation & Was the option available, r
 \end{longtable}
 \normalsize
 
+\vfill
+\begin{center}
+{\scriptsize\bfseries\color{DeepNavy}PTR Alignment Check: One Access Problem, One Linked Plan}\par
+\vspace{0.035in}
+\begin{tikzpicture}[
+  ptr/.style={draw=DeepNavy, rounded corners=2pt, minimum width=0.92in,
+    minimum height=0.46in, align=center, font=\tiny, inner sep=3pt},
+  next/.style={-{Latex[length=1.45mm]}, line width=0.65pt, draw=PrimaryRed}
+]
+\node[ptr, fill=SoftGray] (observe) {\textbf{OBSERVE}\\verify};
+\node[ptr, fill=SoftGold, right=0.08in of observe] (hyp) {\textbf{HYPOTHESIZE}\\provisional};
+\node[ptr, fill=SoftBlue, right=0.08in of hyp] (prevent) {\textbf{PREVENT}\\change barrier};
+\node[ptr, fill=SoftGreen, right=0.08in of prevent] (teach) {\textbf{TEACH}\\usable message};
+\node[ptr, fill=SoftRose, right=0.08in of teach] (reinforce) {\textbf{REINFORCE}\\honor message};
+\node[ptr, fill=SoftBlue, right=0.08in of reinforce] (review) {\textbf{REVIEW}\\outcome + fidelity};
+\draw[next] (observe) -- (hyp);
+\draw[next] (hyp) -- (prevent);
+\draw[next] (prevent) -- (teach);
+\draw[next] (teach) -- (reinforce);
+\draw[next] (reinforce) -- (review);
+\end{tikzpicture}
+
+\vspace{0.02in}
+{\tiny If Prevent, Teach, and Reinforce do not address the same access hypothesis, return to the evidence rather than adding more consequences.}
+\end{center}
+
 \newpage
 \toolsection{Completed Assignment Artifact: Appendix 4.1 Snapshot}
 
@@ -46,6 +72,26 @@ Evidence still needed & Learner and family perspective; repeated observations; c
 \normalsize
 
 Implementation commitments are to build the team with the learner and family, collect repeated baseline evidence, link all three PTR components to one hypothesis, include adult and environmental actions, and decide what evidence will trigger a keep/change/stop decision.
+
+\begin{center}
+{\scriptsize\bfseries\color{DeepNavy}What the Placement Event Actually Established}\par
+\vspace{0.035in}
+\begin{tikzpicture}[
+  event/.style={draw=DeepNavy, rounded corners=2pt, minimum width=1.45in,
+    minimum height=0.54in, align=center, font=\tiny, inner sep=3pt},
+  next/.style={-{Latex[length=1.5mm]}, line width=0.65pt, draw=PrimaryRed}
+]
+\node[event, fill=SoftRose] (transition) {\textbf{ABRUPT TRANSITION}\\adult reaches for laptop};
+\node[event, fill=SoftGold, right=0.11in of transition] (protest) {\textbf{OBSERVED RESPONSE}\\voice rises; device held};
+\node[event, fill=SoftBlue, right=0.11in of protest] (change) {\textbf{CONDITION CHANGES}\\either--or demand removed};
+\node[event, fill=SoftGreen, right=0.11in of change] (join) {\textbf{PARTICIPATION}\\blocks + laptop nearby};
+\draw[next] (transition) -- (protest);
+\draw[next] (protest) -- (change);
+\draw[next] (change) -- (join);
+\node[draw=PrimaryRed, dashed, rounded corners=2pt, below=0.10in of $(protest.south)!0.5!(change.south)$,
+  text width=4.65in, align=center, font=\tiny, inner sep=3pt] {\textbf{Evidence boundary:} response-to-support is documented; behavioral function remains unknown.};
+\end{tikzpicture}
+\end{center}
 
 Constructing communicative competence requires more than presuming it: educators must make useful communication available and consequential throughout the day \citep{jorgensen2018competence}. A learner should not have to surrender a familiar support, become quiet, make eye contact, or follow an adult's preferred schedule to demonstrate success. Gardner's first-hand report warns that apparently effective intervention can still produce masking, shame, or weaker boundaries when conformity is the real outcome \citep{gardner2017firsthand}.
 
