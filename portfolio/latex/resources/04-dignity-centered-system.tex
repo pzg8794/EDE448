@@ -27,6 +27,28 @@ Continue & What question do you have, or what should we investigate next? & Curi
 
 The facilitator asks once, waits, and follows the learner's language rather than supplying the answer. ``Nothing yet,'' ``I did not like that,'' ``pass,'' and ``delete it'' are valid responses. A memo may be video, audio, AAC, typed text, drawing plus dictated caption, photographs selected by the learner, a partner-supported interview, or no recording.
 
+\vfill
+\begin{center}
+{\scriptsize\bfseries\color{DeepNavy}From Student Memo to the Next Opportunity}\par
+\vspace{0.035in}
+\begin{tikzpicture}[
+  memo/.style={draw=DeepNavy, rounded corners=2pt, minimum width=1.38in,
+    minimum height=0.50in, align=center, font=\tiny, inner sep=3pt},
+  next/.style={-{Latex[length=1.5mm]}, line width=0.65pt, draw=PrimaryRed}
+]
+\node[memo, fill=SoftBlue] (activity) {\textbf{ACTIVITY}\\work remains present};
+\node[memo, fill=SoftGold, right=0.12in of activity] (voice) {\textbf{STUDENT MEMO}\\do / feel / learn / continue};
+\node[memo, fill=SoftGreen, right=0.12in of voice] (review) {\textbf{REVIEW MEANING}\\keep, edit, correct, delete};
+\node[memo, fill=SoftRose, right=0.12in of review] (action) {\textbf{CHANGE NEXT MOVE}\\pace, material, question, route};
+\draw[next] (activity) -- (voice);
+\draw[next] (voice) -- (review);
+\draw[next] (review) -- (action);
+\end{tikzpicture}
+
+\vspace{0.025in}
+\parbox{0.90\textwidth}{\centering\tiny\textit{Implemented evidence loop.} The surviving Field Friday record includes a 43-second memo; its value is not the recording itself but whether reviewed student meaning can alter the next opportunity.}
+\end{center}
+
 \reflectionbox{\textbf{Artifact proof:} the Field Friday video index preserves 18 original recordings and de-identified transcripts. The memo clip began at 1:02:32 p.m. and lasted 43 seconds; adjacent clips preserve another youth's investigation question and a sampling-site hypothesis. Planning is not used as proof of implementation: the video/transcript record documents the routine, while later reflection documents interpretation.}
 
 \newpage
