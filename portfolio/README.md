@@ -4,7 +4,7 @@ The **Communication and Positive Behavioral Support Strategies and Resources Por
 
 ## Current State
 
-The canonical ten-resource LaTeX package is assembled in [`latex/`](latex/README.md). It compiled to a 26-page PDF and passed a page-by-page visual review on August 6, 2026. Every resource occupies two pages; the package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, and unified reference list.
+The canonical ten-resource LaTeX package is assembled in [`latex/`](latex/README.md). The artifact-grounded revision compiled to a 26-page PDF and passed a ten-spread visual review on August 6, 2026. Every resource occupies two pages; the package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, unified reference list, and a documented [Resource 1--10 practice-artifact trail](latex/README.md#practice-artifact-trail).
 
 Piter's final content approval and manual Blackboard submission remain. Nothing in this folder should be treated as submitted until a Blackboard receipt is confirmed.
 

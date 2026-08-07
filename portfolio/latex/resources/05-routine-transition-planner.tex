@@ -1,4 +1,4 @@
-\resourceheading{5}{Visual Routine and Transition Access Planner}{Classroom routines, executive-function access, and regulation}{Teachers, paraprofessionals, learners, and families}{Module 2 classroom plan, Module 1 sensory analysis, and EDU486 practice reflection}
+\resourceheading{5}{Visual Routine and Transition Access Planner}{Classroom routines, executive-function access, and regulation}{Teachers, paraprofessionals, learners, and families}{Module 2 classroom plan, Module 1 sensory analysis, and EDU486 Field Friday visual agenda}
 
 \toolsection{What This Resource Is}
 
@@ -6,24 +6,31 @@ This planner makes the route through a lesson or transition visible without turn
 
 Use it before a new routine, a high-load transition, a substitute day, group project, hands-on investigation, digital task, or any pattern where students appear ``not ready'' but the first step, endpoint, communication route, or sensory conditions are unclear.
 
-\toolsection{The Visible Route}
+\toolsection{Practice Artifact: Field Friday Visual Agenda}
+
+The agenda below reconstructs the participant-facing route used for the July 24 beach investigation. Its concrete verbs made the scientific sequence visible while the access strip kept response mode separate from evidence quality.
 
 \begin{center}
 \begin{tikzpicture}[
-  node distance=0.14in,
-  routebox/.style={draw=DeepNavy, rounded corners=2pt, text width=1.20in,
-    minimum height=0.62in, align=center, font=\small, inner sep=3pt},
-  flow/.style={-{Latex[length=2mm]}, line width=0.8pt, draw=PrimaryRed}
+  routebox/.style={draw=DeepNavy, rounded corners=2pt, text width=1.26in,
+    minimum height=0.42in, align=center, font=\scriptsize\bfseries, inner sep=2pt},
+  flow/.style={-{Latex[length=1.7mm]}, line width=0.7pt, draw=PrimaryRed}
 ]
-\node[routebox, fill=SoftBlue] (preview) {Preview purpose and route};
-\node[routebox, fill=SoftGold, right=of preview] (model) {Model one starting move};
-\node[routebox, fill=SoftGreen, right=of model] (work) {Investigate or practice};
-\node[routebox, fill=SoftRose, right=of work] (pause) {Pause, communicate, revise};
-\node[routebox, fill=SoftBlue, right=of pause] (close) {Close in more than one mode};
-\draw[flow] (preview) -- (model);
-\draw[flow] (model) -- (work);
-\draw[flow] (work) -- (pause);
-\draw[flow] (pause) -- (close);
+\node[routebox, fill=SoftGreen] (case) {1 CASE};
+\node[routebox, fill=SoftGold, right=0.12in of case] (predict) {2 PREDICT};
+\node[routebox, fill=SoftBlue, right=0.12in of predict] (look) {3 LOOK};
+\node[routebox, fill=SoftRose, right=0.12in of look] (magnify) {4 MAGNIFY};
+\node[routebox, fill=SoftRose, below=0.12in of case] (match) {5 MATCH};
+\node[routebox, fill=SoftGreen, right=0.12in of match] (sample) {6 SAMPLE};
+\node[routebox, fill=SoftGray, right=0.12in of sample] (wonder) {7 WONDER};
+\draw[flow] (case) -- (predict);
+\draw[flow] (predict) -- (look);
+\draw[flow] (look) -- (magnify);
+\draw[flow] (match) -- (sample);
+\draw[flow] (sample) -- (wonder);
+\node[draw=MidTeal, rounded corners=2pt, fill=white, below=0.12in of sample,
+  xshift=0.73in, text width=6.12in, align=center, font=\scriptsize, inner sep=3pt]
+  {\textbf{Choose a route:} point, draw, speak, write, photograph, work with a partner, ask us to write, or pass and join later.};
 \end{tikzpicture}
 \end{center}
 
@@ -56,7 +63,7 @@ Closure & Oral bias, public performance, rushed reflection & Prompt shown early,
 
 Record which routes were displayed, which were actually usable, what the learner communicated, whether the first step was accessible, where adult prompting increased, and what changed participation. Ask the learner: \textit{What should stay? What should change? What was missing?} The next plan should name one concrete redesign rather than asking the learner to ``try harder.''
 
-\reflectionbox{Across the Pine Brook sensory walk and EDU486 camp, access improved when directions were shorter, a first move was modeled, materials and options were visible, and participation did not depend on one spoken route. Reflection also showed that strong activity design can fail at closure or transition when time pressure narrows choices. The routine itself is therefore evidence, not neutral background \citep{campEvidence2026}.}
+\reflectionbox{\textbf{Artifact-to-revision trail:} Field Friday paired the seven-step agenda with a separate six-step sampling card: \textit{choose, frame, scoop, seal, label, map}. After the showcase, youth asked for numbered stations, more movement, and less rushing. The planner therefore keeps numbered actions and a visible response-route strip while treating timing as revisable. A strong investigation can still become inaccessible when closure compresses choices or the next entry point disappears \citep{campEvidence2026}.}
 
 \adaptationbox{Visual schedules can become coercive if adults use them only to insist that a student finish. Build in change language: \textit{not yet, different order, show me, more time, skip today,} and \textit{something else}. The goal is predictability with negotiation. For learners who find dense visuals distracting, reduce the display to the current and next step; for learners who need the whole route, keep the endpoint visible.}
 

@@ -65,6 +65,8 @@
 - [Main portfolio source](../portfolio/latex/main.tex)
 - [Ten numbered resource sources](../portfolio/latex/resources/)
 - [Unified portfolio bibliography](../portfolio/latex/references.bib)
+- [Resource 1--10 practice-artifact trail](../portfolio/latex/README.md#practice-artifact-trail)
+- [Portfolio artifact provenance and privacy boundaries](source-map.md#portfolio-practice-artifact-provenance)
 - [Local 26-page review PDF](../output/pdf/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf) (ignored by Git; not a submission receipt)
 - [Completed portfolio planning record](../portfolio/portfolio-plan.md)
 - [Planning-era resource template](../portfolio/resource-template.md)
