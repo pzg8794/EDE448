@@ -8,11 +8,11 @@ Research one AAC device or tool, summarize it, review its communication benefits
 - **Due:** August 10, 2026, 11:59 PM EDT
 - **Points:** 5
 - **Local prompt evidence:** `modules/Module3/assignments/aac-review/AAC Review (Class Discussion).png`
-- **Submission state:** TD Snap review posted August 9, 2026 and edited at 5:02 PM EDT; required classmate reply drafted but not posted
+- **Submission state:** TD Snap review posted August 9, 2026 and edited at 5:02 PM EDT; personalized reply to Avery's TD Snap review drafted but not posted
 
 ## Review Package
 
-- [Posted TD Snap review record and classmate reply draft](draft.md)
+- [Posted TD Snap review record and personalized reply to Avery](draft.md)
 - [Blackboard-ready access-to-agency visual](assets/td-snap-access-to-agency.png)
 - [Posted summary visual](assets/summary-tool.png)
 - [Posted benefits visual](assets/benefits-tool.png)
@@ -36,4 +36,4 @@ Research one AAC device or tool, summarize it, review its communication benefits
 
 ## Human Review
 
-Review the drafted reply, post it manually under the peer's TD Snap review, and then record the completion time in the Module 3 tracker. The draft is grounded in the peer's actual discussion of custom photographs and the monthly subscription barrier; no reply has been posted by Codex.
+Review the drafted reply, post it manually under Avery's TD Snap review, and then record the completion time in the Module 3 tracker. The response addresses Avery's specific examples of photographing a favorite toy, placing vocabulary on the main or category pages, using QuickFire and activity-specific pages, and schools facing a recurring `$9.99` per-student cost. No reply has been posted by Codex.
