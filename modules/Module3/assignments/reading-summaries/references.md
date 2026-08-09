@@ -25,11 +25,11 @@ Tuttle, M., & Carter, E. W. (2025). Classroom experiences of students with visua
 ## Local Course Evidence
 
 - `modules/Module3/Quick Guide for Module.pdf`
-- `modules/Module3/assignments/AAC Review (Class Discussion).png`
-- `modules/Module3/assignments/Communication Support Plan.pdf`
-- `modules/Module3/assignments/Journal_3.png`
-- `modules/Module3/assignments/Takeaways.png`
-- `modules/Module3/assignments/What do you know.png`
+- `modules/Module3/assignments/aac-review/AAC Review (Class Discussion).png`
+- `modules/Module3/assignments/communication-support-plan/Communication Support Plan.pdf`
+- `modules/Module3/assignments/module3-journal/Journal_3.png`
+- `modules/Module3/assignments/discussions/Takeaways.png`
+- `modules/Module3/assignments/discussions/What do you know.png`
 - `modules/Module3/Media/` source pages
 - `modules/Module3/Read/` source PDFs
 - `local-derived/pdf-markdown/modules/Module3/` searchable local conversions

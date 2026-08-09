@@ -7,7 +7,7 @@ The local Blackboard capture for Journal #3 says that the instructor has not add
 - **Blackboard:** [open the EDE448 course outline and select Module 3 > Journal #3](https://learn.rochester.edu/ultra/courses/_113760_1/outline?courseId=_113760_1)
 - **Due:** August 10, 2026, 11:59 PM EDT
 - **Points:** 10
-- **Local prompt evidence:** `modules/Module3/assignments/Journal_3.png`
+- **Local prompt evidence:** `modules/Module3/assignments/module3-journal/Journal_3.png`
 - **Submission state:** almost-ready review draft only; nothing has been submitted
 
 ## Review Package
