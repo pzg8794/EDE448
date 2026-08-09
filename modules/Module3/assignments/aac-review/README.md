@@ -15,10 +15,19 @@ Research one AAC device or tool, summarize it, review its communication benefits
 - [Personalized TD Snap review draft](draft.md)
 - [Blackboard-ready access-to-agency visual](assets/td-snap-access-to-agency.png)
 - [Editable visual source](assets/td-snap-access-to-agency.tex)
-- [Module 3 reference list](../references.md)
+- [Module 3 reference list](../reading-summaries/references.md)
 - [AAC system overview](../reading-summaries/themed_overview/augmentative-and-alternative-communication-aac-themed-overview.md)
 - [Norrie et al. implementation study](../reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md)
 - [Mirenda on multimodal AAC systems](../reading-summaries/themed_overview/developing-acquiring-communication-aids-themed-overview.md)
+
+## Current Web Sources Checked
+
+- [Tobii Dynavox TD Snap overview](https://www.tobiidynavox.com/pages/td-snap)
+- [Tobii Dynavox TD Snap Motor Plan](https://us.tobiidynavox.com/pages/td-snap-motor-plan)
+- [Apple App Store TD Snap listing](https://apps.apple.com/us/app/td-snap/id1072799231)
+- [DoDEA AAC Toolkit](https://sites.google.com/student.dodea.edu/dodea-aac-toolkit/)
+- [DoDEA AAC Toolkit parent training](https://sites.google.com/student.dodea.edu/dodea-aac-toolkit/parent-training)
+- [ASHA AAC overview](https://www.asha.org/njc/aac/)
 
 ## Human Review
 

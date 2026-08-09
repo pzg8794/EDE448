@@ -24,9 +24,9 @@
 ]
 
 \node[font=\bfseries\Large, text=DeepNavy] (title) at (6.8,4.6)
-  {TD Snap Is One Part of a Communication System};
+  {TD Snap Is One Part of a Communication Access System};
 \node[font=\small, text=DeepNavy, align=center] at (6.8,4.05)
-  {Meaningful access depends on the communicator, the access route, vocabulary, partners, and whether the message changes what happens next.};
+  {Meaningful access depends on the communicator, the route, vocabulary, partners, body state, and whether the message changes what happens next.};
 
 \node[flowstep, fill=SoftGold] (intent) at (0.9,2.55) {\textbf{Student intent}\\idea, question, refusal, joke, repair};
 \node[flowstep, fill=SoftBlue, right=0.52cm of intent] (access) {\textbf{Access route}\\touch, eye gaze, switch, scanning, low-tech};
@@ -40,17 +40,18 @@
 \draw[flow] (partner) -- (agency);
 
 \node[font=\bfseries\small, text=MidTeal] at (6.8,0.76) {Conditions that must travel with the device};
-\node[support] (preference) at (1.55,-0.02) {Communicator preference and consent};
-\node[support, right=0.30cm of preference] (identity) {Identity, culture, and bilingual language};
-\node[support, right=0.30cm of identity] (backup) {Reliable low-tech backup};
-\node[support, right=0.30cm of backup] (training) {Partner training and technical support};
+\node[support] (preference) at (1.15,-0.02) {Communicator preference and consent};
+\node[support, right=0.24cm of preference] (identity) {Identity, culture, and Spanish--English access};
+\node[support, right=0.24cm of identity] (health) {Health, energy, and re-entry language};
+\node[support, right=0.24cm of health] (backup) {Reliable low-tech backup};
+\node[support, right=0.24cm of backup] (training) {Partner training and technical support};
 
 \node[draw=PrimaryRed, dashed, rounded corners=3pt, fill=SoftGray,
   text width=12.45cm, align=center, inner sep=6pt, at={(6.8,-2.10)},
   font=\small] (audit)
   {\textbf{EQUITAS test:} Can the student choose, refuse, comment, question, repair, participate academically, and influence what happens next? If not, revise the system rather than blame the student.};
 
-\node[draw=MidTeal, rounded corners=5pt, fit=(preference)(identity)(backup)(training),
+\node[draw=MidTeal, rounded corners=5pt, fit=(preference)(identity)(health)(backup)(training),
   inner sep=8pt] {};
 
 \end{tikzpicture}

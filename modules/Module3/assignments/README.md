@@ -14,8 +14,8 @@ What does meaningful communication look like for students with complex needs?
 
 - [Complete Module 3 review guide](REVIEW-GUIDE.md)
 - [Module 3 task tracker](module3-task-tracker.md)
-- [References and source trail](references.md)
-- [Local readings index](readings-index.md)
+- [References and source trail](reading-summaries/references.md)
+- [Local readings index](reading-summaries/readings-index.md)
 - [Comprehensive themed summary](reading-summaries/comprehensive_themed_overview.md)
 - [Every source-specific themed summary](reading-summaries/README.md)
 - [Media synthesis and review guide](reading-summaries/media-synthesis.md)
@@ -26,8 +26,8 @@ What does meaningful communication look like for students with complex needs?
 | Blackboard Item | Due | Review Material |
 | --- | --- | --- |
 | What Do You Know? | No date shown in local capture | [Prompt and submission-ready personalized draft](discussions/README.md#what-do-you-know) |
-| AAC Review | August 10, 11:59 PM EDT | [TD Snap post, sources, original visual, and reply structure](aac-review/README.md) |
-| [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and five-page LaTeX review package](communication-support-plan/README.md) |
+| AAC Review | August 10, 11:59 PM EDT | [TD Snap post, current source links, updated visual, and reply structure](aac-review/README.md) |
+| [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and ten-page LaTeX review package](communication-support-plan/README.md) |
 | Journal #3 | August 10, 11:59 PM EDT | [Markdown and four-page LaTeX review package](module3-journal/README.md) |
 | Takeaways | No date shown in local capture | [Prompt and personalized draft](discussions/README.md#takeaways) |
 
