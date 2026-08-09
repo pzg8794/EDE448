@@ -42,7 +42,7 @@ Portfolio harvesting:
 
 Work blocks:
 
-- Review the [direct Module 2 assignment and repository links](../assignments/module2/README.md#direct-assignment-links).
+- Review the [direct Module 2 assignment and repository links](../modules/Module2/assignments/README.md#direct-assignment-links).
 - Add citations and final personal field-practice details.
 - Convert the plan into the required submission format.
 - Complete PTR Planning, the Positive Classroom Support Plan, and Module #2 Journal by July 31, 11:59 PM EDT.
@@ -55,7 +55,7 @@ Work blocks:
 
 Work blocks:
 
-- Use the [Module 3 review guide](../assignments/module3/REVIEW-GUIDE.md).
+- Use the [Module 3 review guide](../modules/Module3/assignments/REVIEW-GUIDE.md).
 - Engage with the selected Norrie et al., Downing et al., and Peckham-Hardin readings.
 - Watch/listen to one Module 3 media source and record one concrete observation.
 - Review and post the AAC Review, then write a real classmate reply.

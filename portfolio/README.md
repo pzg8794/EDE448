@@ -4,7 +4,7 @@ The **Communication and Positive Behavioral Support Strategies and Resources Por
 
 ## Current State
 
-The canonical ten-resource LaTeX package is assembled in [`latex/`](latex/README.md). The restricted internal revision contains 20 resource pages and six framing pages, for 26 physical pages total; every resource occupies two pages. It passed a full 13-spread visual review on August 6, 2026. The package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, unified reference list, and a documented [Resource 1--10 practice-artifact trail](latex/README.md#practice-artifact-trail).
+The canonical ten-resource LaTeX package is assembled in the private dedicated checkout at `portfolio/repository/`. The restricted internal revision contains 20 resource pages and six framing pages, for 26 physical pages total; every resource occupies two pages. It passed a full 13-spread visual review on August 6, 2026. The package includes an assignment/rubric map, portfolio map, evidence boundary, final synthesis, unified reference list, and a documented Resource 1--10 practice-artifact trail.
 
 Piter's final content approval and manual Blackboard submission remain. Nothing in this folder should be treated as submitted until a Blackboard receipt is confirmed.
 
@@ -32,7 +32,7 @@ The outer EDE448 course repository remains public and excludes all six image ass
 - [Private GitHub/Overleaf portfolio repository](https://github.com/pzg8794/EDE448-Communication_and_Behavioral_Support_Portfolio)
 - Local independent checkout: `portfolio/repository/` (ignored by this course repository)
 
-Use the private dedicated repository for Overleaf authoring and the complete restricted asset package. Pull remote edits into `portfolio/repository/` and compile and review them there. Mirror non-identifying source changes into [`portfolio/latex/`](latex/README.md), but never add identifiable image assets or the restricted PDF to the public course repository. The two repositories keep independent Git histories.
+Use the private dedicated repository for Overleaf authoring and the complete restricted asset package. Pull remote edits into `portfolio/repository/` and compile and review them there. Do not create a second public mirror of the same LaTeX package in this course repository; the public course repo documents the source trail, boundaries, and planning provenance while the dedicated private repository keeps the full portfolio history.
 
 ## Assignment Core
 
@@ -67,11 +67,11 @@ The final portfolio uses **Communication as Access-to-Agency** as its organizing
 ## Canonical Files
 
 - [Private GitHub/Overleaf workspace](https://github.com/pzg8794/EDE448-Communication_and_Behavioral_Support_Portfolio)
-- [Editable LaTeX package and build instructions](latex/README.md)
-- [Main document source](latex/main.tex)
-- [Ten numbered resource sources](latex/resources/)
-- [Unified bibliography](latex/references.bib)
-- [Local review PDF](../output/pdf/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf) (ignored by Git)
+- Editable LaTeX package and build instructions: `portfolio/repository/README.md`
+- Main document source: `portfolio/repository/main.tex`
+- Ten numbered resource sources: `portfolio/repository/resources/`
+- Unified bibliography: `portfolio/repository/references.bib`
+- Local review PDF: `portfolio/output/EDE448-Communication-and-Behavioral-Support-Portfolio.pdf` (ignored by Git)
 
 ## Planning Provenance
 

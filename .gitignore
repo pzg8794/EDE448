@@ -42,12 +42,17 @@ Icon?
 # Local-only derived text/Markdown copies of course PDFs.
 /local-derived/
 
+# Temporary review/render/build workspace. Anything created here must be
+# resolved or removed before the task is closed.
+/tmp/
+
 # Dedicated assignment repositories are separate Git histories kept locally
 # beneath their assignment folders. The public course repo links to them but
 # does not absorb their files or .git metadata.
 /assignments/*/*/repository/
+/modules/Module*/assignments/*/repository/
 /portfolio/repository/
 
 # Public-safe, original assignment visuals generated for Module 3.
-!assignments/module3/aac-review/assets/
-!assignments/module3/aac-review/assets/*.png
+!modules/Module3/assignments/aac-review/assets/
+!modules/Module3/assignments/aac-review/assets/*.png

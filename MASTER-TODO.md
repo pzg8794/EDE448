@@ -13,33 +13,33 @@ The **Puzzle Plan** combines lived experience, education, data, research, techno
 | Priority | Date | Task | State | Start Here |
 | --- | --- | --- | --- | --- |
 | 1 | August 7 | Review and submit final 10-resource portfolio | Restricted package compiled and visually reviewed: 20 resource pages plus 6 framing pages; submission unconfirmed | [Portfolio assignment and package](portfolio/README.md) |
-| 2 | August 7 early target; August 10 Blackboard deadline | Review and complete Module 3 READ/MEDIA and assignments | Comprehensive review package prepared; nothing posted or submitted | [Module 3 review guide](assignments/module3/REVIEW-GUIDE.md) |
-| 3 | Now | Reconcile overdue/unconfirmed Module 2 items | PTR confirmed submitted; other items remain unconfirmed | [Module 2 review guide](assignments/module2/REVIEW-GUIDE.md) |
-| 4 | Now | Confirm Module 1 Blackboard receipts | Dedicated packages exist; submission state not confirmed here | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
+| 2 | August 7 early target; August 10 Blackboard deadline | Review and complete Module 3 READ/MEDIA and assignments | Comprehensive review package prepared; nothing posted or submitted | [Module 3 review guide](modules/Module3/assignments/REVIEW-GUIDE.md) |
+| 3 | Now | Reconcile overdue/unconfirmed Module 2 items | PTR confirmed submitted; other items remain unconfirmed | [Module 2 review guide](modules/Module2/assignments/REVIEW-GUIDE.md) |
+| 4 | Now | Confirm Module 1 Blackboard receipts | Dedicated packages exist; submission state not confirmed here | [Module 1 tracker](modules/Module1/assignments/module1-task-tracker.md) |
 
 ## Module 1
 
 | Task | Blackboard Due | Current State | Review / Repository |
 | --- | --- | --- | --- |
-| What Do You Know? | Module opening | Draft exists; posting unconfirmed | [Discussion draft](assignments/module1/discussions/what-do-you-know.md) |
-| READ three texts | Module work | Selected and summarized | [Reading summaries](assignments/module1/reading-summaries/README.md) |
-| LISTEN/WATCH one source | Module work | Source selected in current package | [Module 1 overview](assignments/module1/README.md) |
-| Module 1 Journal | July 15, 11:59 PM EDT | Dedicated paper exists; submission unconfirmed | [Journal package](assignments/module1/module1-journal/README.md) |
-| Sensory Walk Experience | July 15, 11:59 PM EDT | Dedicated package exists; submission unconfirmed | [Sensory Walk package](assignments/module1/sensory-walk-experience/README.md) |
-| Teach a Kit for Kids Lesson | July 15, 11:59 PM EDT | Simulation-first package exists; taught-lesson evidence must remain truthful | [Kit for Kids package](assignments/module1/teach-a-kit-for-kids-lesson/README.md) |
-| Takeaways | July 15, 11:59 PM EDT | Draft exists; posting unconfirmed | [Takeaways](assignments/module1/discussions/takeaways.md) |
+| What Do You Know? | Module opening | Draft exists; posting unconfirmed | [Discussion draft](modules/Module1/assignments/discussions/what-do-you-know.md) |
+| READ three texts | Module work | Selected and summarized | [Reading summaries](modules/Module1/assignments/reading-summaries/README.md) |
+| LISTEN/WATCH one source | Module work | Source selected in current package | [Module 1 overview](modules/Module1/assignments/README.md) |
+| Module 1 Journal | July 15, 11:59 PM EDT | Dedicated paper exists; submission unconfirmed | [Journal package](modules/Module1/assignments/module1-journal/README.md) |
+| Sensory Walk Experience | July 15, 11:59 PM EDT | Dedicated package exists; submission unconfirmed | [Sensory Walk package](modules/Module1/assignments/sensory-walk-experience/README.md) |
+| Teach a Kit for Kids Lesson | July 15, 11:59 PM EDT | Simulation-first package exists; taught-lesson evidence must remain truthful | [Kit for Kids package](modules/Module1/assignments/teach-a-kit-for-kids-lesson/README.md) |
+| Takeaways | July 15, 11:59 PM EDT | Draft exists; posting unconfirmed | [Takeaways](modules/Module1/assignments/discussions/takeaways.md) |
 
 ## Module 2
 
 | Task | Blackboard Due | Current State | Review / Repository |
 | --- | --- | --- | --- |
-| What Do You Know? | No date recorded | Review draft; posting unconfirmed | [Discussion draft](assignments/module2/discussions/what-do-you-know.md) |
-| READ three texts, including PTR | Module work | Selected and summarized | [Reading summaries](assignments/module2/reading-summaries/README.md) |
-| Optional media | Module work | Edutopia source critically synthesized | [Media synthesis](assignments/module2/reading-summaries/media-synthesis.md) |
-| Prevent Teach Reinforce Planning | July 31, 11:59 PM EDT | **Piter confirmed submitted** | [PTR package](assignments/module2/prevent-teach-reinforce-planning/README.md) |
-| Positive Classroom Support Plan | July 31, 11:59 PM EDT | Six-page dedicated paper prepared; submission unconfirmed | [Words That Have Evidence](assignments/module2/positive-classroom-support-plan/README.md) |
-| Module 2 Journal | July 31, 11:59 PM EDT | Six-page dedicated paper prepared; not submitted through this workflow | [Journal package](assignments/module2/module2-journal/README.md) |
-| Takeaways | No date shown | Review draft; posting unconfirmed | [Takeaways](assignments/module2/discussions/takeaways.md) |
+| What Do You Know? | No date recorded | Review draft; posting unconfirmed | [Discussion draft](modules/Module2/assignments/discussions/what-do-you-know.md) |
+| READ three texts, including PTR | Module work | Selected and summarized | [Reading summaries](modules/Module2/assignments/reading-summaries/README.md) |
+| Optional media | Module work | Edutopia source critically synthesized | [Media synthesis](modules/Module2/assignments/reading-summaries/media-synthesis.md) |
+| Prevent Teach Reinforce Planning | July 31, 11:59 PM EDT | **Piter confirmed submitted** | [PTR package](modules/Module2/assignments/prevent-teach-reinforce-planning/README.md) |
+| Positive Classroom Support Plan | July 31, 11:59 PM EDT | Six-page dedicated paper prepared; submission unconfirmed | [Words That Have Evidence](modules/Module2/assignments/positive-classroom-support-plan/README.md) |
+| Module 2 Journal | July 31, 11:59 PM EDT | Six-page dedicated paper prepared; not submitted through this workflow | [Journal package](modules/Module2/assignments/module2-journal/README.md) |
+| Takeaways | No date shown | Review draft; posting unconfirmed | [Takeaways](modules/Module2/assignments/discussions/takeaways.md) |
 
 ## Module 3
 
@@ -55,7 +55,7 @@ The **Puzzle Plan** combines lived experience, education, data, research, techno
 | Journal #3 | August 10, 11:59 PM EDT | Markdown and four-page LaTeX package prepared; media placeholder remains | Confirm prompt, insert verified media moment, submit manually |
 | Takeaways | No date shown locally | Personalized source-specific draft prepared | Confirm READ/MEDIA and post manually |
 
-Direct links and all working files: [Module 3 assignment map](assignments/module3/README.md#direct-assignment-links).
+Direct links and all working files: [Module 3 assignment map](modules/Module3/assignments/README.md#direct-assignment-links).
 
 ## Final Portfolio
 

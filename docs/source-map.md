@@ -18,23 +18,23 @@ This repo documents source provenance without publishing raw course packets.
 | --- | --- |
 | `Summer 2026 EDE 448 /Communication and Behavior Syllabus.docx` | Course description, learning outcomes, grading policy, AI policy |
 | `Summer 2026 EDE 448 /Summer 2026 EDE Communication and Positive Behavioral Supports for Students with Autism and Other Complex Needs.docx` | Module dates, readings, media, assignment descriptions |
-| `Module Directions.pdf` | Module structure |
-| `Module1/Quick Guide for Module.pdf` | Module 1 summary and assignment quick guide |
-| `Module2/Quick Guide for Module.pdf` | Module 2 summary and assignment quick guide |
-| `Module3/Quick Guide for Module.pdf` | Module 3 summary and assignment quick guide |
-| `Module1/assignments/Sensory Walk Experience.pdf` | Sensory Walk submission requirements |
-| `Module1/assignments/Teach a Kit for Kids Lesson.pdf` | Kit for Kids submission requirements |
-| `Module2/assignments/Prevent Teach Reinforce Planning.pdf` | PTR planning submission requirements |
-| `Module2/assignments/Positive Classroom Support Plan.pdf` | Positive Classroom Support Plan submission requirements |
-| `Module3/assignments/Communication Support Plan.pdf` | Communication Support Plan submission requirements |
-| `Module3/assignments/AAC Review (Class Discussion).png` | AAC Review prompt, due date, points, and posting/reply requirements |
-| `Module3/assignments/Journal_3.png` | Journal #3 due date and confirmation that no separate prompt was added |
-| `Module3/assignments/Takeaways.png` | Module 3 Takeaways prompt |
-| `Module3/assignments/What do you know.png` | Module 3 opening discussion prompt |
-| `Module3/Media/` | Local source pages for the four Module 3 media choices |
-| `Comulative Assignment Information/Communication and Behavior Support Portfolio Assignment Information.pdf` | Final portfolio requirements |
-| `Comulative Assignment Information/Classroom Layout Plan.docx` | Example classroom support/layout artifact |
-| `Comulative Assignment Information/Organizational Strategies.docx` | Example classroom organization supports |
+| `modules/Module Directions.pdf` | Module structure |
+| `modules/Module1/Quick Guide for Module.pdf` | Module 1 summary and assignment quick guide |
+| `modules/Module2/Quick Guide for Module.pdf` | Module 2 summary and assignment quick guide |
+| `modules/Module3/Quick Guide for Module.pdf` | Module 3 summary and assignment quick guide |
+| `modules/Module1/assignments/Sensory Walk Experience.pdf` | Sensory Walk submission requirements |
+| `modules/Module1/assignments/Teach a Kit for Kids Lesson.pdf` | Kit for Kids submission requirements |
+| `modules/Module2/assignments/Prevent Teach Reinforce Planning.pdf` | PTR planning submission requirements |
+| `modules/Module2/assignments/Positive Classroom Support Plan.pdf` | Positive Classroom Support Plan submission requirements |
+| `modules/Module3/assignments/Communication Support Plan.pdf` | Communication Support Plan submission requirements |
+| `modules/Module3/assignments/AAC Review (Class Discussion).png` | AAC Review prompt, due date, points, and posting/reply requirements |
+| `modules/Module3/assignments/Journal_3.png` | Journal #3 due date and confirmation that no separate prompt was added |
+| `modules/Module3/assignments/Takeaways.png` | Module 3 Takeaways prompt |
+| `modules/Module3/assignments/What do you know.png` | Module 3 opening discussion prompt |
+| `modules/Module3/Media/` | Local source pages for the four Module 3 media choices |
+| `portfolio/Communication and Behavior Support Portfolio Assignment Information.pdf` | Final portfolio requirements |
+| `portfolio/Classroom Layout Plan.docx` | Example classroom support/layout artifact |
+| `portfolio/Organizational Strategies.docx` | Example classroom organization supports |
 
 ## Prior Work Used For Personalization
 
@@ -55,9 +55,9 @@ This repo documents source provenance without publishing raw course packets.
 
 | Source | Portfolio use and boundary |
 | --- | --- |
-| `assignments/module1/sensory-walk-experience/final.md` | Resource 1's Pine Brook sensory conditions, environmental redesign, and laptop/blocks observation |
-| `assignments/module1/teach-a-kit-for-kids-lesson/final.md` | Resource 2's taught Grade 2 lesson sequence and two anonymous student applications |
-| `assignments/module2/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md` | Resource 3's evidence-supported PTR checklist snapshot and explicit unknowns |
+| `modules/Module1/assignments/sensory-walk-experience/final.md` | Resource 1's Pine Brook sensory conditions, environmental redesign, and laptop/blocks observation |
+| `modules/Module1/assignments/teach-a-kit-for-kids-lesson/final.md` | Resource 2's taught Grade 2 lesson sequence and two anonymous student applications |
+| `modules/Module2/assignments/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md` | Resource 3's evidence-supported PTR checklist snapshot and explicit unknowns |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/transcripts/camp-clean/`, reviewed dated original-video indexes, and `_local-course-materials/camp-media/hub-ready-gallery/day-3-tuesday/day3-one-frame-per-video-contact-sheet.jpg` | Resource 4's implemented post-activity memo routine and de-identified transcript evidence; the restricted Warner submission embeds source frames from Videos 06--08 under signed parent/guardian consent; Day 5 has no source video |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/print-packages/2026-07-30-showcase-trifold/00-SEND-TO-ZEN/02-TRIFOLD-BOARD-3-PANEL-PREVIEW.png` | Title-page showcase strip connecting investigations, model revision, living-systems evidence, and youth-led action; restricted to the Warner submission package |
 | `/Users/pitergarcia/DataScience/Semester4(UofR)/EDU486/_local-course-materials/share-ready/Invisible-Invaders-Recaps-Souvenirs-Activity-Images/` and reviewed Day 1--5 whole-day story visuals | Resource 5's personalized souvenirs and Resource 7's five reviewed day-recap decks; the restricted Warner submission embeds one actual Day 3 souvenir page, one Day 3 recap overview, and a five-day archive strip under signed parent/guardian consent; photographs support action and context but do not independently prove understanding |
@@ -76,19 +76,19 @@ This repo documents source provenance without publishing raw course packets.
 
 | Item | Due Status | Repository Review |
 | --- | --- | --- |
-| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR draft](../assignments/module2/prevent-teach-reinforce-planning/draft.md) and [Appendix 4.1 notes](../assignments/module2/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md) |
-| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](../assignments/module2/positive-classroom-support-plan/draft.md) |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [PTR draft](../modules/Module2/assignments/prevent-teach-reinforce-planning/draft.md) and [Appendix 4.1 notes](../modules/Module2/assignments/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md) |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Support-plan draft](../modules/Module2/assignments/positive-classroom-support-plan/draft.md) |
 | [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | July 31, 2026, 11:59 PM EDT | [Authorized GitHub/Overleaf working repository](https://github.com/pzg8794/EDE448-Module2_Journal) |
-| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](../assignments/module2/discussions/takeaways.md) |
+| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | No due date shown in supplied listing | [Takeaways draft](../modules/Module2/assignments/discussions/takeaways.md) |
 
 ## Module 3 Assignment Destinations
 
 | Item | Due Status | Repository Review |
 | --- | --- | --- |
-| AAC Review | August 10, 2026, 11:59 PM EDT | [AAC Review package](../assignments/module3/aac-review/README.md) |
-| [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Separate due date not visible; Module 3 ends August 10 | [Support-plan package](../assignments/module3/communication-support-plan/README.md) |
-| Journal #3 | August 10, 2026, 11:59 PM EDT | [Journal package](../assignments/module3/module3-journal/README.md) |
-| What Do You Know? and Takeaways | No due date shown in local captures | [Discussion prompts and drafts](../assignments/module3/discussions/README.md) |
+| AAC Review | August 10, 2026, 11:59 PM EDT | [AAC Review package](../modules/Module3/assignments/aac-review/README.md) |
+| [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Separate due date not visible; Module 3 ends August 10 | [Support-plan package](../modules/Module3/assignments/communication-support-plan/README.md) |
+| Journal #3 | August 10, 2026, 11:59 PM EDT | [Journal package](../modules/Module3/assignments/module3-journal/README.md) |
+| What Do You Know? and Takeaways | No due date shown in local captures | [Discussion prompts and drafts](../modules/Module3/assignments/discussions/README.md) |
 
 The local captures do not preserve direct item IDs for AAC Review, Journal #3, or the two discussions. Their landing pages use the authenticated course-outline destination rather than guessed links.
 

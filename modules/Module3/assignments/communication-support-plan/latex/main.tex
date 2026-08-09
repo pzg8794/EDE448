@@ -1,0 +1,370 @@
+\documentclass[11pt]{article}
+
+\usepackage[margin=0.6in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{caption}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{ragged2e}
+\usepackage{setspace}
+\usepackage{enumitem}
+\usepackage{needspace}
+\usepackage[table]{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,fit}
+\usepackage[natbibapa]{apacite}
+
+\definecolor{PrimaryRed}{HTML}{8B1E1E}
+\definecolor{DeepNavy}{HTML}{15324A}
+\definecolor{MidTeal}{HTML}{287D7A}
+\definecolor{SoftBlue}{HTML}{DDEEFF}
+\definecolor{SoftGreen}{HTML}{E4F1E8}
+\definecolor{SoftGold}{HTML}{F8EDC7}
+\definecolor{SoftRose}{HTML}{F5E2E7}
+\definecolor{SoftGray}{HTML}{F4F4F4}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=DeepNavy,
+  urlcolor=DeepNavy,
+  citecolor=DeepNavy,
+  pdftitle={Communication That Travels With the Student},
+  pdfauthor={Piter Zacari Garcia Bautista},
+  pdfsubject={EDE 448 Module 3 Communication Support Plan},
+  pdfkeywords={AAC, neurodivergence, CLD, bilingual communication, nonspeaking students, home-school communication, Puzzle Plan, EQUITAS}
+}
+\setlength{\parindent}{0pt}
+\setstretch{1.05}
+\setlist[itemize]{leftmargin=0.23in,itemsep=0.02in,topsep=0.04in}
+\captionsetup{font=small,labelfont=bf,labelsep=period}
+\bibliographystyle{apacite}
+
+\newcommand{\reviewsection}[1]{%
+  \Needspace{4\baselineskip}
+  \vspace{0.08in}\noindent{\normalsize\bfseries\color{PrimaryRed}#1}
+  \par\vspace{0.025in}
+}
+
+\newcommand{\tableheaderfour}[4]{%
+  \rowcolor{PrimaryRed}
+  \color{white}\bfseries #1 &
+  \color{white}\bfseries #2 &
+  \color{white}\bfseries #3 &
+  \color{white}\bfseries #4 \\
+}
+
+\begin{document}
+
+\hypersetup{pageanchor=false}
+\begin{titlepage}
+\newgeometry{margin=0.7in}
+\thispagestyle{empty}
+
+\begin{center}
+{\large University of Rochester\\}
+{\normalsize Warner School of Education\\[0.15in]}
+
+{\color{PrimaryRed}\rule{\textwidth}{1.4pt}}\\[0.12in]
+{\Huge\bfseries Communication That Travels\\[0.07in]
+With the Student}\\[0.15in]
+{\huge A Neurodiversity-Affirming and\\[0.06in]
+Culturally Responsive Support Plan}\\[0.12in]
+{\Large AAC, Bilingual Access, Partner Practice, and Home--School Continuity}\\[0.14in]
+{\large EDE 448 -- Module 3 Assignment}\\[0.10in]
+
+\vfill
+
+{\color{PrimaryRed}\rule{0.78\textwidth}{0.7pt}}\\[0.18in]
+
+\colorbox{SoftBlue}{%
+\parbox{0.88\textwidth}{%
+\centering\small\vspace{0.02in}
+\textbf{Communication Access Travels Across Languages, Tools, Partners, Places, and Routines}\\[0.04in]
+The plan centers two fictional composite neurodivergent learners and turns documented camp and teaching-placement strategies into concrete communication supports.
+}%
+}
+\end{center}
+
+\vfill
+
+\begin{center}
+\renewcommand{\arraystretch}{1.18}
+\setlength{\tabcolsep}{4pt}
+\begin{tabular}{>{\bfseries\RaggedLeft\arraybackslash}p{1.85in} >{\RaggedRight\arraybackslash}p{5.0in}}
+Student & Piter Zacari Garcia Bautista \\
+Assignment & Communication Support Plan \\
+Course & EDE 448 -- Communication and Positive Behavioral Supports for Students with Autism and Other Complex Needs \\
+Planning Context & Inclusive upper-elementary STEM and technology routines \\
+Composite Learners & Neurodivergent CLD Spanish--English learner and neurodivergent multimodal learner with a motor-speech disability \\
+Applied Experience & EDU486 Invisible Invaders camp and K--5 technology teaching placement \\
+Interpretive Framework & Puzzle Plan, with EQUITAS at its heart \\
+\end{tabular}
+\end{center}
+
+\vfill
+
+\begin{center}
+\begin{minipage}{0.92\textwidth}
+\centering\itshape
+The goal is reliable student authorship across people, places, languages, messages, and moments.\\
+{\color{PrimaryRed}\rule{4.4in}{0.8pt}}
+\end{minipage}
+\end{center}
+
+\vfill
+
+\begin{center}
+\begin{minipage}{0.95\textwidth}
+\small
+The two student profiles in this plan are fictional composites created for the assignment. Their neurodivergence, communication profiles, and support needs belong to the fictional characters. De-identified camp and teaching-placement records contribute documented instructional strategies, participation patterns, and examples of how access changed when adults adjusted the environment. Puzzle Plan connects those pieces so that communication, culture, language, sensory access, partner behavior, family knowledge, and student outcomes stay visible together. EQUITAS asks whose knowledge enters the plan and whether each support expands dignity, agency, belonging, and access.
+\end{minipage}
+\end{center}
+
+\restoregeometry
+\end{titlepage}
+\hypersetup{pageanchor=true}
+\pagenumbering{arabic}
+
+\reviewsection{Purpose and Student Design}
+
+This plan supports two nonspeaking upper-elementary learners during inclusive STEM and technology routines and the home--school transition that follows them. Both students are neurodivergent. Mateo is a culturally and linguistically diverse Spanish--English learner who communicates through a bilingual AAC system, typing, photographs, gesture, pointing, objects, and selected written words. Eli has a fictional motor-speech disability that makes speech production effortful and unreliable; he communicates through AAC, gesture, facial expression, movement, photographs, objects, drawing, and occasional vocal approximations. Each learner needs a full communication system that supports academic ideas, social connection, refusal, repair, sensory communication, peer participation, and influence over what happens next.
+
+The assignment permits a plan for a student or students who are nonspeaking, which makes a two-student design appropriate for examining how communication support changes across language, sensory access, motivation, partner behavior, and preferred activity routes. The plan extends my earlier EDE448 work on access and agency \citep{garciabautista2026ptr,garciabautista2026module2journal} and uses the portfolio strategies on AAC selection, low-tech continuity, flexible peer roles, and student-centered evidence as implementation tools.
+
+\reviewsection{Student A: Mateo -- Neurodivergent CLD Spanish--English Communicator}
+
+Mateo is a fictional neurodivergent CLD student whose primary home language is Spanish and whose school environment uses English. He is nonspeaking and communicates through a bilingual speech-generating AAC system, typing, photographs, pointing, gesture, and familiar written words. His receptive access improves when instructions are demonstrated, visually sequenced, connected to a concrete goal, and presented one step at a time. Technology, coding, building, visual media, and opportunities to demonstrate competence are strong entry points for communication.
+
+Teaching-placement evidence directly informs this profile. In one documented technology lesson, a student interface appeared in Spanish during stepwise editing support. The interaction continued through visual demonstration, pointing, and short directions; the student completed the editing step and the group moved into successful production work during the same session \citep{placementEvidence2026}. The plan carries that practice forward through bilingual vocabulary, interface-language awareness, visual modeling, and flexible response routes.
+
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{1.16in} >{\RaggedRight\arraybackslash}p{2.50in} >{\RaggedRight\arraybackslash}p{3.02in}}
+\rowcolor{PrimaryRed}
+\color{white}\bfseries Area & \color{white}\bfseries Mateo's Communication Need & \color{white}\bfseries Planning Response \\
+Bilingual access & Spanish carries family, identity, and meaning; English carries much of the school routine & Keep important vocabulary available in Spanish and English; allow translanguaging across AAC, typing, symbols, and written words \\
+\rowcolor{SoftGray}
+Receptive access & Long oral directions and unfamiliar interfaces increase processing demand & Pair speech with first/next/last visuals, screenshots, modeled examples, and one visible step at a time \\
+Expressive access & Speech is unavailable as a dependable school communication route & Keep AAC, typing, pointing, gesture, photographs, and objects available across the full routine \\
+\rowcolor{SoftGray}
+Academic language & Coding, science, and design require specialized vocabulary & Preload or display \textit{code/código, build/construir, test/probar, change/cambiar, evidence/evidencia, help/ayuda,} and activity-specific terms \\
+Repair & Language and technology breakdowns require fast correction routes & Teach and display \textit{wait/espera, show me/muéstrame, different/diferente, another way/otra manera,} and \textit{you misunderstood/no entendiste} \\
+\rowcolor{SoftGray}
+Family continuity & Home knowledge can strengthen school vocabulary and examples & Invite family language, preferred terms, interests, and home examples into the AAC system and home--school record \\
+\end{longtable}
+\normalsize
+
+\reviewsection{Student B: Eli -- Neurodivergent Nonspeaking Multimodal Communicator}
+
+Eli is a fictional neurodivergent student with a motor-speech disability. His speech output is infrequent and requires substantial effort, so AAC and other multimodal routes carry most of his classroom communication. His participation changes with sensory load, energy, task meaning, partner pace, and the amount of control available in the activity. Hands-on investigation, movement, cameras, measuring tools, models, and meaningful group roles create strong communication entry points.
+
+EDU486 camp documentation contributes the central strategies for this profile. Youth could name their current energy and have it accepted as useful information; one youth's ``Just sleepy'' response was followed by continued access to the activity. Youth also selected meaningful roles such as commentator and participated through measuring, observing, writing, pointing, photographing, partnering, voting, passing, and returning. Their contributions changed shared models, policy discussions, advocacy messages, and reflection products \citep{campEvidence2026}. Eli's plan turns those successful participation routes into predictable communication supports.
+
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{1.16in} >{\RaggedRight\arraybackslash}p{2.50in} >{\RaggedRight\arraybackslash}p{3.02in}}
+\rowcolor{PrimaryRed}
+\color{white}\bfseries Area & \color{white}\bfseries Eli's Communication Need & \color{white}\bfseries Planning Response \\
+Multimodal access & Meaning must remain available during changes in materials, posture, device position, and routine & Keep high-tech AAC, printed backup, gesture, objects, photographs, drawing, and partner-supported access available \\
+\rowcolor{SoftGray}
+Processing time & Rapid prompting can interrupt message formulation & Ask one question, model once, wait at least 10 seconds, and notice self-initiated responses \\
+Sensory communication & Smell, texture, noise, crowding, and direct contact can change access & Keep \textit{stop, different, too much, space, observe only, different material,} and \textit{ready later} easy to reach \\
+\rowcolor{SoftGray}
+Entry and re-entry & Some activities become accessible after observation, movement, or a quieter start & Provide observe-first, pass, movement/reset, partner, and named return routes \\
+Motivation and relevance & Communication expands when the student has a meaningful purpose and real materials & Connect vocabulary to tools, evidence, roles, problems, choices, and authentic audiences \\
+\rowcolor{SoftGray}
+Peer participation & Public speech is inaccessible and fixed roles can narrow contribution & Offer evidence finder, recorder, reviser, commentator, photographer, demonstrator, partner, and observer/returner roles \\
+Repair and agency & Adult interpretations need a student-controlled correction route & Keep \textit{not that, wait, different, I meant something else,} and \textit{you misunderstood} available and consequential \\
+\end{longtable}
+\normalsize
+
+\reviewsection{Documented Practice Becomes Planned Support}
+
+The composite profiles allow me to use real instructional evidence while keeping diagnosis and disability details inside the fictional scenario. The strongest strategies from the teaching placement and camp become explicit supports that any member of the team can reproduce.
+
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{1.40in} >{\RaggedRight\arraybackslash}p{2.03in} >{\RaggedRight\arraybackslash}p{1.68in} >{\RaggedRight\arraybackslash}p{1.68in}}
+\tableheaderfour{Documented Practice}{Instructional Meaning}{Mateo}{Eli}
+Teaching-placement stepwise technology support & Visual demonstration and short directions preserved progress during interface complexity \citep{placementEvidence2026} & Screenshots, bilingual labels, one visible step, AAC/typing response & Visual sequence and device access beside materials \\
+\rowcolor{SoftGray}
+Spanish-language interface appeared during production & Interface language is part of communication access \citep{placementEvidence2026} & Spanish and English vocabulary remain visible; interface language is checked before instruction & Partner confirms symbol or text meaning when language changes \\
+Camp mood/energy check & Current energy informed access while competence remained visible \citep{campEvidence2026} & Student can request slower pace, quiet space, or another sequence & Observe-first, reset, pass, and return routes remain available \\
+\rowcolor{SoftGray}
+Youth-selected ``commentator'' role & A meaningful self-selected role opened a communication route \citep{campEvidence2026} & Coder, director, recorder, translator, debugger, or presenter routes & Commentator, evidence finder, photographer, demonstrator, or observer/returner routes \\
+Camp model revision and advocacy & Student contributions changed shared products and decisions \citep{campEvidence2026} & AAC/typing can add labels, explain choices, and propose changes & AAC, gesture, drawing, photographs, and objects can revise the shared model \\
+\end{longtable}
+\normalsize
+
+\reviewsection{A Multimodal and Bilingual Communication System}
+
+\citet{mirenda2015aids} describes AAC as a continuously updated combination of aided and unaided techniques. ASHA also identifies AAC as appropriate across ages and support profiles \citep{ashaAAC}. \citet{schlosser2014aac} emphasize communication functions, partners, settings, maintenance, and generalization, while \citet{weng2016language} makes the learner's language, family, and community part of feature matching. These principles support a system that travels through the student's real day.
+
+\renewcommand{\arraystretch}{1.18}
+\setlength{\tabcolsep}{5pt}
+\begin{tabularx}{\textwidth}{>{\RaggedRight\arraybackslash}p{1.42in} >{\RaggedRight\arraybackslash}X >{\RaggedRight\arraybackslash}X}
+\rowcolor{PrimaryRed}
+\color{white}\bfseries Component & \color{white}\bfseries Purpose & \color{white}\bfseries Access Safeguard \\
+Primary AAC device & Core, personalized, academic, social, sensory, and repair language & Charged, positioned, and available through the full routine \\
+\rowcolor{SoftGray}
+Spanish--English vocabulary & Language choice, family continuity, identity, and academic access & Student and family help choose vocabulary and preferred labels in both languages \\
+Printed core/fringe board & Stable backup during charging, hands-on materials, positioning changes, or student preference & Preserve important words and predictable locations from the primary system \\
+\rowcolor{SoftGray}
+Gesture, expression, movement & Existing efficient communication & Partners notice, confirm, and respond to the message \\
+Objects, photos, drawing, typing & Concrete and visual routes for academic and social meaning & Use these routes for open communication, explanation, questions, and repair \\
+\rowcolor{SoftGray}
+Shared visual sequence & Comprehension, predictability, and transition support & Show first/next/last, changes, optional routes, and re-entry points \\
+Repair vocabulary & Fast correction after misunderstanding & Keep \textit{wait, not that, show me, different, another way, you misunderstood,} and \textit{something else} visible \\
+\end{tabularx}
+
+\reviewsection{Communication Must Cover the Full Message Range}
+
+Both systems support greeting, social connection, choosing, refusing, commenting, questioning, directing a partner, expressing pain or sensory boundaries, predicting, comparing, explaining, labeling, revising, disagreeing, joking, asking for help or more time, repairing misunderstandings, choosing or changing a peer role, teaching another person, and deciding what information travels home. \citet{peckhamhardin2015behavior} connect functional communication with meaningful outcomes. A message becomes dependable when the partner response shows the student that communication can influence the environment.
+
+\begin{figure}[H]
+\centering
+\begin{tikzpicture}[
+  node distance=0.22in,
+  routine/.style={draw=DeepNavy, rounded corners=2pt, text width=1.33in,
+    minimum height=0.72in, align=center, font=\small, inner sep=4pt},
+  flow/.style={-{Latex[length=2.2mm]}, line width=0.8pt, draw=PrimaryRed},
+  access/.style={draw=MidTeal, dashed, rounded corners=2pt, fill=SoftGreen,
+    text width=6.45in, align=center, inner sep=5pt, font=\small}
+]
+\node[routine, fill=SoftBlue] (notice) {Notice access};
+\node[routine, fill=SoftGold, right=of notice] (meaning) {Communicate meaning};
+\node[routine, fill=SoftRose, right=of meaning] (influence) {Influence action};
+\node[routine, fill=SoftGreen, right=of influence] (travel) {Carry meaning across settings};
+\draw[flow] (notice) -- (meaning);
+\draw[flow] (meaning) -- (influence);
+\draw[flow] (influence) -- (travel);
+\node[access, below=0.25in of meaning, xshift=0.80in] {AAC + home language + low-tech backup + visual evidence + sensory communication + partner practice + flexible roles};
+\end{tikzpicture}
+\caption{The communication plan links access, student meaning, instructional response, and continuity across settings.}
+\label{fig:communication-travels}
+\end{figure}
+
+\reviewsection{Communication Opportunity Matrix}
+
+\citet{downing2015classroom} support embedding communication opportunities in ordinary classroom routines and peer interactions. The matrix gives both students authentic communication work throughout the activity.
+
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{0.86in} >{\RaggedRight\arraybackslash}p{1.75in} >{\RaggedRight\arraybackslash}p{1.75in} >{\RaggedRight\arraybackslash}p{2.15in}}
+\tableheaderfour{Routine}{Mateo Can Communicate}{Eli Can Communicate}{Partner Action}
+\endfirsthead
+\tableheaderfour{Routine}{Mateo Can Communicate}{Eli Can Communicate}{Partner Action}
+\endhead
+Arrival & Greet in AAC-selected language, ask what comes next, choose first task & Greet, check schedule, observe first, choose or pass & Review visible sequence; model vocabulary; protect processing time \\
+\rowcolor{SoftGray}
+Technology setup & Identify interface language, ask for help, request a demonstration & Request device position, choose access route, indicate ready or later & Keep systems within reach and demonstrate one step at a time \\
+Observe & Label, photograph, compare, ask, comment & Direct attention, choose tool, point, photograph, reject material & Accept AAC, typing, gesture, photos, objects, and other reliable modes \\
+\rowcolor{SoftGray}
+Build/revise & Explain a change, type a label, direct a partner, ask for clarification & Add/remove, label, arrow, disagree, demonstrate, direct a partner & Give students control of meaningful materials and shared products \\
+Group decision & Vote, explain, write, pass, propose another option & Vote, point, pass, write-in, request time, identify access need & Make vote, write-in, pass, and return routes visible \\
+\rowcolor{SoftGray}
+Peer role & Coder, director, recorder, debugger, translator by choice, presenter & Commentator, evidence finder, photographer, reviser, demonstrator, observer/returner & Let students combine, switch, or redesign roles \\
+Reflection & AAC/typed bilingual recap, photo, question, support request & Video/photo memo, point to evidence, drawing, symbol/object recap & Preserve student meaning before adult summary \\
+\rowcolor{SoftGray}
+Home bridge & Choose bilingual message, artifact, question, or vocabulary for home & Choose message, photo, contribution, barrier, question, or privacy option & Student reviews, revises, restricts, or declines outgoing information \\
+\end{longtable}
+\normalsize
+
+\reviewsection{Communication Partner Plan}
+
+Adults and peers will keep each communication system within reach, model language on a partner display, ask one question at a time, protect processing time, notice all reliable modes, confirm unclear meaning, ask before helping, return control after assistance, address the student directly, honor language choice, and respond when the student communicates refusal, correction, disagreement, pain, sensory boundaries, or a request for another route.
+
+For Mateo, partners treat Spanish and English as usable communication resources and keep bilingual repair vocabulary visible. For Eli, partners watch for gesture, body movement, objects, photographs, drawing, and AAC as part of the same message system. When meaning is unclear, a partner can describe the observed action and offer a repair route: ``I saw you move the sample away. Are you saying \textit{stop}, \textit{different tool}, \textit{need space}, \textit{otra manera}, or something else?'' The student can confirm through any reliable mode.
+
+\reviewsection{Flexible Peer Roles and Participation Routes}
+
+Peers learn four actions: \textbf{invite, wait, ask, and respect}. They invite a real role, wait for the student's response, ask before helping or speaking for someone, and respect a role change, different language, quieter route, pass, or later return. Possible roles include starter/modeler, coder, evidence finder, recorder/mapper, connector/questioner, reviser/debugger, materials/access lead, commentator, photographer, presenter/demonstrator, translator when voluntarily chosen, and observer/returner. Every role carries meaningful intellectual work and can change during the activity.
+
+\reviewsection{Student-Centered Bilingual Home--School Record}
+
+The supplied \textit{Daily Communication Logs} packet provides many school--home formats \citep{dailylogs2009}. This plan uses a record that carries student meaning, language, context, and family knowledge across settings.
+
+\setlength{\tabcolsep}{5pt}
+\begin{tabularx}{\textwidth}{>{\bfseries\RaggedRight\arraybackslash}p{2.75in} >{\RaggedRight\arraybackslash}X}
+\rowcolor{PrimaryRed}
+\color{white}Field & \color{white}Student-Centered Entry \\
+Student-authored or student-approved message to home & \\
+\rowcolor{SoftGray}
+Language(s) and communication mode(s) used & \\
+Activity and environmental conditions & \\
+\rowcolor{SoftGray}
+What the student chose, refused, asked, commented, taught, or repaired & \\
+Support that increased access & \\
+\rowcolor{SoftGray}
+Barrier or condition to change tomorrow & \\
+Question or unfinished idea & \\
+\rowcolor{SoftGray}
+New vocabulary needed in Spanish, English, or both & \\
+Family message, vocabulary, context, or question for school & \\
+\rowcolor{SoftGray}
+Student reviewed outgoing message & Approved / changed / restricted / chose not to send \\
+\end{tabularx}
+
+Family knowledge can change vocabulary, materials, sensory planning, examples, routines, and goals. Families can respond through Spanish, English, another language, photographs, audio, written notes, or another accessible form. The student helps decide what information travels between settings.
+
+\reviewsection{Implementation Sequence}
+
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{0.95in} >{\RaggedRight\arraybackslash}p{3.35in} >{\RaggedRight\arraybackslash}p{2.45in}}
+\rowcolor{PrimaryRed}
+\color{white}\bfseries Time & \color{white}\bfseries Team Action & \color{white}\bfseries Student Control and Evidence \\
+Before Day 1 & Meet with student, family, SLP, and teacher; confirm modes, languages, access, interests, vocabulary, privacy, sensory needs, and preferred roles; prepare primary and backup systems & Student and family identify important vocabulary, language preferences, supports, interests, and information-sharing choices \\
+\rowcolor{SoftGray}
+Days 1--2 & Establish predictable system placement, visual sequence, bilingual vocabulary, sensory routes, and partner wait/modeling practices & Record which routes each student chooses and where communication becomes easier or harder \\
+Days 3--5 & Embed communication in observation, technology use, building, peer roles, group decisions, reflection, and dismissal & Track initiations, questions, comments, refusals, repairs, role changes, language choices, and messages that change the activity \\
+\rowcolor{SoftGray}
+Day 5 review & Student, family, teacher, SLP, and staff conduct a keep/change/add/remove review & Student and family revise vocabulary, routes, sensory supports, partner practices, or home--school fields \\
+Days 6--10 & Generalize across partners, materials, locations, and academic tasks & Check whether meaning survives changes in partner, language demand, tool, and setting \\
+\rowcolor{SoftGray}
+Day 10 decision & Team conducts a joint review of access, message range, agency, and implementation & Student and family participate in deciding the next version of the plan \\
+\end{longtable}
+\normalsize
+
+\citet{norrie2021context} show that AAC adoption depends on training, technical support, staffing, coordination, and daily context. Responsibility therefore sits across the team: the teacher prepares communication opportunities, the SLP supports access and vocabulary organization, classroom staff maintain high- and low-tech availability, the family contributes language and context, and the student directs priorities through ongoing feedback.
+
+\reviewsection{Data, Review, and Success}
+
+The team collects enough evidence to change support while keeping the student's communication at the center. The review focuses on availability, message range, initiation, repair, partner response, language access, sensory access, and whether communication produces a meaningful consequence.
+
+\small
+\setlength{\tabcolsep}{4pt}
+\begin{longtable}{>{\RaggedRight\arraybackslash}p{1.45in} >{\RaggedRight\arraybackslash}p{2.55in} >{\RaggedRight\arraybackslash}p{2.75in}}
+\rowcolor{PrimaryRed}
+\color{white}\bfseries Review Question & \color{white}\bfseries Evidence & \color{white}\bfseries Revision Trigger \\
+Was communication available? & Primary/backup access, positioning, bilingual vocabulary, partner availability & Access disappears during transitions, hands-on work, language changes, charging, or staffing changes \\
+\rowcolor{SoftGray}
+Was the message range broad? & Comments, questions, refusal, repair, sensory, academic, social, humor, and home-language messages & Communication remains concentrated in adult-prompted requests \\
+Could the student initiate and redirect? & Self-initiated messages, new topics, role changes, corrections, language choice & Adult prompting repeatedly replaces student initiation \\
+\rowcolor{SoftGray}
+Did messages influence action? & Changes in pace, tool, material, language, role, support, question, sequence, or interpretation & Student messages are acknowledged and the relevant barrier remains unchanged \\
+Could breakdowns be repaired? & Successful confirmation, repair vocabulary, partner recognition & Misunderstandings continue because the student lacks a dependable correction route \\
+\rowcolor{SoftGray}
+Did communication travel? & Use across partners, technology, hands-on work, peers, dismissal, and home bridge & A route works only with one adult, one language, one position, or one activity \\
+Did agency and belonging expand? & Student control of language, role, refusal, correction, privacy, and contribution & The student has fewer ways to influence the activity after support is added \\
+\end{longtable}
+\normalsize
+
+The central success question is the same one that runs through my Puzzle Plan and EQUITAS work: after support, can the student communicate more of what matters to them and exercise more influence over learning, relationships, and the environment? Communication support succeeds when the student's meaning survives changes in language, tool, partner, place, and routine and remains powerful enough to shape what happens next.
+
+\reviewsection{Practice and Evidence Boundary}
+
+Mateo and Eli are fictional composite students. Their profiles combine the assignment's nonspeaking-student requirement with documented support strategies from the EDU486 camp and K--5 teaching placement. The source records contribute observable teaching moves and participation evidence; the fictional profiles provide the neurodivergent, CLD, bilingual, and motor-speech characteristics needed to examine how those strategies can be implemented in a communication support plan.
+
+\newpage
+\small
+\bibliography{references}
+
+\end{document}

@@ -8,27 +8,27 @@ The `Read/` files are mostly PDFs, course packets, textbook excerpts, library ex
 
 Local reading folders:
 
-- `Module1/Read/`
-- `Module2/Read/`
-- `Module3/Read/`
+- `modules/Module1/Read/`
+- `modules/Module2/Read/`
+- `modules/Module3/Read/`
 
 Module reading trackers:
 
-- [Module 1 readings index](../assignments/module1/readings-index.md)
-- [Module 2 readings index](../assignments/module2/readings-index.md)
-- [Module 3 readings index](../assignments/module3/readings-index.md)
+- [Module 1 readings index](../modules/Module1/assignments/readings-index.md)
+- [Module 2 readings index](../modules/Module2/assignments/readings-index.md)
+- [Module 3 readings index](../modules/Module3/assignments/readings-index.md)
 
 Themed reading summaries:
 
-- [Module 1 themed reading summaries](../assignments/module1/reading-summaries/README.md)
-- [Module 2 themed reading summaries](../assignments/module2/reading-summaries/README.md)
-- [Module 3 themed reading summaries](../assignments/module3/reading-summaries/README.md)
+- [Module 1 themed reading summaries](../modules/Module1/assignments/reading-summaries/README.md)
+- [Module 2 themed reading summaries](../modules/Module2/assignments/reading-summaries/README.md)
+- [Module 3 themed reading summaries](../modules/Module3/assignments/reading-summaries/README.md)
 
 Comprehensive module references:
 
-- [Module 1 comprehensive themed overview](../assignments/module1/reading-summaries/comprehensive_themed_overview.md)
-- [Module 2 comprehensive themed overview](../assignments/module2/reading-summaries/comprehensive_themed_overview.md)
-- [Module 3 comprehensive themed overview](../assignments/module3/reading-summaries/comprehensive_themed_overview.md)
+- [Module 1 comprehensive themed overview](../modules/Module1/assignments/reading-summaries/comprehensive_themed_overview.md)
+- [Module 2 comprehensive themed overview](../modules/Module2/assignments/reading-summaries/comprehensive_themed_overview.md)
+- [Module 3 comprehensive themed overview](../modules/Module3/assignments/reading-summaries/comprehensive_themed_overview.md)
 
 ## How To Use This
 

@@ -39,7 +39,7 @@ I will use this repo to document evidence that I can:
 | Module | Dates | Essential Question | Main Assignments |
 | --- | --- | --- | --- |
 | Module 1: Introduction to Autism and Other Complex Support Needs | June 29-July 13 module window; Blackboard items due July 15, 2026 | How does the world come to understand developmental differences? | Sensory Walk Experience; Teach a Kit for Kids Lesson |
-| Module 2: Supporting Students with Prosocial Norms in School-based Settings | July 14-July 27 module window; PTR, support plan, and journal due July 31, 2026 | How can support strategies respect dignity, consent, and neurodiversity? | [Prevent Teach Reinforce Planning and Positive Classroom Support Plan](../assignments/module2/README.md#direct-assignment-links) |
+| Module 2: Supporting Students with Prosocial Norms in School-based Settings | July 14-July 27 module window; PTR, support plan, and journal due July 31, 2026 | How can support strategies respect dignity, consent, and neurodiversity? | [Prevent Teach Reinforce Planning and Positive Classroom Support Plan](../modules/Module2/assignments/README.md#direct-assignment-links) |
 | Module 3: Communication Supports for Students with Complex Needs | July 28-August 10, 2026, with August 7 graduation target | What does meaningful communication look like for students with complex needs? | AAC Review Discussion; Communication Support Plan |
 
 ## AI Use Boundary

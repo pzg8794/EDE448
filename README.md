@@ -27,7 +27,7 @@ My working personal lens is:
 - [Response theme guide](docs/response-theme-guide.md)
 - [PhD and Puzzle Plan alignment](docs/phd-puzzle-plan-alignment.md)
 - [AI use log](docs/ai-use-log.md)
-- [Assignments index](assignments/README.md)
+- [Modules and assignments index](modules/README.md)
 - [Dedicated assignment repository map](docs/repository-map.md)
 - [Course calendar import](docs/course-calendar.ics)
 - [Portfolio assignment, rubric, and canonical package](portfolio/README.md)
@@ -38,39 +38,39 @@ My working personal lens is:
 
 | Due | Deliverable | Repo Draft |
 | --- | --- | --- |
-| July 15, 2026, 11:59 PM EDT | Module 1 journal, discussions, Sensory Walk Experience, Teach a Kit for Kids Lesson | [Module 1 tracker](assignments/module1/module1-task-tracker.md) |
-| July 31, 2026, 11:59 PM EDT | Module 2 journal, PTR planning, Positive Classroom Support Plan; Takeaways date not shown | [Module 2 direct review links](assignments/module2/README.md#direct-assignment-links) |
-| August 10, 2026, 11:59 PM EDT; August 7 graduation target | Module 3 journal, AAC review discussion, Communication Support Plan | [Module 3 review guide](assignments/module3/REVIEW-GUIDE.md) |
+| July 15, 2026, 11:59 PM EDT | Module 1 journal, discussions, Sensory Walk Experience, Teach a Kit for Kids Lesson | [Module 1 tracker](modules/Module1/assignments/module1-task-tracker.md) |
+| July 31, 2026, 11:59 PM EDT | Module 2 journal, PTR planning, Positive Classroom Support Plan; Takeaways date not shown | [Module 2 direct review links](modules/Module2/assignments/README.md#direct-assignment-links) |
+| August 10, 2026, 11:59 PM EDT; August 7 graduation target | Module 3 journal, AAC review discussion, Communication Support Plan | [Module 3 review guide](modules/Module3/assignments/REVIEW-GUIDE.md) |
 | August 7, 2026 | Communication and Positive Behavioral Support Strategies and Resources Portfolio | [Portfolio assignment and canonical package](portfolio/README.md) |
 
 ## Current Module 2 Links
 
 | Blackboard | Repository Review |
 | --- | --- |
-| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | [PTR draft](assignments/module2/prevent-teach-reinforce-planning/draft.md), [Appendix 4.1 notes](assignments/module2/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md), and [LaTeX package](assignments/module2/prevent-teach-reinforce-planning/latex/README.md) |
-| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | [Support-plan draft](assignments/module2/positive-classroom-support-plan/draft.md) |
+| [Prevent Teach Reinforce Planning](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485973_1/overview?courseId=_113760_1) | [PTR draft](modules/Module2/assignments/prevent-teach-reinforce-planning/draft.md), [Appendix 4.1 notes](modules/Module2/assignments/prevent-teach-reinforce-planning/appendix-4-1-completion-notes.md), and [LaTeX package](modules/Module2/assignments/prevent-teach-reinforce-planning/latex/README.md) |
+| [Positive Classroom Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9485975_1/overview?courseId=_113760_1) | [Support-plan draft](modules/Module2/assignments/positive-classroom-support-plan/draft.md) |
 | [Module #2 Journal](https://learn.rochester.edu/ultra/courses/_113760_1/outline/journal/_9485976_1?courseId=_113760_1) | [Authorized GitHub/Overleaf working repository](https://github.com/pzg8794/EDE448-Module2_Journal) |
-| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | [Takeaways draft](assignments/module2/discussions/takeaways.md) |
+| [Takeaways](https://learn.rochester.edu/ultra/courses/_113760_1/outline/discussion/_9492211_1?view=discussions&courseId=_113760_1) | [Takeaways draft](modules/Module2/assignments/discussions/takeaways.md) |
 
-- [Review every Module 2 themed reading summary directly](assignments/module2/README.md#direct-themed-reading-summaries)
-- [Open the complete Module 2 review guide](assignments/module2/REVIEW-GUIDE.md)
+- [Review every Module 2 themed reading summary directly](modules/Module2/assignments/README.md#direct-themed-reading-summaries)
+- [Open the complete Module 2 review guide](modules/Module2/assignments/REVIEW-GUIDE.md)
 
 ## Current Module 3 Links
 
-- [Complete Module 3 review guide](assignments/module3/REVIEW-GUIDE.md)
-- [Every Module 3 themed reading summary](assignments/module3/reading-summaries/README.md)
-- [AAC Review package](assignments/module3/aac-review/README.md)
-- [Communication Support Plan package](assignments/module3/communication-support-plan/README.md)
-- [Journal #3 package](assignments/module3/module3-journal/README.md)
-- [What Do You Know? and Takeaways](assignments/module3/discussions/README.md)
+- [Complete Module 3 review guide](modules/Module3/assignments/REVIEW-GUIDE.md)
+- [Every Module 3 themed reading summary](modules/Module3/assignments/reading-summaries/README.md)
+- [AAC Review package](modules/Module3/assignments/aac-review/README.md)
+- [Communication Support Plan package](modules/Module3/assignments/communication-support-plan/README.md)
+- [Journal #3 package](modules/Module3/assignments/module3-journal/README.md)
+- [What Do You Know? and Takeaways](modules/Module3/assignments/discussions/README.md)
 
 ## Themed Reading References
 
 Use these before drafting journals, discussions, assignments, and portfolio pages:
 
-- [Module 1 themed summaries and comprehensive overview](assignments/module1/reading-summaries/README.md)
-- [Module 2 direct themed summaries and comprehensive overview](assignments/module2/README.md#direct-themed-reading-summaries)
-- [Module 3 themed summaries and comprehensive overview](assignments/module3/reading-summaries/README.md)
+- [Module 1 themed summaries and comprehensive overview](modules/Module1/assignments/reading-summaries/README.md)
+- [Module 2 direct themed summaries and comprehensive overview](modules/Module2/assignments/README.md#direct-themed-reading-summaries)
+- [Module 3 themed summaries and comprehensive overview](modules/Module3/assignments/reading-summaries/README.md)
 
 ## Directory Map
 
@@ -78,10 +78,11 @@ Use these before drafting journals, discussions, assignments, and portfolio page
 | --- | --- |
 | `MASTER-TODO.md` | Master task tracker for every module, assignment, and portfolio item |
 | `docs/` | Course scope, deadlines, work plan, source map, artifact index, AI-use log, calendar |
-| `assignments/module1/` | Module 1 tracker, discussions, journal, Sensory Walk, Kit for Kids drafts, and reading summaries |
-| `assignments/module2/` | Module 2 tracker, discussions, journal, PTR, Positive Classroom Support Plan drafts, and reading summaries |
-| `assignments/module3/` | Module 3 tracker, discussions, journal, AAC Review, Communication Support Plan drafts, and reading summaries |
-| `portfolio/` | Exact assignment/rubric reference, canonical 10-resource LaTeX source, bibliography, and planning provenance |
+| `modules/` | Module-by-module assignment work, reading summaries, trackers, and dedicated repository checkouts |
+| `modules/Module1/assignments/` | Module 1 tracker, discussions, journal, Sensory Walk, Kit for Kids drafts, and reading summaries |
+| `modules/Module2/assignments/` | Module 2 tracker, discussions, journal, PTR, Positive Classroom Support Plan drafts, and reading summaries |
+| `modules/Module3/assignments/` | Module 3 tracker, discussions, journal, AAC Review, Communication Support Plan drafts, and reading summaries |
+| `portfolio/` | Exact assignment/rubric reference, restricted-artifact boundary, dedicated portfolio repository checkout, and planning provenance |
 | `public-artifacts/` | Public-safe generated support artifacts when finalized |
 | `public-submissions/` | Public-safe final submissions when cleared |
 
