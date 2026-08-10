@@ -26,7 +26,7 @@ Due-date source state checked through **August 2, 2026** from local Blackboard e
 1. Complete Piter's final read of the [portfolio review package](../portfolio/README.md), submit it manually by August 7, and record the receipt.
 2. Read the [Module 3 review guide](../modules/Module3/assignments/REVIEW-GUIDE.md).
 3. Engage with the selected three READ sources and confirm the takeaways.
-4. Complete or confirm one media source and add one concrete observation to Journal #3.
+4. Complete or confirm *Wretches and Jabberers* and review the concrete media synthesis already integrated into Journal #3.
 5. Review the AAC post, submit it manually, and write a real response after classmates' posts become visible.
 6. Confirm the Communication Support Plan due date, review the plan, and submit manually.
 7. Reconcile overdue or unconfirmed Module 1 and Module 2 Blackboard receipts separately.

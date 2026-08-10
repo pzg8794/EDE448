@@ -28,7 +28,7 @@ What does meaningful communication look like for students with complex needs?
 | What Do You Know? | No date shown in local capture | [Prompt and submission-ready personalized draft](discussions/README.md#what-do-you-know) |
 | AAC Review | August 10, 11:59 PM EDT | [Posted TD Snap review record, five posted visuals, and personalized reply to Avery](aac-review/README.md) |
 | [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and ten-page LaTeX review package](communication-support-plan/README.md) |
-| Journal #3 | August 10, 11:59 PM EDT | [Almost-ready Markdown and five-page LaTeX review package](module3-journal/README.md) |
+| Journal #3 | August 10, 11:59 PM EDT | [Submission-ready Markdown and six-page LaTeX review package](module3-journal/README.md) |
 | Takeaways | No date shown in local capture | [Prompt and personalized draft](discussions/README.md#takeaways) |
 
 The local screenshots do not preserve direct Blackboard item IDs for the discussions or Journal #3. Their landing pages use the course-outline link rather than inventing URLs.
@@ -37,7 +37,7 @@ The local screenshots do not preserve direct Blackboard item IDs for the discuss
 
 The three-reading set is [Norrie et al. (2021)](reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md), [Downing et al. (2015), Chapter 4](reading-summaries/themed_overview/general-education-rich-communicative-environment-themed-overview.md), and [Peckham-Hardin (2015), Chapter 9](reading-summaries/themed_overview/communication-and-challenging-behavior-themed-overview.md). The [Daily Communication Logs](reading-summaries/themed_overview/daily-communication-logs-themed-overview.md) and [Mirenda chapter](reading-summaries/themed_overview/developing-acquiring-communication-aids-themed-overview.md) support the assignments.
 
-The [media guide](reading-summaries/media-synthesis.md) recommends *The Key of G* but leaves the concrete observation open until Piter completes or confirms the selected source.
+The [media guide](reading-summaries/media-synthesis.md) now records *Wretches and Jabberers* as the journal selection. Its locally documented typing-to-public-advocacy event is integrated into Journal #3; Piter still confirms personal completion before submission.
 
 ## Shared Argument
 

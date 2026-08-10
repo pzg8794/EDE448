@@ -9,11 +9,11 @@ The Module 3 media folder contains source pages for:
 - *The Key of G*
 - *Wretches and Jabberers*
 
-These files establish available choices; they are not evidence that a full episode or film was completed. The assignment drafts therefore leave the media observation open for Piter's review.
+These files establish available choices and source details; they are not evidence that a full episode or film was completed. Journal #3 now uses only details verified in the local course record while leaving personal completion for Piter to confirm.
 
-## Recommended Selection
+## Journal Selection
 
-*The Key of G* is the strongest fit for the module's essential question because the local Kanopy description centers communication, support, and interdependence in a person's life. The final journal should use one concrete scene or interaction from the film rather than a general description.
+*Wretches and Jabberers* is the selected journal media. The local Kanopy record documents Tracy Thresher and Larry Bissonnette as autistic adults with limited speech who had been presumed intellectually incapable, gained access to typing, and then traveled internationally to challenge attitudes about disability and intelligence. That central event directly supports the journal's authorship argument without inventing a scene. *The Key of G* remains a strong optional extension because its local description centers disability, caregiving, and interdependence.
 
 ## EQUITAS Review Questions
 
@@ -24,10 +24,10 @@ These files establish available choices; they are not evidence that a full episo
 5. How do disability, culture, race, language, age, and power affect whose interpretation is trusted?
 6. What changed after a message was understood?
 
-## Observation Note to Complete
+## Journal Observation
 
-> In **[media title]**, the moment when **[specific action, statement, or interaction]** showed me that meaningful communication depends on **[partner action, access condition, or social response]**. I connect this to **[selected reading]** because **[specific connection]**. The scene complicates my practice by reminding me **[implication]**.
+Journal #3 connects the documented change from presumption and exclusion to typing and public advocacy with Norrie, Waller, and Hannah's implementation argument. The journal does not claim that adults created competence or that one communication method fits every learner. It argues that access routes and partner responses determine whether existing authorship becomes socially consequential.
 
 ## Boundary
 
-Access mode does not determine the value of the learning. A verified observation may come from the audiovisual work, captions, an accessible transcript, or another legitimate access route. The requirement here is accuracy about the source's content, not ranking how a person engaged with it.
+Access mode does not determine the value of the learning. Engagement may occur through audiovisual work, captions, an accessible transcript, or another legitimate access route. The requirement is accuracy about the source's content, not ranking how a person engaged with it. Piter confirms completion before submission.

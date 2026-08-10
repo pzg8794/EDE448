@@ -1,8 +1,8 @@
 # Communication That Changes What Happens Next
 
-## Module 3 Journal Review Draft - Not Submitted
+## Module 3 Journal Submission-Ready Draft - Not Submitted
 
-The Blackboard page for Journal #3 says that the instructor has not added separate instructions. Following the approach used for my Module 1 and Module 2 journals, this draft responds to Module 3's essential question: **What does meaningful communication look like for students with complex needs?** It integrates the selected READ, the Module 3 opening discussion, my posted TD Snap review, *Communication That Travels With the Student*, prior EDE448 papers, my K-5 technology teaching placement, and EDU486 Invisible Invaders camp work. One verified READ/MEDIA observation remains clearly marked for my final review.
+The Blackboard page for Journal #3 says that the instructor has not added separate instructions. Following the approach used for my Module 1 and Module 2 journals, this draft responds to Module 3's essential question: **What does meaningful communication look like for students with complex needs?** It integrates the selected READ and MEDIA, the Module 3 opening discussion, my posted TD Snap review, *Communication That Travels With the Student*, prior EDE448 papers, my K-5 technology teaching placement, and EDU486 Invisible Invaders camp work.
 
 ## From Access in Principle to Authorship in Practice
 
@@ -46,9 +46,9 @@ Through that lens, communication support is evidence justice. When accessible mo
 
 The access-to-agency sequence that now connects my Module 3 work is: **student meaning -> accessible route -> matched tool and vocabulary -> responsive partner practice -> a message that changes what happens next**. The sequence fails if any piece is absent. A powerful device cannot compensate for partners who ignore refusal. A caring partner cannot use vocabulary the student cannot access. A communication plan cannot claim success when the student produces more approved responses but gains no additional influence.
 
-## Final READ/MEDIA Observation to Verify Before Submission
+## Media: Access Changes Who Can Enter the Public Record
 
-**[Insert one verified Module 3 READ/MEDIA moment here.]** Name what the communicator did, what the partner or environment did, and whether the response increased or restricted agency. Connect the moment to one selected reading and the essential question. The value of the evidence does not depend on audiovisual, caption, or transcript access; it depends on accurately connecting a concrete moment to the argument.
+In the Module 3 documentary *Wretches and Jabberers*, Tracy Thresher and Larry Bissonnette are autistic adults with limited speech who had been presumed intellectually incapable and excluded from ordinary schooling. After gaining access to typing, they traveled internationally to challenge public assumptions about disability and intelligence. The meaningful change is not that adults gave them competence. An accessible route made their existing authorship harder to dismiss and allowed their messages to change the public conversation. This connects to Norrie, Waller, and Hannah (2021): a device alone does not create agency. The route must remain usable, partners must treat the message as consequential, and support must preserve authorship. In my classroom, I must neither presume incompetence because speech is limited nor treat one method as universal proof. I must provide multiple routes, confirm meaning respectfully, and let student messages revise instruction and support.
 
 ## What I Will Carry Into My Classroom
 
@@ -60,4 +60,4 @@ Meaningful communication therefore looks like more than access to words. It look
 
 ## References
 
-See the LaTeX package's `references.bib` and the [Module 3 reference list](../reading-summaries/references.md). Before submission, replace the single marked READ/MEDIA insertion and confirm that Blackboard has not added a journal prompt.
+See the LaTeX package's `references.bib` and the Module 3 reference list. The LaTeX paper also carries forward two credited conceptual figures from my Module 2 journal and Communication Support Plan, then completes the progression with the Module 3 access-to-agency synthesis.

@@ -12,10 +12,10 @@ The local Blackboard captures show **August 10, 2026, 11:59 PM EDT** for AAC Rev
 | READ 1: Norrie et al. (2021) | Summary prepared | [AAC adoption and support](reading-summaries/themed_overview/norrie-et-al-2021-context-for-aac-themed-overview.md) | Read/confirm source engagement |
 | READ 2: Downing et al. (2015), Ch. 4 | Summary prepared | [Rich communicative environment](reading-summaries/themed_overview/general-education-rich-communicative-environment-themed-overview.md) | Read/confirm source engagement |
 | READ 3: Peckham-Hardin (2015), Ch. 9 | Summary prepared | [Communication and challenging behavior](reading-summaries/themed_overview/communication-and-challenging-behavior-themed-overview.md) | Read/confirm source engagement |
-| LISTEN/WATCH one media source | Guide prepared; completion not claimed | [Media synthesis](reading-summaries/media-synthesis.md) | Complete/confirm source and add one concrete observation |
+| LISTEN/WATCH one media source | *Wretches and Jabberers* selected and a locally verified central event integrated into Journal #3; personal completion not claimed | [Media synthesis](reading-summaries/media-synthesis.md) | Complete/confirm the selected source |
 | AAC Review | TD Snap review and five visuals posted; personalized reply to Avery drafted but not posted | [TD Snap review record and Avery reply](aac-review/README.md) | Review and post the reply under Avery's TD Snap review, then record completion |
 | Communication Support Plan | Submission-ready ten-page PDF and editable sources prepared; not submitted | [Support plan package](communication-support-plan/README.md) | Confirm separate due date, review final PDF, and submit manually |
-| Journal #3 | Almost-ready Markdown and five-page LaTeX package integrates Module 3 work and prior evidence; not submitted | [Journal package](module3-journal/README.md) | Confirm prompt, add one verified READ/MEDIA moment, and submit manually |
+| Journal #3 | Submission-ready Markdown and six-page LaTeX package integrates Module 3 work, selected media, prior evidence, and three conceptual figures; not submitted | [Journal package](module3-journal/README.md) | Confirm prompt and media completion, review final PDF, and submit manually |
 | Takeaways | Personalized review draft prepared | [Prompt and response](discussions/README.md#takeaways) | Confirm READ/MEDIA choices and post manually |
 
 ## Portfolio Harvest
@@ -29,4 +29,4 @@ The local Blackboard captures show **August 10, 2026, 11:59 PM EDT** for AAC Rev
 
 ## Completion Test
 
-Module 3 is complete only when Piter has reviewed the drafts, verified the media observation, made the Blackboard posts/submissions, completed the classmate reply, and reported those actions here.
+Module 3 is complete only when Piter has reviewed the drafts, confirmed completion of the selected media, made the Blackboard posts/submissions, completed the classmate reply, and reported those actions here.

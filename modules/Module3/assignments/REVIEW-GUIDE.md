@@ -16,7 +16,7 @@ Use [Daily Communication Logs](reading-summaries/themed_overview/daily-communica
 
 ## LISTEN/WATCH
 
-[The media synthesis and review guide](reading-summaries/media-synthesis.md) identifies the four local options. It does not claim that a source was completed. Add one verified scene, statement, or interaction after engaging with the selected source.
+[The media synthesis and review guide](reading-summaries/media-synthesis.md) identifies the four local options. The journal now uses a locally verified central event from *Wretches and Jabberers*: Tracy Thresher and Larry Bissonnette gained access to typing and carried their disability-and-intelligence advocacy into a public world tour. Piter must still confirm personal completion of the selected media before submission.
 
 ## Assignment Map
 
@@ -25,7 +25,7 @@ Use [Daily Communication Logs](reading-summaries/themed_overview/daily-communica
 | What Do You Know? | No date shown in capture | [Submission-ready discussion draft](discussions/what-do-you-know.md) | Review, post manually, and record completion |
 | AAC Review | August 10, 11:59 PM EDT | [Posted TD Snap review and personalized reply to Avery](aac-review/README.md) | Review and post the drafted reply under Avery's TD Snap review |
 | Communication Support Plan | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and ten-page LaTeX package](communication-support-plan/README.md) | Confirm date, review, and submit manually |
-| Journal #3 | August 10, 11:59 PM EDT | [Almost-ready Markdown and five-page LaTeX package](module3-journal/README.md) | Confirm prompt; add one verified READ/MEDIA observation; submit manually |
+| Journal #3 | August 10, 11:59 PM EDT | [Submission-ready Markdown and six-page LaTeX package](module3-journal/README.md) | Confirm prompt and media completion; review and submit manually |
 | Takeaways | No date shown in capture | [Discussion draft](discussions/takeaways.md) | Review after READ/MEDIA and post manually |
 
 ## Personalization Thread
@@ -42,4 +42,4 @@ Raw PDFs, course captures, child media, and transcripts remain local. The reposi
 
 ## Draft Completion Standard
 
-Every Module 3 assignment has a canonical review record. The opening and closing discussions are ready for voice review. AAC Review preserves the posted argument and visuals and now includes a reply written specifically to Avery's TD Snap examples about personalized photographs, vocabulary placement, QuickFire pages, and recurring cost. The Communication Support Plan and Journal #3 include Markdown, editable LaTeX, BibTeX references, and compiled local review copies. The only journal content intentionally not invented is the one verified READ/MEDIA observation Piter must select.
+Every Module 3 assignment has a canonical review record. The opening and closing discussions are ready for voice review. AAC Review preserves the posted argument and visuals and now includes a reply written specifically to Avery's TD Snap examples about personalized photographs, vocabulary placement, QuickFire pages, and recurring cost. The Communication Support Plan and Journal #3 include Markdown, editable LaTeX, BibTeX references, and compiled local review copies. Journal #3 has no remaining content placeholder: it includes a locally sourced *Wretches and Jabberers* media synthesis and three visually verified conceptual figures. Piter still confirms media completion, final voice, and Blackboard submission.
