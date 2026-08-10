@@ -26,7 +26,7 @@ Use [Daily Communication Logs](reading-summaries/themed_overview/daily-communica
 | AAC Review | August 10, 11:59 PM EDT | [Posted TD Snap review and personalized reply to Avery](aac-review/README.md) | Review and post the drafted reply under Avery's TD Snap review |
 | Communication Support Plan | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and ten-page LaTeX package](communication-support-plan/README.md) | Confirm date, review, and submit manually |
 | Journal #3 | August 10, 11:59 PM EDT | [Submission-ready Markdown and eight-page LaTeX package](module3-journal/README.md) | Confirm prompt and media completion; review and submit manually |
-| Takeaways | No date shown in capture | [Discussion draft](discussions/takeaways.md) | Review after READ/MEDIA and post manually |
+| Takeaways | No date shown in capture | [Submission-ready response](discussions/takeaways.md) | Review, post manually, and record completion |
 
 ## Personalization Thread
 

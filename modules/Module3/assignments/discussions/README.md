@@ -12,6 +12,6 @@
 - **Prompt:** Which readings did you find useful in this module? What information will you consider in your future practice?
 - **Blackboard:** [open Module 3 in the EDE448 course outline](https://learn.rochester.edu/ultra/courses/_113760_1/outline?courseId=_113760_1)
 - **Draft:** [Takeaways](takeaways.md)
-- **State:** review draft; not posted
+- **State:** submission-ready personalized draft; not posted
 
 The direct Blackboard item IDs are not present in the local captures. The course-outline link is therefore used rather than inventing destination URLs.
