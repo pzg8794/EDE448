@@ -1,6 +1,6 @@
 # Communication Support Plan LaTeX Package
 
-This editable paper follows the Module 1/Module 2 visual system and turns the Markdown plan into a submission-ready document.
+This editable paper follows the Module 1/Module 2 visual system and turns the Markdown plan into a review-ready, nine-page document. Nothing has been submitted.
 
 ## Files
 
@@ -14,4 +14,4 @@ This editable paper follows the Module 1/Module 2 visual system and turns the Ma
 latexmk -pdf main.tex
 ```
 
-The learners are fictional, non-identifying composite scenarios informed by camp and teaching-placement routines. The paper does not claim that a particular child was diagnosed, nonspeaking, or an AAC user.
+The learners are fictional pooled composites informed by one shared bank of de-identified camp and teaching-placement routines. No profile maps one-to-one to a child, and the paper does not claim that an observed learner was diagnosed, nonspeaking, or an AAC user. Its presentation-day section distinguishes documented artifacts from practitioner reflection and converts the event into partner-practice safeguards.

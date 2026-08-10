@@ -13,10 +13,10 @@ After completing the Module 3 READ and LISTEN/WATCH work, develop a support plan
 
 - [Personalized communication support plan](draft.md)
 - [Editable LaTeX package](latex/README.md)
-- Local submission copy: `latex/main.pdf` (ten pages; ignored by the public repository)
+- Local submission copy: `latex/main.pdf` (nine pages; ignored by the public repository)
 - [Module 3 reference list](../references.md)
 - [Daily Communication Logs critique and redesign](../reading-summaries/themed_overview/daily-communication-logs-themed-overview.md)
 - [Rich communicative environment](../reading-summaries/themed_overview/general-education-rich-communicative-environment-themed-overview.md)
 - [Communication and challenging behavior](../reading-summaries/themed_overview/communication-and-challenging-behavior-themed-overview.md)
 
-The scenario is a prospective classroom plan for three fictional composite students: Mateo, a neurodivergent CLD Spanish-English communicator; Eli, a neurodivergent speech/multimodal communicator with a fictional speech-production disability; and Luca, a neurodivergent chronically ill low-speaking communicator with speech-related trauma. It is informed by documented EDU486 camp routines and Pine Brook technology-placement strategies, but it does not claim that a particular child was diagnosed, nonspeaking, or an AAC user. The final revision adds bilingual AAC/home-school access, multimodal participation routes, health-aware pacing and re-entry, flexible peer roles, explicit team responsibilities, adult-partner safeguards, and five- and ten-day review points.
+The scenario is a prospective classroom plan for three fictional pooled composites: Mateo foregrounds CLD bilingual communication, Eli foregrounds speech/multimodal access, and Luca foregrounds chronic illness, low speech, and speech-related trauma. They are overlapping planning lenses, not one-to-one stand-ins for observed children. Any de-identified camp or teaching-placement strategy may inform any profile when the access condition fits. The final revision adds a presentation-day analysis of organized evidence, trifold authorship, team disruption, and an irreversible adult layout decision; it converts that event into a two-minute team re-brief, explicit decision ownership, movable-until-approved materials, and student approval before gluing, saving, exporting, or submitting.
