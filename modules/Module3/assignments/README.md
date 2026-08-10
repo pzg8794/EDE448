@@ -28,7 +28,7 @@ What does meaningful communication look like for students with complex needs?
 | What Do You Know? | No date shown in local capture | [Prompt and submission-ready personalized draft](discussions/README.md#what-do-you-know) |
 | AAC Review | August 10, 11:59 PM EDT | [Posted TD Snap review record, five posted visuals, and personalized reply to Avery](aac-review/README.md) |
 | [Communication Support Plan](https://learn.rochester.edu/ultra/courses/_113760_1/outline/assessment/_9647067_1/overview?courseId=_113760_1) | Confirm in Blackboard; Module 3 ends August 10 | [Markdown and ten-page LaTeX review package](communication-support-plan/README.md) |
-| Journal #3 | August 10, 11:59 PM EDT | [Submission-ready Markdown and six-page LaTeX review package](module3-journal/README.md) |
+| Journal #3 | August 10, 11:59 PM EDT | [Submission-ready Markdown and eight-page LaTeX review package](module3-journal/README.md) |
 | Takeaways | No date shown in local capture | [Prompt and personalized draft](discussions/README.md#takeaways) |
 
 The local screenshots do not preserve direct Blackboard item IDs for the discussions or Journal #3. Their landing pages use the course-outline link rather than inventing URLs.

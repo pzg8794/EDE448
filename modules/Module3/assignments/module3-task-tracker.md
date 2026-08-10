@@ -15,7 +15,7 @@ The local Blackboard captures show **August 10, 2026, 11:59 PM EDT** for AAC Rev
 | LISTEN/WATCH one media source | *Wretches and Jabberers* selected and a locally verified central event integrated into Journal #3; personal completion not claimed | [Media synthesis](reading-summaries/media-synthesis.md) | Complete/confirm the selected source |
 | AAC Review | TD Snap review and five visuals posted; personalized reply to Avery drafted but not posted | [TD Snap review record and Avery reply](aac-review/README.md) | Review and post the reply under Avery's TD Snap review, then record completion |
 | Communication Support Plan | Submission-ready ten-page PDF and editable sources prepared; not submitted | [Support plan package](communication-support-plan/README.md) | Confirm separate due date, review final PDF, and submit manually |
-| Journal #3 | Submission-ready Markdown and six-page LaTeX package integrates Module 3 work, selected media, prior evidence, and three conceptual figures; not submitted | [Journal package](module3-journal/README.md) | Confirm prompt and media completion, review final PDF, and submit manually |
+| Journal #3 | Submission-ready Markdown and eight-page LaTeX package integrates Module 3 work, selected media, the camp partner-safety lesson, and four evidence-linked figures; not submitted | [Journal package](module3-journal/README.md) | Confirm prompt and media completion, review final PDF, and submit manually |
 | Takeaways | Personalized review draft prepared | [Prompt and response](discussions/README.md#takeaways) | Confirm READ/MEDIA choices and post manually |
 
 ## Portfolio Harvest

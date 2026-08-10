@@ -2,25 +2,84 @@
 
 \citet{peckhamhardin2015behavior} add another important dimension: actions that adults label challenging may be connected to a message that does not yet have a reliable pathway. Functional communication support begins by investigating the purpose, teaching an accessible alternative, and ensuring that partners honor the message. A break message that never produces a break teaches the learner that the new route is less reliable than the action adults are trying to replace. This builds on my submitted paper, \textit{From Compliance to Communication: Prevent--Teach--Reinforce Planning Through Access, Agency, and Richer Evidence}, without recreating its behavior plan \citep{garciabautista2026ptr}. That paper examined how allowing a familiar laptop to coexist with hands-on materials removed an unnecessary either-or condition. Module 3 adds the language and partner question: how could the learner say, ``keep this,'' ``different order,'' ``show me,'' ``not yet,'' or ``I meant something else'' before an adult completes the interpretation?
 
-My posted \textit{AAC Review: TD Snap} made the implementation test concrete \citep{garciabautista2026tdsnap}. TD Snap offers multiple page sets, access routes, editing tools, bilingual Motor Plan options, and printable low-tech materials. Its value is not the number of features. Its value depends on feature matching, personalized vocabulary, backup access, partner practice, and whether the communicator can do more than request. In the fictional plan, Mateo would need Spanish--English vocabulary and family language; Eli would need robust multimodal access; and Luca would need easy access to health, privacy, fatigue, pacing, and repair messages. A classmate's review of the same tool added a useful EQUITAS question by placing customizable photographs beside the recurring subscription cost. Personal photographs can connect AAC to familiar people, activities, and interests; for a culturally and linguistically diverse student, personalization should also protect names, home-language vocabulary, family relationships, humor, and identity. Yet a feature is not accessible if a school can introduce it and the student or family cannot sustain it across home, summer, transitions, or a funding change. The team must decide who will pay, maintain an effective low-tech backup, and ask whether the student's voice remains available when the app or speech output is not.
-
-\begin{figure}[!ht]
+\begin{figure}[!htbp]
 \centering
-\newcommand{\commbox}[2]{%
-  \fcolorbox{PrimaryRed}{SoftBlue}{%
-    \parbox[c][0.68in][c]{1.28in}{\centering\textbf{#1}\\[-0.02in]\small #2}%
-  }%
+\includegraphics[width=0.98\textwidth]{assets/from_evidence_to_support.png}
+\caption{Original public-safe portfolio synthesis from Resource 3 \citep{garciabautista2026portfolio}. De-identified camp images and the student-authored pathway illustrate the PTR cycle from observable evidence to a provisional hypothesis, linked Prevent--Teach--Reinforce supports, and review. The figure visualizes a planning process; it is not a completed functional assessment or proof of behavioral function.}
+\label{fig:ptr-evidence-support}
+\end{figure}
+
+Figure~\ref{fig:ptr-evidence-support} carries the goal of the eight-hour PTR assignment into this journal without repeating the submitted plan. \citet{dunlap2019ptr} require teams to define concerns observably, gather information across contexts, build a provisional and testable hypothesis, link Prevent, Teach, and Reinforce to that hypothesis, and review outcomes and implementation. The visual keeps observation, inference, hypothesis, and support separate. Peckham-Hardin's communication chapter adds the Module 3 test: the taught route must be accessible, and the learner's message must actually produce a meaningful response. Behavior support and AAC therefore meet at the same point: adult interpretation must remain revisable when new communication and response-to-support evidence appear.
+
+My posted \textit{AAC Review: TD Snap} made the implementation test concrete \citep{garciabautista2026tdsnap}. TD Snap offers multiple page sets, access routes, editing tools, bilingual Motor Plan options, and printable low-tech materials. Its value is not the number of features. Its value depends on feature matching, personalized vocabulary, backup access, partner practice, and whether the communicator can do more than request. In the fictional plan, Mateo would need Spanish--English vocabulary and family language; Eli would need robust multimodal access; and Luca would need easy access to health, privacy, fatigue, pacing, and repair messages. In my drafted reply to Avery's TD Snap review, customizable photographs and recurring subscription costs produced a useful EQUITAS comparison. Personal photographs can connect AAC to familiar people, interests, languages, and identities, but a feature is not accessible if a school can introduce it and the student or family cannot sustain it across home, summer, transitions, or a funding change. The team must decide who will pay, preserve a usable low-tech backup, and protect the student's voice when the app or speech output is unavailable.
+
+\begin{figure}[H]
+\centering
+\resizebox{0.99\textwidth}{!}{%
+\begin{tikzpicture}[
+  node distance=0.06in,
+  stage/.style={
+    draw=DeepNavy,
+    rounded corners=2pt,
+    minimum width=1.30in,
+    minimum height=0.34in,
+    text width=1.40in,
+    align=center,
+    font=\scriptsize,
+    inner sep=1pt
+  },
+  flow/.style={
+    -{Latex[length=1.0mm]},
+    line width=0.5pt,
+    draw=PrimaryRed
+  }
+]
+\node[stage, fill=SoftGold] (intent)
+  {\textbf{STUDENT MEANING}\\comment, question, refuse, repair};
+\node[stage, fill=SoftBlue, right=of intent] (access)
+  {\textbf{ACCESS ROUTE}\\touch, gaze, switch, gesture};
+\node[stage, fill=SoftRose, right=of access] (tool)
+  {\textbf{TOOL / DISPLAY}\\TD Snap, board, visual model};
+\node[stage, fill=SoftGray, right=of tool] (partner)
+  {\textbf{PARTNER}\\model, wait, notice, confirm};
+\node[stage, fill=SoftGold, right=of partner] (agency)
+  {\textbf{AGENCY}\\message changes what happens};
+\draw[flow] (intent) -- (access);
+\draw[flow] (access) -- (tool);
+\draw[flow] (tool) -- (partner);
+\draw[flow] (partner) -- (agency);
+\node[
+  draw=MidTeal,
+  fill=SoftGreen,
+  rounded corners=2pt,
+  below=0.10in of tool,
+  text width=5.25in,
+  align=center,
+  font=\scriptsize,
+  inner sep=1pt
+] (conditions)
+{\textbf{Conditions that travel with the system:}
+preference + consent $\bullet$ identity + language $\bullet$ low-tech backup $\bullet$ partner + technical support};
+\node[
+  draw=PrimaryRed,
+  dashed,
+  rounded corners=2pt,
+  below=0.06in of conditions,
+  text width=6.25in,
+  align=center,
+  font=\scriptsize,
+  inner sep=3pt
+] (equitas)
+{\textbf{EQUITAS test:}
+Can the student choose, refuse, comment, question, repair, revise, participate, and influence what happens next?
+If not, revise the system---not the student.};
+\end{tikzpicture}%
 }
-\commbox{Student Meaning}{comment, question, refusal, repair}
-\hspace{0.03in}{\color{PrimaryRed}$\longrightarrow$}\hspace{0.03in}
-\commbox{Access Route}{touch, gaze, gesture, symbol, text}
-\hspace{0.03in}{\color{PrimaryRed}$\longrightarrow$}\hspace{0.03in}
-\commbox{Partner Practice}{model, wait, notice, confirm, act}
-\hspace{0.03in}{\color{PrimaryRed}$\longrightarrow$}\hspace{0.03in}
-\commbox{Agency}{message changes what happens next}
-\caption{My Module 3 access-to-agency synthesis. A device is one route inside a communication system; authorship depends on matched access and a partner response that lets the message matter.}
+\caption{Adapted from my Communication and Behavioral Support Portfolio Resource 6 \citep{garciabautista2026portfolio}. Meaning, access, tool or display, partner practice, and agency form one communication system; preference, consent, identity, language, backup access, and implementation must travel with it.}
 \label{fig:access-to-agency}
 \end{figure}
+
+Figure~\ref{fig:access-to-agency} brings the goals of the Module 3 assignments together. The AAC Review asks what a tool makes possible and what may restrict it. The Communication Support Plan asks how strategies will work across an actual day. The journal asks what makes communication meaningful. \citet{mirenda2015aids} supports multiple aided and unaided routes; \citet{downing2015classroom} places communication opportunities and partners inside real routines; and \citet{norrie2021context} shows why training, technical support, staffing, and continuity are not side issues. The pathway fails if any one part is unavailable. A powerful device cannot compensate for a partner who ignores refusal, and a caring partner cannot provide vocabulary or an access route the student does not have. The EQUITAS test is therefore practical: if a student cannot choose, refuse, comment, question, repair, revise, participate, and influence what happens next, the system needs revision.
 
 \reviewsection{Puzzle Plan, EQUITAS, and Evidence Justice}
 
