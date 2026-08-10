@@ -97,20 +97,20 @@ Peers learn four actions: **invite, wait, ask, and respect**. They invite a real
 
 ## Student-Centered Bilingual Home-School Record
 
-This plan uses a record that carries student meaning, language, context, health access, and family knowledge across settings.
+This plan uses a record that carries student meaning, language, context, health access, and family knowledge across settings. Rather than leave the form blank, this worked example simulates one day for Mateo by recombining conditions and supports from the shared evidence pool. It is not an observed child's record or verbatim student/family language. In practice, the student and family would author, revise, and approve the entry.
 
-| Field | Student-centered entry |
+| Field | Simulated student-centered entry: Mateo |
 | --- | --- |
-| Student-authored or student-approved message to home |  |
-| Language(s), communication mode(s), and health/access status |  |
-| Activity and environmental conditions |  |
-| What the student chose, refused, asked, commented, taught, repaired, or protected |  |
-| Support that increased access |  |
-| Barrier or condition to change tomorrow |  |
-| Question, unfinished idea, or re-entry need after absence |  |
-| New vocabulary needed in Spanish, English, health access, sensory access, or repair |  |
-| Family message, vocabulary, context, or question for school |  |
-| Student reviewed outgoing message | approved / changed / restricted / chose not to send |
+| Student-authored or student-approved message to home | *Hoy organicé / Today I organized* our photographs by day and activity. I want to compare how our ideas changed and choose the center message before anything is glued. |
+| Language(s), communication mode(s), and health/access status | Spanish and English; bilingual AAC/typing, pointing, gesture, and photographs. Selected *tired + slower*; speech not required; device and printed backup available. |
+| Activity and environmental conditions | Small-group STEM showcase planning with movable photographs, day/activity labels, trifold, visual model, and samples; staffing handoff changed after the activity began. |
+| What the student chose, refused, asked, commented, taught, repaired, or protected | Chose evidence organizer; asked *¿Cuál va primero?/which comes first?*; commented on change across days; refused an adult-selected center; repaired with *not that/todavía no*; protected extra planning time. |
+| Support that increased access | First/next/last sequence; bilingual labels; role choice; ten-second wait; movable materials; partner modeled once, then asked; AAC, photographs, and pointing accepted; adult confirmed before acting. |
+| Barrier or condition to change tomorrow | Unclear adult handoff and an irreversible layout decision before student approval. Tomorrow: two-minute re-brief, decision owner named, and no glue/save/submit until Mateo approves. |
+| Question, unfinished idea, or re-entry need after absence | Can I compare Day 1 with Day 5 before selecting the center? Resume from the saved movable layout after rest or absence; do not restart from an adult-selected design. |
+| New vocabulary needed in Spanish, English, health access, sensory access, or repair | *data/datos; evidence/evidencia; sequence/secuencia; center/centro; move/mover; keep/dejar; not yet/todavía no; you misunderstood/me entendiste mal; tired/cansado; break/descanso.* |
+| Family message, vocabulary, context, or question for school | Simulated family contribution: *todavía no* often means "not yet," not permanent refusal. Keep choices visible and send the photo sequence for discussion in Spanish at home. |
+| Student reviewed outgoing message | **Changed:** adult summary replaced with Mateo's bilingual message. **Restricted:** pain detail stays with Mateo, family, and designated staff. **Approved:** project message, selected photograph, and question. |
 
 Family knowledge can change vocabulary, materials, sensory planning, examples, routines, health-aware pacing, and goals. Families can respond through Spanish, English, another language, photographs, audio, written notes, or another accessible form. The student helps decide what information travels between settings.
 
